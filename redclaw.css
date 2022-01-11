@@ -1,0 +1,90 @@
+body, td, div, p, i, h1
+{
+	font-family: verdana,arial,helvetica,sans-serif; 
+	font-size: 13px;
+	text-decoration: none;
+	color: #000000;
+}	
+
+body
+{
+	margin : 10px;	
+	background-color: #FFFFFF; 
+}
+
+.side
+{
+	font-size: 11px;
+}
+
+.title
+{
+	font-family: arial,verdana,helvetica,sans-serif; 
+	font-size: 16px;
+	color: #517F9C;
+	font-weight: bold;
+}
+
+a
+{
+	text-decoration: none;
+	color: #0000FF;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+a.menu
+{
+	font-family: arial,verdana,helvetica,sans-serif; 
+	font-size: 10pt;
+	color: #000000;
+	font-weight: bold;
+}
+
+a.menu:hover
+{
+	text-decoration: none;
+	color: #ff0000;
+}
+
+.box
+{
+	background-color: #D6E3F7;
+	border: solid 1px #999999;
+}
+
+.box2
+{
+	background-color: #D6E3F7;
+	border: solid 1px #000000;
+}
+
+.box3
+{
+	border-left: solid 1px #000000;
+	border-bottom: solid 1px #000000;
+}
+	
+.box4
+{
+	border-left: solid 1px #000000;
+	border-right: solid 1px #000000;
+	border-bottom: solid 1px #000000;
+}
+
+.box5
+{
+	background-color: #D6E3F7;
+	border-left: solid 1px #000000;
+	border-right: solid 1px #000000;
+	border-top: solid 1px #000000;
+	padding-bottom: 2px;
+}
+
+.rows
+{
+	border-bottom: solid 1px #000000;
+}

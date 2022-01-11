@@ -1,0 +1,540 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Puzzle Downloads-Redclawsoftware.com</title>
+		<style type="text/css">
+			 .img { 			
+				margin:8px;
+				border:1px solid #ff5c01; 
+			}
+			.in-page { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.in-page li { 
+				margin:0px;
+				padding:4px 5px; 
+				background:url(http://pics.cnomy.com/287/pointer.gif) no-repeat -3px 7px; 
+				list-style:none;
+				border-bottom:1px solid #ccc;
+				text-align:left;
+				color:#666;
+				font-weight:bold; 
+			}
+			.in-page li a { 			
+				text-align:left;
+				color:#666;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.in-page li a:hover { 			
+				color:#000;
+				text-decoration:none; 
+			}
+			.in-page ul { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.inpage { 
+				margin:0px;
+				padding:4px 2px 1px 45px;
+				font-size:11px;
+				color:#333;
+				text-align:left;		
+				line-height:16px; 
+			}
+			.inpage a { 
+				font-size:11px;	
+				color:#8c9357;	
+				text-align:left;
+				text-decoration:underline;		
+				font-style: italic; 
+			}
+			.inpage a:hover { 			
+				color:#666;
+				text-decoration:underline; 
+			}
+			.inpage-head { 
+				margin:0px;
+				padding:4px 2px 1px 45px;
+				color:#80433A;
+				font-size:16px;
+				background: url(http://pics.cnomy.com/287/inpage-arrow.gif) no-repeat 5px 5px;
+				font-weight:bold;text-align:left; 
+				text-decoration:none;
+			}
+			.inpage-top { 
+				margin:0px;
+				padding:8px 5px;
+				color:#666;
+				font-size:14px;
+				font-weight:bold;	
+				text-align:left; 
+			}
+			.inpage-top a { 
+				margin:0px;
+				padding:10px 6px;
+				color:#000;	
+				font-size:11px;	
+				font-weight:bold; 
+				text-decoration:none; 
+			}
+			.inpage-top a:hover { 			
+				color:#666;
+				text-decoration:underline; 
+			}
+			.result-text { 			
+				margin:0px;
+				padding:10px 7px;
+				color:#fff;
+				font-size:12px;
+				font-weight:bold;
+				text-align:left;
+				background: #333;
+				border-bottom: 1px solid #fff;
+			}
+			.result-text a { 		
+				color:#fff;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.result-text a:hover { 			
+				color:#fff;
+				text-decoration:underline; 
+			}
+			.result-text-index { 
+				margin:0px;
+				padding:12px 7px;
+				color:#fff;	
+				font-size:12px;	
+				font-weight:bold;
+				text-align:left;
+				background: #333;
+				border-bottom: 1px solid #fff;	
+				border-right: 1px solid #fff; 
+			}
+			.result-text-index a { 			
+				color:#fff;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.result-text-index a:hover { 			
+				color:#fff;
+				text-decoration:underline; 
+			}
+			.sidebar { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.sidebar .bottom { 			
+				background: url(http://pics.cnomy.com/287/sidebar-bottom.gif) #eee no-repeat right bottom;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar .top { 
+				background: url(http://pics.cnomy.com/287/sidebar-top.gif) #eee no-repeat left top;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar li { 
+				margin:0px;padding:3px 12px;
+				background: url(http://pics.cnomy.com/287/sidebar-li.gif) no-repeat 5px 5px;			
+				list-style:none;
+				border-bottom:2px solid #fff;
+				text-align:left;
+				color:#666; 
+			}
+			.sidebar li a { 			
+				text-align:left;
+				color:#666;
+				text-decoration:none;
+				font-weight:bold; 
+			}
+			.sidebar li a:hover { 			
+				color:#000;
+				text-decoration:underline; 
+			}
+			.sidebar ul { 			
+				margin:0px;
+				padding:0px;
+				background:#eee;
+				border:none; 
+			}
+			.sidebar-results { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.sidebar-results .bottom { 
+				background: url(http://pics.cnomy.com/287/sidebar-bottom.gif) #eee no-repeat right bottom;	
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar-results .top { 			
+				background: url(http://pics.cnomy.com/287/sidebar-top.gif) #eee no-repeat left top;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar-results li { 
+				margin:0px;
+				padding:3px 12px;
+				background: url(http://pics.cnomy.com/287/pointer.gif) #eee no-repeat 5px 5px;	
+				list-style:none;
+				border-bottom:2px solid #fff;	
+				text-align:left;
+				color:#666; 
+			}
+			.sidebar-results li a { 
+				text-align:left;
+				color:#666;
+				text-decoration:none;
+				font-weight:bold;
+				margin-left: 2px;
+				display: block; 
+			}
+			.sidebar-results li a:hover { 		
+				color:#000;
+				text-decoration:underline; 
+			}
+			.sidebar-results ul { 			
+				margin:0px;
+				padding:0px;
+				background:#eee;
+				border:none; 
+			}
+			.style1 { 			
+				font-size: 14px;
+				font-weight: bold;
+				font-style: italic; 
+			}
+			.style2 { 			
+				font-size: 12px;
+				font-weight: bold; 
+			}
+			.style3 { 
+				color: #000000 
+			}
+			.table-border { 
+				border-bottom:2px solid #e0e0e0;
+				border-right:2px solid #e0e0e0;
+				border-left:2px solid #e0e0e0;	
+				background:#fff;width:752px 
+			}
+			a { 			
+				text-decoration:underline;
+				color:#666666; 
+			}
+			a:hover { 			
+				text-decoration:underline;
+				color:#000; 
+			}
+			body { 
+				margin:0px;
+				font-family:Verdana, Arial, Helvetica, sans-serif;
+				font-size:11px;
+				color:#666666; 
+			}
+			#wrapper { 
+				background:url(http://pics.cnomy.com/287/body-bg.gif) repeat-x center -27px; 
+			}
+			form { 			
+				margin:0px;
+				padding:0px; 
+			}
+			h2 { 
+				margin:0px;
+				padding:0px 10px;
+				font-size:16px;
+				color:#000;
+				font-weight:bold;	
+				text-align:left; 
+			}
+			h3 { 
+				margin:5px;
+				color:#b18f8a;
+				font-size:14px;
+				font-weight:bold;
+				text-align:left;			
+				font-style: oblique; 
+			}
+			li { 
+				margin:0px;
+				padding:2px 1px 4px 20px;
+				background: url(http://pics.cnomy.com/287/li.gif) no-repeat 2px 3px;	
+				list-style:none;
+				text-align:left; 
+			}
+			p { 			
+				margin:0px;
+				padding:4px 2px 2px 5px; 
+			}
+			table { 
+				margin:0px;
+				padding:0px;	
+				font-family:Verdana, Arial, Helvetica, sans-serif;			
+				font-size:11px;	
+				color:#666666;	
+				text-align:left;
+			}
+			ul { 			
+				margin:0px;
+				padding:0px; 
+			}
+		</style>
+		<script language="JavaScript" type="text/javascript" src="http://js.cnomy.com/templates.js">
+		</script>
+	</head>
+
+	<body onload="showPopunder('http://www.redclawsoftware.com/popunder?q=Puzzle+Downloads&pt=2&vid=1184932119_1X02X1314774600&rpt=2');" onunload="">		<!-- custom message start -->
+				<!-- custom message end -->
+
+		<div style="visibility:hidden;display:none;" id="divSponAds"> <form name="frmSponsAds" id="frmSponsAds" method="POST" action="" target="_blank"><input type="hidden" name="params" id="params"></form></div>			<div id="wrapper">
+				<div align="center">
+										<!-- PAGE HEADER -->
+					<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+						<tr>
+							<td valign="bottom" align="left" height="56">
+								<a href="http://www.Redclawsoftware.com" style="text-decoration: none;">
+									<span style="font-family: Tahoma,arial;font-size: 20pt;font-weight: bold; color: #333333; letter-spacing: -1px;"><i>Redclawsoftware.com</i></span>
+								</a>
+								<br><br>
+							</td>
+							<td>
+								<form name="searchform1"  onsubmit="return submitSearch('searchform1', 1, 'pt=2&vid=1184932119_1X02X1314774600&rpt=2')" method="post" >
+									<div align="right">
+									<small style="padding-right: 220px;font-size: 11px;">Enter Search Term!</small><br>
+									<input name="q" type="text" onClick="clearSearchText(this)"  size="35" />
+									<input value="Search!" name="B1" style="width: 101px; font-family: verdana; font-size: 10px; font-weight: bold; background-color: #eee;" type="submit">
+									</div>
+								</form>
+							</td>
+						</tr>
+					</table>
+					<!-- /PAGE HEADER -->
+										<!-- PAGE DETAILS -->
+					<div class="table-border">
+						<table width="752"  border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#eeeeee">
+							<tr>
+								<td width="23" height="35" valign="top"> </td>
+								<td width="534" valign="bottom" bgcolor="eeeeee">Sponsored Results:</td>
+								<td width="177" valign="bottom" bgcolor="eeeeee">Relevant Links:</td>
+							</tr>
+						</table>
+												<div class="next">
+							<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+								<td valign="top">
+									<table width="100%"  border="0" cellspacing="0" cellpadding="5">
+										<tr>
+											<td width="75%" valign="top">
+																									
+													<div><a href="#" onmouseover="changeStatus('PuzzlesUSA.com Shop Now');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC48sqZAl8BynaCKtzGVf/AGHIWuB8yvZf7U/1tEIrtCvmcZQPgf7BQJ3roQ4dPr+m2q6AgKRcX9GJPk4UIX5Ag/HJ6Qhl8mvI8ndFJ04XeeISMoea+7TvICoq7ytcrmW6FkXxUb4zytxuyEAx02BqviKT/1OQUCwQ9IgWanPgl3UQe1JwKO04mDNGRryuPqJZUnJnoNiSZo7gDT/Tl0D0YJ1XKkNFlL8M/Kt9u04cg3Qcb4sflmXbuNodXh/u9WT2NvjPftig355t5LfnmmrmEnRoKYseifNzAVl1cpQd3je8+rj1ML1IYuv3i5B1q2kXn6eUBc0upW9AJiJy/btLWacaLYy83FO4HYXPEwvQ+qjwiAZ1TxufqLHZpuEXMI8uguD5mD59X86ETZIt/2DhJqiK6vu2dBi67hfUh+RQ2qwwS4mhP0w8Hzq4lyJRpzFyH3+nlkkRj4s/ebGzHWuTKZLnSGGz9ilF5cUZ/WpDI3/zoPqhbXlpyT/kRp/CEnTyoFOZaYn/LdIEtXT4T70UWaqASjzLyDXq/5XiDpFlA96bHlGkms4PFiUK0mpEG3HHjSv0mLPzRJ2C45uxBDFAiQ8PpkpNX7QncZTVZnGXrDL6ArWKlgLeGDiFg/boncemI6MyrwBAV7Lm3FVCOfkwJNQlhdiKlZ1cyoT5bLY2293Lho+HIueFub+8ZGqSpIAroIThRO0S6v3TJAY3swncJr9WqBQw60nxQYp9f5wt0tj5ot7lhXQrBe76FnWRPVo80VSxJjkXdo2eJfjhz469Gi5ewViflR1fceLsuCoVEDdQgWAhKlyEbcNnEOVs7kU1YsePtnZIQoiDvkMkcawPZo6RVbJ3F1Rlfe8vhIFDrOMQIkFE/ymBwL7mvEh1r5+HCnNLh/dGnmDHG4gd/DLapcac5A/fsd+ggtueJvZ8xGPcnnA4a6TTY475ExyOB1LjQ0ouWD6WpZIpsSKC7g3oFYcf96QERILRbm0tOcopP0joW//XU3a5v5S9D98UngQVkhjW00STldUByccSqoRTlia8HDFhQbut3SsNfm7Mox264PqcJibYiuXfJKrLqOfMcouV90nI7R0SmHkxo6Q1HHja3aqfl+IEbFDwiD694fGDKGq5NGw0WidgnYTwnPlqBjE4Mcqv1/3z3hnefBTG45WssAFgoHSVQ31goPZn2eRWZpeW8CgKXhWSh8iEYKOsoKYtAGbIpIwvgtbtdl/25SfUj/JsduTR6K3Jqzbmcck3uNECRVGxKzqiCNzjKXKuulpLnHfDYBiEfZbDJFWUl7q9RQXwssVe45G0Hl6d5Vk/ODThvcttEfgijnF8H1mORWFjHfAQKOQs18tVJoBS3Sq6FETXLENq30dpX1uErY=')" class="inpage-head" >PuzzlesUSA.com Shop Now</a></div>
+													
+														<div class="inpage">Toll Free Ordering (888) 267-6096 The Largest Selection of Puzzles														<br />
+														<a href="#" onmouseover="changeStatus('PuzzlesUSA.com Shop Now');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC48sqZAl8BynaCKtzGVf/AGHIWuB8yvZf7U/1tEIrtCvmcZQPgf7BQJ3roQ4dPr+m2q6AgKRcX9GJPk4UIX5Ag/HJ6Qhl8mvI8ndFJ04XeeISMoea+7TvICoq7ytcrmW6FkXxUb4zytxuyEAx02BqviKT/1OQUCwQ9IgWanPgl3UQe1JwKO04mDNGRryuPqJZUnJnoNiSZo7gDT/Tl0D0YJ1XKkNFlL8M/Kt9u04cg3Qcb4sflmXbuNodXh/u9WT2NvjPftig355t5LfnmmrmEnRoKYseifNzAVl1cpQd3je8+rj1ML1IYuv3i5B1q2kXn6eUBc0upW9AJiJy/btLWacaLYy83FO4HYXPEwvQ+qjwiAZ1TxufqLHZpuEXMI8uguD5mD59X86ETZIt/2DhJqiK6vu2dBi67hfUh+RQ2qwwS4mhP0w8Hzq4lyJRpzFyH3+nlkkRj4s/ebGzHWuTKZLnSGGz9ilF5cUZ/WpDI3/zoPqhbXlpyT/kRp/CEnTyoFOZaYn/LdIEtXT4T70UWaqASjzLyDXq/5XiDpFlA96bHlGkms4PFiUK0mpEG3HHjSv0mLPzRJ2C45uxBDFAiQ8PpkpNX7QncZTVZnGXrDL6ArWKlgLeGDiFg/boncemI6MyrwBAV7Lm3FVCOfkwJNQlhdiKlZ1cyoT5bLY2293Lho+HIueFub+8ZGqSpIAroIThRO0S6v3TJAY3swncJr9WqBQw60nxQYp9f5wt0tj5ot7lhXQrBe76FnWRPVo80VSxJjkXdo2eJfjhz469Gi5ewViflR1fceLsuCoVEDdQgWAhKlyEbcNnEOVs7kU1YsePtnZIQoiDvkMkcawPZo6RVbJ3F1Rlfe8vhIFDrOMQIkFE/ymBwL7mvEh1r5+HCnNLh/dGnmDHG4gd/DLapcac5A/fsd+ggtueJvZ8xGPcnnA4a6TTY475ExyOB1LjQ0ouWD6WpZIpsSKC7g3oFYcf96QERILRbm0tOcopP0joW//XU3a5v5S9D98UngQVkhjW00STldUByccSqoRTlia8HDFhQbut3SsNfm7Mox264PqcJibYiuXfJKrLqOfMcouV90nI7R0SmHkxo6Q1HHja3aqfl+IEbFDwiD694fGDKGq5NGw0WidgnYTwnPlqBjE4Mcqv1/3z3hnefBTG45WssAFgoHSVQ31goPZn2eRWZpeW8CgKXhWSh8iEYKOsoKYtAGbIpIwvgtbtdl/25SfUj/JsduTR6K3Jqzbmcck3uNECRVGxKzqiCNzjKXKuulpLnHfDYBiEfZbDJFWUl7q9RQXwssVe45G0Hl6d5Vk/ODThvcttEfgijnF8H1mORWFjHfAQKOQs18tVJoBS3Sq6FETXLENq30dpX1uErY=')"  >www.PuzzlesUSA.com</a></div>
+																				
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Jigsaw Puzzles On Sale');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC44sqZAl8BynZ5r8EEjzX/bRe/IShWWgVLDSTXumucrKMoJzY//wzb0nkbwdvutOGRKuu0zmfTOZvS7Ou5FQNmg8o7osl/stG29vHN7axadA4D94y6qDZlpxYsuYHCB8RoELL/AfSyUmNzUIXNeOUJkC3TQZtL81tSaE1VAYv8O0MEyh/XyqpiJWfz/5Siutu76pSQjo1msLXCpJxjDTykRNU98sJlg99FwcVqo5BMplkTjUeIHj4tEUAzbErSYuyMmH1KuSRpcbNnr5LD1hmN5F8iroYZIVe5kuMviPCP5QzQIrkJ1dMZYJHyujsrk3cu1Rfwl4Z/hDIQ5jvSobGlFHzQsoDz64TOECdgW64bYUsxr/1Efjww09iP0/3z5gPkQTHOV++FrdfrT5njedwY4GrhSjORQpnxdV4vd8gPI9k+9Fkn+MsdcwU4ntssE2JrWcXkYwheIFjYCWydd6YOy3uLj186MHOVsNUVvtHzJu7imVq9nP9LZawyxF9C4B6wfrcmN/QfF47eZVvi9cHmFm/HUQwtJ6HE7XJnxKRcohw3HQz223W2ATFp2/JW/3l6BrQ5bGqDsprUdqdjolSaYSGJKlSsgDFCGsVFDpN9CRMV6Zt3CbfGUjl9MbdW+jZmjyTvBDHxEj22sfyntAYrL4XCd76SmmS4D6JWyaaQzq9IeGlE7eEGPZcy0MBLpA27m2W4usAnRdZp1VuuWZ2KDT92eo5x3EVHTZJeHyrwtnTOaZq90gOqiU1O2E8uxfbPf5GZUzf8qmPKLqZgcd+PaVQYGF53dSxkqvogG45PrdMJOIoWlqswA+e1jzOW+eVDpP+W76AkbxrI652WwSGVnWvf9sA35z4u9lNY98hazMZ7ePBwag/m8lVpHqqMrMmhCVAVyixncOCvGyoKyF8Phb9vNr09MV/36OJbxWr8YH0c+z5bD2WD7FZ8I8hGyiU+o9dQZD3Bn5iEsgw6nUbI+W1STrLlJ1+JTg/19EFMIYKYrTH4NusVbEH28pTDQCQzy9RW7QA5enJsL06SylBnMlM6ZT/FexWQv61OdmKJhpQ79+2fHYof2I/leU6bPrFj+T6HgWqU4neUQFbDRjJd2az4863FgXgX5EM9Utuyw9R2Sjs1AU1vmtkW4I6dN3ZuspbULbPuapfQPpzjBXGUkFmeRABe5WsxvFHhDRSmjLRfF/P8Xbs6OWdPfdiz4kCi5I+YOtj3Yge9OXRRkZEL1sTzU3wK81ww/yeiP1zIvc4qGVOMLlFQ472UcRlSGWmA6I83GoKpj+xzGEJD6pPyQEHiiiGwpqnpbmi8ULRk81DlzATwOFN3yM6gi5w57ReS28Gs/py9a6kBXhKRz1GI8yPSlSrqRVY10l1ufCyltGGmiEQWuW2DWdRSKfePC9X28hkQ==')" class="inpage-head" >Jigsaw Puzzles On Sale</a></div>
+													
+														<div class="inpage">30-70% off +addt&#39;l 10% on $45 Order $85 orders get Free shipping!														<br />
+														<a href="#" onmouseover="changeStatus('Jigsaw Puzzles On Sale');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC44sqZAl8BynZ5r8EEjzX/bRe/IShWWgVLDSTXumucrKMoJzY//wzb0nkbwdvutOGRKuu0zmfTOZvS7Ou5FQNmg8o7osl/stG29vHN7axadA4D94y6qDZlpxYsuYHCB8RoELL/AfSyUmNzUIXNeOUJkC3TQZtL81tSaE1VAYv8O0MEyh/XyqpiJWfz/5Siutu76pSQjo1msLXCpJxjDTykRNU98sJlg99FwcVqo5BMplkTjUeIHj4tEUAzbErSYuyMmH1KuSRpcbNnr5LD1hmN5F8iroYZIVe5kuMviPCP5QzQIrkJ1dMZYJHyujsrk3cu1Rfwl4Z/hDIQ5jvSobGlFHzQsoDz64TOECdgW64bYUsxr/1Efjww09iP0/3z5gPkQTHOV++FrdfrT5njedwY4GrhSjORQpnxdV4vd8gPI9k+9Fkn+MsdcwU4ntssE2JrWcXkYwheIFjYCWydd6YOy3uLj186MHOVsNUVvtHzJu7imVq9nP9LZawyxF9C4B6wfrcmN/QfF47eZVvi9cHmFm/HUQwtJ6HE7XJnxKRcohw3HQz223W2ATFp2/JW/3l6BrQ5bGqDsprUdqdjolSaYSGJKlSsgDFCGsVFDpN9CRMV6Zt3CbfGUjl9MbdW+jZmjyTvBDHxEj22sfyntAYrL4XCd76SmmS4D6JWyaaQzq9IeGlE7eEGPZcy0MBLpA27m2W4usAnRdZp1VuuWZ2KDT92eo5x3EVHTZJeHyrwtnTOaZq90gOqiU1O2E8uxfbPf5GZUzf8qmPKLqZgcd+PaVQYGF53dSxkqvogG45PrdMJOIoWlqswA+e1jzOW+eVDpP+W76AkbxrI652WwSGVnWvf9sA35z4u9lNY98hazMZ7ePBwag/m8lVpHqqMrMmhCVAVyixncOCvGyoKyF8Phb9vNr09MV/36OJbxWr8YH0c+z5bD2WD7FZ8I8hGyiU+o9dQZD3Bn5iEsgw6nUbI+W1STrLlJ1+JTg/19EFMIYKYrTH4NusVbEH28pTDQCQzy9RW7QA5enJsL06SylBnMlM6ZT/FexWQv61OdmKJhpQ79+2fHYof2I/leU6bPrFj+T6HgWqU4neUQFbDRjJd2az4863FgXgX5EM9Utuyw9R2Sjs1AU1vmtkW4I6dN3ZuspbULbPuapfQPpzjBXGUkFmeRABe5WsxvFHhDRSmjLRfF/P8Xbs6OWdPfdiz4kCi5I+YOtj3Yge9OXRRkZEL1sTzU3wK81ww/yeiP1zIvc4qGVOMLlFQ472UcRlSGWmA6I83GoKpj+xzGEJD6pPyQEHiiiGwpqnpbmi8ULRk81DlzATwOFN3yM6gi5w57ReS28Gs/py9a6kBXhKRz1GI8yPSlSrqRVY10l1ufCyltGGmiEQWuW2DWdRSKfePC9X28hkQ==')"  >www.PuzzleWarehouse.com</a></div>
+																			
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Download PC Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC40sqZAl8Byn55Z5s0orAxWFQ7qOQFABKLlcV5sDQakg1TzOLo1TyNoywkg9q15zeVY5mnMJqm9DClDb3ZT2fKcimJdoQLQlvqpGP/965djlSY1SbZF1bKPSVNuquKxAR6FgQNEM2prQET/FAqKFLnUYf7C6/CK6uvCgbNJ+KWSPygNsDV4ezgJkP9rldaXEl/6WMSE/1iTnjqoeGj9v+LpFLn71LNPdSJ8hXQ9OGosm6RxtSzwbX/bGgGOEcRMhvwIEXS/nKg0yRe3lDU9gN7gDOumztrRW8zJM/Y4XXQhc3xOkYlf/hHzHb1UCnA7JDrp8dldu8WtWEBjBK4wv7xSPiXUiPrE7rbphWcrXOnVX6LzwS5g1DLDrAWwzx/PGtWL/LXhNAWWyw5lKCUUBP7rGiT3UADeJRB6WbjS7n57Ns3HS740pbucnCxX0a99Zmz36ofYvH0V/SbswZJONBPl/JJuxwemo+7TEZEWhLztYanNu8HpsaJVx+vvKYkhmrRxaIXS/Hnfe+bapvdGAdM2ZVDdGSs2w9JvavpZ02mhIgzlpOfnraOqoNUCvtV26MUhdFN7xqLNB+mFQ3ZZOyIIJnoLkOWzhuCNZXKCbt/y/sdSXnnUvfMwU4CeenffFypVkTZjbOg7Pi1ac76g7b97CFAdQD2tUXRLjX3gU3Ni+kIvZPq5CP+kwJqGiYvge3cN2jSk9Txov+XLMljqnt7LV3rWvr6XV1FQ/tCfFecfRt5fRXLSU8n+AWzCVJywE5t2lcXg/tio7y3CeFP16wPWD2J4vq0LBpdg1iTmAM+JeAmwuXqsZ3Ii+l42Me404JVodo0n+kXIswSPpMe4YzWW184Mvntc3V2JFpVKlMJNPdIvRGefpUFh1nUii6rjtAtce8NhRynuq5o2LfNWJof04ZxPD3z67tG+XqH0QsW1AqO7zqP34w309yxDvT54oSbR/U/XUtAll0U147ueyWi7ZnZcUhMB9EgkwVZLHc3QBULFPASchy71YC2SG2ay3chmFV37BWXDfme0YBIFdFST92WOIHubTwgBa9MXs9ZrC3m/mxDlOGIEBg8mhIIxz+DFxJ49YpGJvcOh1zIPcbYQ9/EBYrr4t0hAMRQjORc9Y//JckbNjNzzdWUeJAVV2pI9joHY8tbi1RkacTnq9zMBj+u103yteLrI2MmOk8cXDVbYgO6QKIRwJI1T2ibe5642ltaqxNjrMm3uYKxzcoELxmRMUHHLW+Hb59rHJdOjCZrkSO4ndaLeGK8c0Itp/rz849V/wVC7dkKqUz2DgZymkLmyXyeLX1YT5mOMkLq/RS+V/a9C0ZhJke36IdZzKDzOrNPULCTPlmkmiE4CeDRxPVy9HkwE7zJ6v+KgOyrWzK8pLjy5vpJX4F2FFmTKkhmVj98Y3uFrtA++TyjFUruLYx+MoJK8yidXG3qDxQ250JhYRLQ==')" class="inpage-head" >Download PC Games</a></div>
+													
+														<div class="inpage">Full Versions Games Available Download Straight To Your PC Now.														<br />
+														<a href="#" onmouseover="changeStatus('Download PC Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC40sqZAl8Byn55Z5s0orAxWFQ7qOQFABKLlcV5sDQakg1TzOLo1TyNoywkg9q15zeVY5mnMJqm9DClDb3ZT2fKcimJdoQLQlvqpGP/965djlSY1SbZF1bKPSVNuquKxAR6FgQNEM2prQET/FAqKFLnUYf7C6/CK6uvCgbNJ+KWSPygNsDV4ezgJkP9rldaXEl/6WMSE/1iTnjqoeGj9v+LpFLn71LNPdSJ8hXQ9OGosm6RxtSzwbX/bGgGOEcRMhvwIEXS/nKg0yRe3lDU9gN7gDOumztrRW8zJM/Y4XXQhc3xOkYlf/hHzHb1UCnA7JDrp8dldu8WtWEBjBK4wv7xSPiXUiPrE7rbphWcrXOnVX6LzwS5g1DLDrAWwzx/PGtWL/LXhNAWWyw5lKCUUBP7rGiT3UADeJRB6WbjS7n57Ns3HS740pbucnCxX0a99Zmz36ofYvH0V/SbswZJONBPl/JJuxwemo+7TEZEWhLztYanNu8HpsaJVx+vvKYkhmrRxaIXS/Hnfe+bapvdGAdM2ZVDdGSs2w9JvavpZ02mhIgzlpOfnraOqoNUCvtV26MUhdFN7xqLNB+mFQ3ZZOyIIJnoLkOWzhuCNZXKCbt/y/sdSXnnUvfMwU4CeenffFypVkTZjbOg7Pi1ac76g7b97CFAdQD2tUXRLjX3gU3Ni+kIvZPq5CP+kwJqGiYvge3cN2jSk9Txov+XLMljqnt7LV3rWvr6XV1FQ/tCfFecfRt5fRXLSU8n+AWzCVJywE5t2lcXg/tio7y3CeFP16wPWD2J4vq0LBpdg1iTmAM+JeAmwuXqsZ3Ii+l42Me404JVodo0n+kXIswSPpMe4YzWW184Mvntc3V2JFpVKlMJNPdIvRGefpUFh1nUii6rjtAtce8NhRynuq5o2LfNWJof04ZxPD3z67tG+XqH0QsW1AqO7zqP34w309yxDvT54oSbR/U/XUtAll0U147ueyWi7ZnZcUhMB9EgkwVZLHc3QBULFPASchy71YC2SG2ay3chmFV37BWXDfme0YBIFdFST92WOIHubTwgBa9MXs9ZrC3m/mxDlOGIEBg8mhIIxz+DFxJ49YpGJvcOh1zIPcbYQ9/EBYrr4t0hAMRQjORc9Y//JckbNjNzzdWUeJAVV2pI9joHY8tbi1RkacTnq9zMBj+u103yteLrI2MmOk8cXDVbYgO6QKIRwJI1T2ibe5642ltaqxNjrMm3uYKxzcoELxmRMUHHLW+Hb59rHJdOjCZrkSO4ndaLeGK8c0Itp/rz849V/wVC7dkKqUz2DgZymkLmyXyeLX1YT5mOMkLq/RS+V/a9C0ZhJke36IdZzKDzOrNPULCTPlmkmiE4CeDRxPVy9HkwE7zJ6v+KgOyrWzK8pLjy5vpJX4F2FFmTKkhmVj98Y3uFrtA++TyjFUruLYx+MoJK8yidXG3qDxQ250JhYRLQ==')" >www.Direct2Drive.com</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div> <a href="#" onmouseover="changeStatus('The Times Crosswords');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4wsqZAl8BynTrKFS0vbHc145ZcGnNey54upmymKkOulk1i0niFj7vpbzLdX5VEiuuEPaR/DjW4Nmu5KX+pBl2nZEF5mKhcEsnIrlKBcGEMoiaA3WwyM9pi8I0FcQGH3ogeV8Gbb7kGWL2Zpy2mBJLq3SLyzHYL2/iiIcjAEDd5X2vwwtdBG2rWmsDV6H7E00pPxRoffkwAbO0i/h+iZ+qbqcDs4t9TrcPH0Mv1MsKsZQb5zkqx4PMYyDzV+lPbwFLVnZ6ugNzkKdKYj8dpMm0GUmtVaQpgc/KzOS0s1YC6zUQme8jTzmOL/+0XI3vh3hVCEgx5YRBMXgTuwhXqxbJ6E/fLotYXJyRlqL1+d4I6puE/u28cueVvgSnFmdsJDu/AVParNL9yZdvKx/FEQUtjcpH90JBjL3yi/poQ+5JOWiaAet9rowcxwbOX/afKlYYG+E05K3TTMyy2XSH17sd4xIlh1iRYOzZvwfxmcSm0XQP2s7/ngx0d/M43wRy3eYnO2buCh3kJ3ljp6bJeCJ5soFr/oRx2I8mYZO8BoGazothCEF9HPSb6CPJuYVlOzMbQkO69KBfbzS6NgaaDNlXcB++crZ5Pn1CZXtO4ZCsp0xaqjE72/kycSnujIeJSJTz3ifgUTpgXJHNG9glKXGePYt+P5U8oXV2LRdGQQJw+0KUdniTBUOk8E24LBno0noaj4Wr91ZvVkfp8stNaykui87G+Zx50n8XIpxIKlz9NVoERWrfnG4ROawKwRNbCnBU3R/GRxDEtzyguCGXz5Ej8lx9DV+Xf//YuLvJ9KNv0gJe0G1b10p0jYvkVIkeUopWsOWG/eI1jZdPZvhL6wFmXljLLzxpMrNTtHqhF5ogYkDgbMkPN4ys0qLDFCWybNPtWh4xZakhlpRNOv77rqeZ+aHzxfakxObZEM29GVf+hwh2Uh1ItSGRynWykPoYjo0/lgriOvf08iH6frgziohxo2B8kQt/gAyZ8/v3Vm/GBhEH1xgsU1ZiAU4Dggl8v2NJf7r/R3ptKfonbW0IKy9JMnRvseX7gwGg9ZsvRBUM6DVRUkYaiFPaFVJ/JY9LfM+qWS2vYMtOWKlJKLfaAXg6tNOmqbpKtkj5OdN4ZIS5L9FtV7ghrRJFjSPr0N6dYgRpwHlMNqzzlKqExVPaZQSD9b7h4D+vtNG55Yo9A1ygTVF+OHV5ulj+vsuvJCxfnR8FxIDb5eGWnFS16TJGJQa0gSkpT/NuDSvF0DbuAxqF9i+vCVRHyq8veETTuQ56xsglvaVnkl7HcnbRfTKZ1HNPDQID1pgDMdO2gPpEQOLA6wqRyPxufr5dOhJyYi3pQHC/mbRxTuipvsEyt+4NvAObdxum7lnpR6GhnKHcUUt6EmznyG+Plovna2rvE1s2Tk8N1Nvb6OmapnM+I8m4JzbpsgQP9cZRFFGwXzcinsjjK61Uk5z2Cuuv/6xrGm500I')" class="inpage-head" >The Times Crosswords</a></div>
+													
+														<div class="inpage">Get The New York Times crosswords automatically updated every day														<br />
+														<a href="#" onmouseover="changeStatus('The Times Crosswords');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4wsqZAl8BynTrKFS0vbHc145ZcGnNey54upmymKkOulk1i0niFj7vpbzLdX5VEiuuEPaR/DjW4Nmu5KX+pBl2nZEF5mKhcEsnIrlKBcGEMoiaA3WwyM9pi8I0FcQGH3ogeV8Gbb7kGWL2Zpy2mBJLq3SLyzHYL2/iiIcjAEDd5X2vwwtdBG2rWmsDV6H7E00pPxRoffkwAbO0i/h+iZ+qbqcDs4t9TrcPH0Mv1MsKsZQb5zkqx4PMYyDzV+lPbwFLVnZ6ugNzkKdKYj8dpMm0GUmtVaQpgc/KzOS0s1YC6zUQme8jTzmOL/+0XI3vh3hVCEgx5YRBMXgTuwhXqxbJ6E/fLotYXJyRlqL1+d4I6puE/u28cueVvgSnFmdsJDu/AVParNL9yZdvKx/FEQUtjcpH90JBjL3yi/poQ+5JOWiaAet9rowcxwbOX/afKlYYG+E05K3TTMyy2XSH17sd4xIlh1iRYOzZvwfxmcSm0XQP2s7/ngx0d/M43wRy3eYnO2buCh3kJ3ljp6bJeCJ5soFr/oRx2I8mYZO8BoGazothCEF9HPSb6CPJuYVlOzMbQkO69KBfbzS6NgaaDNlXcB++crZ5Pn1CZXtO4ZCsp0xaqjE72/kycSnujIeJSJTz3ifgUTpgXJHNG9glKXGePYt+P5U8oXV2LRdGQQJw+0KUdniTBUOk8E24LBno0noaj4Wr91ZvVkfp8stNaykui87G+Zx50n8XIpxIKlz9NVoERWrfnG4ROawKwRNbCnBU3R/GRxDEtzyguCGXz5Ej8lx9DV+Xf//YuLvJ9KNv0gJe0G1b10p0jYvkVIkeUopWsOWG/eI1jZdPZvhL6wFmXljLLzxpMrNTtHqhF5ogYkDgbMkPN4ys0qLDFCWybNPtWh4xZakhlpRNOv77rqeZ+aHzxfakxObZEM29GVf+hwh2Uh1ItSGRynWykPoYjo0/lgriOvf08iH6frgziohxo2B8kQt/gAyZ8/v3Vm/GBhEH1xgsU1ZiAU4Dggl8v2NJf7r/R3ptKfonbW0IKy9JMnRvseX7gwGg9ZsvRBUM6DVRUkYaiFPaFVJ/JY9LfM+qWS2vYMtOWKlJKLfaAXg6tNOmqbpKtkj5OdN4ZIS5L9FtV7ghrRJFjSPr0N6dYgRpwHlMNqzzlKqExVPaZQSD9b7h4D+vtNG55Yo9A1ygTVF+OHV5ulj+vsuvJCxfnR8FxIDb5eGWnFS16TJGJQa0gSkpT/NuDSvF0DbuAxqF9i+vCVRHyq8veETTuQ56xsglvaVnkl7HcnbRfTKZ1HNPDQID1pgDMdO2gPpEQOLA6wqRyPxufr5dOhJyYi3pQHC/mbRxTuipvsEyt+4NvAObdxum7lnpR6GhnKHcUUt6EmznyG+Plovna2rvE1s2Tk8N1Nvb6OmapnM+I8m4JzbpsgQP9cZRFFGwXzcinsjjK61Uk5z2Cuuv/6xrGm500I')" >www.nytimes.com/timesreader</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Free Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4ssqZAl8Byn9+CS0s4QONbvpLcgp8bYPRWoR5g0+TtwhNHlR2lEd5EinNmwlOAGI5HIHKNBuU9uG4UebBbAEij1H2PY2Uk0QnoSCYAmCFbetkCxL4GTQCTT/4use+d82iP0f7n0sGVhj6dec9ZN/wgfXAxZnOFnSbDjrfqkJTkjc5KI7RCAY0TPyUp9+h/DvbYWCswMPrwZ0FCy17QR3FTHWCF3z+lBlOkhW2ajdke7CqZfnT3ic0epronswRzhZeapR4VFkeXmf1aoQxdALQpp8qMA537SKcwr3nhPn303UdXUsb0WwfY08X0mv+2NxT3p05HVB/JQbOKh1exOTQLorXiEOIxEzS+//A20hB/V6zIeRSvkb7kCwMBjqfdH5KH6G+a2Nq3ib/LXjQ1SU23dItEewqRA+VbJKexrG97J+KhDElDliSGEyALRUSArTFlyfgSWxYHMn0EqE6HOqEsvhd6zbL0up1AqtRNVUApOlT2uRIALDL1Okgr+QCPClhVoFZSOJQXfuckw7BvgXSgTivn5zGwqbQUrDKmuFtf8tQNuop8CGJSY/Qs94gfBX8+DC1sP+ViwlygVVckl/4inpBoiT5+zDeL2Qz0CccdasZtrVxvXRFAmPY5yfm1yw3CjrtzyXsVL92uralvFgq8jqBo2aElkb/odtB5aCKxRgSg/Ds+6qrqDh8BEW9A4T+0RmhMlYRztIRW5UQiPus2lPH4MK/zmVcbVUas3DvqZFLh4sIePYqnVfL7gSVsReZdoq/q8hwMn9vD3IPGpura7PY0ph2iJ+8qUJvxpKyre5SFvQ+ygcqDqDgWsj0HSDGC9LVjv6I+sPdetAUTYLOpAOMZqwN1fovwiKZ8YbEA7Zk714iGazx+MLU+pO0w35OhGey/3T+H8UjEpsdxTCKdmLaiNegDcskUELkle1cI7jbue8bkFaksXQf6fnyvEB3/q5ov+XauuVAzxChB25SbBLxv90ALrw1BLfwhFOmxfMuCH0kbZcw3gzcjs/4yzyfYqtCQtXVW0q9PuqZudXxvhH5Xf55QirDBvyJpzZhvIGERKaKbQunwSe7sfxXPCfqQB/2yGMsoe8hOaePTijCxvqNli1WmoA6qtD/yBMvYAvJkJqfsqT4LOxm0IhVQ2aSiP7XUGarGhE+Z1GRnDfTGdEytmHwXvnsIMVsXV+bjm0H7SlzxW0gz9exo7LiqliB366MA2nkNr2llsgKTXQXOJPDXDRQp16ZkNC86E8SGN+t+L36UFSJBIN9Qt+jBYSUsbwiO28lFbPwMd/dVxnhE1/ACQ6wZxu0l6a2VXLVwD+rq6hQhuVgYNm21H/NkpVSVqZYrUkHOei63dYJPmEfDandwA/Y0XVmvJ11ROGmlKVA==')" class="inpage-head" >Free Puzzle Games</a></div>
+													
+														<div class="inpage">Play free Puzzle games at Pogo. Make new friends &amp; win prizes!														<br />
+														<a href="#" onmouseover="changeStatus('Free Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4ssqZAl8Byn9+CS0s4QONbvpLcgp8bYPRWoR5g0+TtwhNHlR2lEd5EinNmwlOAGI5HIHKNBuU9uG4UebBbAEij1H2PY2Uk0QnoSCYAmCFbetkCxL4GTQCTT/4use+d82iP0f7n0sGVhj6dec9ZN/wgfXAxZnOFnSbDjrfqkJTkjc5KI7RCAY0TPyUp9+h/DvbYWCswMPrwZ0FCy17QR3FTHWCF3z+lBlOkhW2ajdke7CqZfnT3ic0epronswRzhZeapR4VFkeXmf1aoQxdALQpp8qMA537SKcwr3nhPn303UdXUsb0WwfY08X0mv+2NxT3p05HVB/JQbOKh1exOTQLorXiEOIxEzS+//A20hB/V6zIeRSvkb7kCwMBjqfdH5KH6G+a2Nq3ib/LXjQ1SU23dItEewqRA+VbJKexrG97J+KhDElDliSGEyALRUSArTFlyfgSWxYHMn0EqE6HOqEsvhd6zbL0up1AqtRNVUApOlT2uRIALDL1Okgr+QCPClhVoFZSOJQXfuckw7BvgXSgTivn5zGwqbQUrDKmuFtf8tQNuop8CGJSY/Qs94gfBX8+DC1sP+ViwlygVVckl/4inpBoiT5+zDeL2Qz0CccdasZtrVxvXRFAmPY5yfm1yw3CjrtzyXsVL92uralvFgq8jqBo2aElkb/odtB5aCKxRgSg/Ds+6qrqDh8BEW9A4T+0RmhMlYRztIRW5UQiPus2lPH4MK/zmVcbVUas3DvqZFLh4sIePYqnVfL7gSVsReZdoq/q8hwMn9vD3IPGpura7PY0ph2iJ+8qUJvxpKyre5SFvQ+ygcqDqDgWsj0HSDGC9LVjv6I+sPdetAUTYLOpAOMZqwN1fovwiKZ8YbEA7Zk714iGazx+MLU+pO0w35OhGey/3T+H8UjEpsdxTCKdmLaiNegDcskUELkle1cI7jbue8bkFaksXQf6fnyvEB3/q5ov+XauuVAzxChB25SbBLxv90ALrw1BLfwhFOmxfMuCH0kbZcw3gzcjs/4yzyfYqtCQtXVW0q9PuqZudXxvhH5Xf55QirDBvyJpzZhvIGERKaKbQunwSe7sfxXPCfqQB/2yGMsoe8hOaePTijCxvqNli1WmoA6qtD/yBMvYAvJkJqfsqT4LOxm0IhVQ2aSiP7XUGarGhE+Z1GRnDfTGdEytmHwXvnsIMVsXV+bjm0H7SlzxW0gz9exo7LiqliB366MA2nkNr2llsgKTXQXOJPDXDRQp16ZkNC86E8SGN+t+L36UFSJBIN9Qt+jBYSUsbwiO28lFbPwMd/dVxnhE1/ACQ6wZxu0l6a2VXLVwD+rq6hQhuVgYNm21H/NkpVSVqZYrUkHOei63dYJPmEfDandwA/Y0XVmvJ11ROGmlKVA==')"  >www.Pogo.com</a></div>
+																				
+																					
+                                                <br>
+																									
+													<div ><a href="#" onmouseover="changeStatus('Microsoft Word: $11.95');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4osqZAl8BynEEPrjpVjhwAWeGG3wkTtXy51DNjrMotPbGN+k4tuI7oWhnKgmrJ7/poezgrrPxcFCB9gZ/OE1sXyCZ+zDx8MwqmN8nVwveVTibI8S34uJUSah6azfC8MhDHZvmiYQaQ00g1yV1QJKOhhyfPurv1uotjaIuvnR1sZcgaxFEinbOmO21t5HEXFQSBIuPIaSj7hijqyB2NkkVVNR1d/CUgwbkomGEyddKn+F+cPYdBspvsDM0N9c35cqzpV+E4mm5rR+vqWWhKWx6abRnZ4zoLQXmdBs7JmmxC0saSCmjsN1u6+hYp/y8gPQHQNpQlllRVGrzhcFqwIn8YFnsFxCX5oOuK2q6OkKfvGIQSbqAmkx5hgwUGRdRYz9YVGJTyua8TjlKxedNiIdoQINF6NlaA0jlL8HA4k4R0YpAB4qn8wxUrPLyTqGG0NH+Hk6W3GVovaUc0yew/gSu32q7jk4IQY+Y9Kup9sU/1YDRvP/lU/8CeYzVrwYCJLuQ6Y0eany7qyZEG8k7iNUjyH2mTHfUcN4hfaSdIUDXV/eQdESJxQ87VDHyO3aBirkeDYzsnBJjAMCHWBmGr66+2mGvmzVjR1zlXw0YpL115RZ246bN8rZHrLySc3AAgm4QhDluYPBG+lwQ/wLdi57OaqxP2Te+GbPs5IcE8Z2rrOHsobtYbrRm14LFL6HA46uVwCyfstzZoDMgw54QZUgrczssqxruU1kdXR6SRaQR0bKuKF1PRKwEDvnbX1kDWziYDS4KnJgIaWTHeSmqvmd7NDDpuwhD1uwbM48YtRIgDjWPrNZlKF/yiO4nYhb8vDe7EuVcbZK/KPT4Gu7IqP5SWf9RbCMWrIeWkkybfOh18Gk8Y9B0v2lCzK5BkMT9t0cjbUxCXNLfwYVW5TjS0Si7DT3IN+3mUt7yhBXKDYkoP5GA/RkOnDvUS7RlHPMI2LHv6mmDkHTuxmyT2zXEcdd1XfL5PDsOBNWK9hF4EvtTiACXI05U99Um87p8WFlgxSoZckVIoTIZH8ZnFbYg5ULeFZ9wX/2+MeH+cKn28coduW/lcQTsp3rcwwDl95Bv/AYi6OshJ1saLTefS9HqMUXFd5uSDjzxlcUdoyX2GxFI+AkESnEkwXKJCGkwNqOcZFAxOxBOi5XaaKuVb166APqAbBep3l/hM4XpGohZ6862rVAPF9vI2cf8QWtJ2amq0OR7kESD1xCCfWAQH9lmqw7XSQr34+ZCh3el9ceRPDCm6UEz/qjcuIlgKR+fDbi1wIGhIFpA==')" class="inpage-head" >Microsoft Word: $11.95</a></div>
+													
+														<div class="inpage">Yes, Save 98% On Microsoft Office. MS Word, Excel, Access, Power Point														<br />
+														<a href="#" onmouseover="changeStatus('Microsoft Word: $11.95');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4osqZAl8BynEEPrjpVjhwAWeGG3wkTtXy51DNjrMotPbGN+k4tuI7oWhnKgmrJ7/poezgrrPxcFCB9gZ/OE1sXyCZ+zDx8MwqmN8nVwveVTibI8S34uJUSah6azfC8MhDHZvmiYQaQ00g1yV1QJKOhhyfPurv1uotjaIuvnR1sZcgaxFEinbOmO21t5HEXFQSBIuPIaSj7hijqyB2NkkVVNR1d/CUgwbkomGEyddKn+F+cPYdBspvsDM0N9c35cqzpV+E4mm5rR+vqWWhKWx6abRnZ4zoLQXmdBs7JmmxC0saSCmjsN1u6+hYp/y8gPQHQNpQlllRVGrzhcFqwIn8YFnsFxCX5oOuK2q6OkKfvGIQSbqAmkx5hgwUGRdRYz9YVGJTyua8TjlKxedNiIdoQINF6NlaA0jlL8HA4k4R0YpAB4qn8wxUrPLyTqGG0NH+Hk6W3GVovaUc0yew/gSu32q7jk4IQY+Y9Kup9sU/1YDRvP/lU/8CeYzVrwYCJLuQ6Y0eany7qyZEG8k7iNUjyH2mTHfUcN4hfaSdIUDXV/eQdESJxQ87VDHyO3aBirkeDYzsnBJjAMCHWBmGr66+2mGvmzVjR1zlXw0YpL115RZ246bN8rZHrLySc3AAgm4QhDluYPBG+lwQ/wLdi57OaqxP2Te+GbPs5IcE8Z2rrOHsobtYbrRm14LFL6HA46uVwCyfstzZoDMgw54QZUgrczssqxruU1kdXR6SRaQR0bKuKF1PRKwEDvnbX1kDWziYDS4KnJgIaWTHeSmqvmd7NDDpuwhD1uwbM48YtRIgDjWPrNZlKF/yiO4nYhb8vDe7EuVcbZK/KPT4Gu7IqP5SWf9RbCMWrIeWkkybfOh18Gk8Y9B0v2lCzK5BkMT9t0cjbUxCXNLfwYVW5TjS0Si7DT3IN+3mUt7yhBXKDYkoP5GA/RkOnDvUS7RlHPMI2LHv6mmDkHTuxmyT2zXEcdd1XfL5PDsOBNWK9hF4EvtTiACXI05U99Um87p8WFlgxSoZckVIoTIZH8ZnFbYg5ULeFZ9wX/2+MeH+cKn28coduW/lcQTsp3rcwwDl95Bv/AYi6OshJ1saLTefS9HqMUXFd5uSDjzxlcUdoyX2GxFI+AkESnEkwXKJCGkwNqOcZFAxOxBOi5XaaKuVb166APqAbBep3l/hM4XpGohZ6862rVAPF9vI2cf8QWtJ2amq0OR7kESD1xCCfWAQH9lmqw7XSQr34+ZCh3el9ceRPDCm6UEz/qjcuIlgKR+fDbi1wIGhIFpA==')" >www.OfficeBestDeal.com</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Free Online Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4ksqZAl8BynGo6DNkdCR1BAPtRDl5E3bLnQMS/JkOm48Y7U9GO1tI3Y0KOrZgONfdQ1XweOTzd+qgWo6tapBT/XwISpi05TNdldgwxFo3Uz5rjZZNAN4aMYmC0dIFx5zxnFGFXzqfC2NDoDrUp4ol3wR76BlKMW7v3q4uQ483jA78IukAW7Y7hnFO1rQs9s1GBuQ++js5A/Nh+GdmxKj7TXj+CKghuzQ4T/WK1sHiY61aov/fH5PvPDntP1RY4bCqYKZXrHuld2QbUYcZWM6mh7SyJmI74LCriVuEYyelZvoJHhC3bZzNt8vPxIm1oicVRnzqLQOqchpEYmXJIf34IOt4UZsjBgB5zIQ0ce3cpnuZm7M4bkoGFBWCKky3kZt+m1XOYUXRhyc5RlJeewrCilmW/H1dGRVq6jr8c3e55RNxJjumtBJBCMFpYnytuoQ9X7eVcuCP0Cmod7sUfLvBdzwqhzEszstclTZGT+YpDNsEk9Fw+lQtfDqL4XoCfT2gzy9C2eI843M+MLfPvyWBSeBTl9mZPtf011tjhK44hAmHAEv8e+vi0EaxVIrP8DjT5kIfXUWyQkk56wNKcrSV+TmLUcvkLp9LxNQGPKN+7vBsQOhH4fK+/xb5z0yqrhPfrccg5bYHU/wfRaoIWRSktD3GDLFNxNzszOot+SISi/XRaGga2KhbZuguoapLxvEb5SUPJlGocfFYTlaYAxMEe5R343A6I6hDwJC1e0/vrlyKwFzdgxxk6W18ZALU9vIAUJCHg9enJCUacKZTVgjE4bKo3aDKp0h5xVEq+R98mkR5Z1D6aD7QUQjdkktAjkjWYc8t7AqB5tb5v5SOyO4eDODRE33Fdb+Ck+L93nEcv+Ntpo8xrkWyYN/mLVte3dFOvqUOEkpdSd5Yooum+BUXJZAeVhYg9KZaX35Aoweu46/xp1+iYWBjVy21w8xNr+t2+mvc/YLYZwWpWUsIl2Cq4/WWwJzdQ2S3xBgX9ci0UraNJHFFMGwP/RiMiMtD4/2peORBd2L/mKspkP5FT1alevvxuTfl0yRV2oSS2RB2EW2Cam5anYEE9aQ0aFrC117dPUj3HGqb9PeXTE7s+KHLCIL3ttlKzfj2Ri8/5VRgWcz/85R0r/zEzJSkaSP87mOBN9ujl2esKGhkaz91SzKs1L1lK/Y+aTGF1DxeLjbMdtxc8tfzc8VyjsA/ZtItTQYJsAAoUqtgXGFkFUYGzFn/JNssPE3duoV6/SDDnqkshxHLPR/2ba9802n0UTdZQZdmK/cmn/bD8=')" class="inpage-head" >Free Online Puzzle Games</a></div>
+													
+														<div class="inpage">Download Your Favorite Card, Board &amp; Puzzle Games To Your PC For Free!														<br />
+														<a href="#" onmouseover="changeStatus('Free Online Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4ksqZAl8BynGo6DNkdCR1BAPtRDl5E3bLnQMS/JkOm48Y7U9GO1tI3Y0KOrZgONfdQ1XweOTzd+qgWo6tapBT/XwISpi05TNdldgwxFo3Uz5rjZZNAN4aMYmC0dIFx5zxnFGFXzqfC2NDoDrUp4ol3wR76BlKMW7v3q4uQ483jA78IukAW7Y7hnFO1rQs9s1GBuQ++js5A/Nh+GdmxKj7TXj+CKghuzQ4T/WK1sHiY61aov/fH5PvPDntP1RY4bCqYKZXrHuld2QbUYcZWM6mh7SyJmI74LCriVuEYyelZvoJHhC3bZzNt8vPxIm1oicVRnzqLQOqchpEYmXJIf34IOt4UZsjBgB5zIQ0ce3cpnuZm7M4bkoGFBWCKky3kZt+m1XOYUXRhyc5RlJeewrCilmW/H1dGRVq6jr8c3e55RNxJjumtBJBCMFpYnytuoQ9X7eVcuCP0Cmod7sUfLvBdzwqhzEszstclTZGT+YpDNsEk9Fw+lQtfDqL4XoCfT2gzy9C2eI843M+MLfPvyWBSeBTl9mZPtf011tjhK44hAmHAEv8e+vi0EaxVIrP8DjT5kIfXUWyQkk56wNKcrSV+TmLUcvkLp9LxNQGPKN+7vBsQOhH4fK+/xb5z0yqrhPfrccg5bYHU/wfRaoIWRSktD3GDLFNxNzszOot+SISi/XRaGga2KhbZuguoapLxvEb5SUPJlGocfFYTlaYAxMEe5R343A6I6hDwJC1e0/vrlyKwFzdgxxk6W18ZALU9vIAUJCHg9enJCUacKZTVgjE4bKo3aDKp0h5xVEq+R98mkR5Z1D6aD7QUQjdkktAjkjWYc8t7AqB5tb5v5SOyO4eDODRE33Fdb+Ck+L93nEcv+Ntpo8xrkWyYN/mLVte3dFOvqUOEkpdSd5Yooum+BUXJZAeVhYg9KZaX35Aoweu46/xp1+iYWBjVy21w8xNr+t2+mvc/YLYZwWpWUsIl2Cq4/WWwJzdQ2S3xBgX9ci0UraNJHFFMGwP/RiMiMtD4/2peORBd2L/mKspkP5FT1alevvxuTfl0yRV2oSS2RB2EW2Cam5anYEE9aQ0aFrC117dPUj3HGqb9PeXTE7s+KHLCIL3ttlKzfj2Ri8/5VRgWcz/85R0r/zEzJSkaSP87mOBN9ujl2esKGhkaz91SzKs1L1lK/Y+aTGF1DxeLjbMdtxc8tfzc8VyjsA/ZtItTQYJsAAoUqtgXGFkFUYGzFn/JNssPE3duoV6/SDDnqkshxHLPR/2ba9802n0UTdZQZdmK/cmn/bD8=')"  >www.AllDownloadGames.com</a></div>
+																			
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Game Downloads');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4gsqZAl8BynRs/hBG19Rb/DxvCtHKvt4OdzIlKjx8uhtzvw+mIUi96sGdfatYiBcjpzx132kQYPaxtMEHoiaFZx++DCR21+OK4YBXw6H5VvsUF7T/hTTkR01N9uEslPF1jsaZvAHw46vFxJvy+smxwspl9pfK8RmIRj9FEy19vNHidt2z3uh1gz3V6B1y0Cvdf1n/UPcwP9zWph+HRDM7Jr2gIGIynjKw1VMlSrsEBESlpsegQhbJgnWPGvVOPoxqJH44pSiO3ccp2tTujTYqVAAtdI3EXaw1VrXzlHKUCotShP6KjPvlYhCt2KfnZP//wnBfDMlTcDOUOlA3wrPbN5puFUt+SC/OWOmtEOqBfhmMGRytHMAffiZpSqk2TTTXiC762Kewh0DaL+ZoUGD2dDzHCV8ubMq4C9jepVaVpRhfPAQ94oPnVzaffT3GtsWtZ5aafd5IJ5PhWb36+xM0P12ew/ni4vw9HEAETLQxI7JuVD/3FBfFjuRJJDRDAIg0Ath/5QzUotsbvxAdgLbpdM9D7hrURTJ+nQqxvqMHLVE9KrvgiMAVOJ4HILzK3XHfjZHYZgllsBQYB/0pHoWuAbjd+BpQCt6wHch16yQAA8Zw/YZXFZz3/89D3n7Tjf1rw+s7obCRHFqeCHxTWGc4+OVShOsG/S3/SkSA6TZZ1ZQQ7nBZXUsDMTI1eDpEXiQFDRhh5sepymm1HgU3fh7cLjdWSb2sx8Dszuf3tfOCtLWw/bhAoArJAoNsf1NbwOe25L3oBl6ihqCuS2CQND2OdlErV2H0A7pj8c9iuSF0rRZdhYWDwOOA06pnAx/u2LeBvOOBNRZKuz/uVQlFuTzLAt+XKmN9jJ2MR/XwbgZbC4o7ovfT0ygysLJe1O+DG+vH6o1ekE+8KoxJeXTlv0mcrE+QMmmxOEtH8/eBuYnL4ols0MtUIRRD8Y3BjA5Vy+6BDDI5Br5wZ+L6YLrN2WkTZC7/09vZIdIGol8pG9uwolrw1DeJZ0YlahxQce3nXowEgRX+kpq2UqshoJ24Pazt9Tqpi1vt83CszxS6KcKjnujbQFP5XNF3TPrc58tI82rPzsQDT2kb/XNqDFD0r5mpYN9zIHJUHZVUOy/wRfYqkvljvXA71M/9RSYdlBeqdA9qzYJb+JD0DB2amD56NoU98iirYjg06PGgFhUbGZV0vGSacl84tbBUOvjIt2EWrM6YVEn1dDs3jCuq9PYtv9h7CVbku+RtRdlU/FNXMnnfaKDQim0z1dlgjnbTV84GqC7TIGzbDLBLWX1Wt4wtGG2MNXYQUMnvV1pc9+ce4FOgy8P1nTp0YL52bmrGqDQtH/zQ1MWDxirjGcO6ua4CTyH393Ho+FKNQBw1s+0pJUa+FJq4Aog0TqAQ9zmTVfPScG')" class="inpage-head" >Game Downloads</a></div>
+													
+														<div class="inpage">Puzzle &amp; Word, Action &amp; Adventure, Arcade games and more.														<br />
+														<a href="#" onmouseover="changeStatus('Game Downloads');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4gsqZAl8BynRs/hBG19Rb/DxvCtHKvt4OdzIlKjx8uhtzvw+mIUi96sGdfatYiBcjpzx132kQYPaxtMEHoiaFZx++DCR21+OK4YBXw6H5VvsUF7T/hTTkR01N9uEslPF1jsaZvAHw46vFxJvy+smxwspl9pfK8RmIRj9FEy19vNHidt2z3uh1gz3V6B1y0Cvdf1n/UPcwP9zWph+HRDM7Jr2gIGIynjKw1VMlSrsEBESlpsegQhbJgnWPGvVOPoxqJH44pSiO3ccp2tTujTYqVAAtdI3EXaw1VrXzlHKUCotShP6KjPvlYhCt2KfnZP//wnBfDMlTcDOUOlA3wrPbN5puFUt+SC/OWOmtEOqBfhmMGRytHMAffiZpSqk2TTTXiC762Kewh0DaL+ZoUGD2dDzHCV8ubMq4C9jepVaVpRhfPAQ94oPnVzaffT3GtsWtZ5aafd5IJ5PhWb36+xM0P12ew/ni4vw9HEAETLQxI7JuVD/3FBfFjuRJJDRDAIg0Ath/5QzUotsbvxAdgLbpdM9D7hrURTJ+nQqxvqMHLVE9KrvgiMAVOJ4HILzK3XHfjZHYZgllsBQYB/0pHoWuAbjd+BpQCt6wHch16yQAA8Zw/YZXFZz3/89D3n7Tjf1rw+s7obCRHFqeCHxTWGc4+OVShOsG/S3/SkSA6TZZ1ZQQ7nBZXUsDMTI1eDpEXiQFDRhh5sepymm1HgU3fh7cLjdWSb2sx8Dszuf3tfOCtLWw/bhAoArJAoNsf1NbwOe25L3oBl6ihqCuS2CQND2OdlErV2H0A7pj8c9iuSF0rRZdhYWDwOOA06pnAx/u2LeBvOOBNRZKuz/uVQlFuTzLAt+XKmN9jJ2MR/XwbgZbC4o7ovfT0ygysLJe1O+DG+vH6o1ekE+8KoxJeXTlv0mcrE+QMmmxOEtH8/eBuYnL4ols0MtUIRRD8Y3BjA5Vy+6BDDI5Br5wZ+L6YLrN2WkTZC7/09vZIdIGol8pG9uwolrw1DeJZ0YlahxQce3nXowEgRX+kpq2UqshoJ24Pazt9Tqpi1vt83CszxS6KcKjnujbQFP5XNF3TPrc58tI82rPzsQDT2kb/XNqDFD0r5mpYN9zIHJUHZVUOy/wRfYqkvljvXA71M/9RSYdlBeqdA9qzYJb+JD0DB2amD56NoU98iirYjg06PGgFhUbGZV0vGSacl84tbBUOvjIt2EWrM6YVEn1dDs3jCuq9PYtv9h7CVbku+RtRdlU/FNXMnnfaKDQim0z1dlgjnbTV84GqC7TIGzbDLBLWX1Wt4wtGG2MNXYQUMnvV1pc9+ce4FOgy8P1nTp0YL52bmrGqDQtH/zQ1MWDxirjGcO6ua4CTyH393Ho+FKNQBw1s+0pJUa+FJq4Aog0TqAQ9zmTVfPScG')"  >www.RealArcade.com</a></div>
+																				
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Free Game Downloads');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4csqZAl8Byn1XZxPX7NLQklrR4ENj2vJ4CjGcYftz8gBquDaDQZ1sH7VAebQ/CA2vYJK1GB5DwymujwNMOtFinzpbYezeG1VNMDCdT06rk678eCx9ryUb2PIwtGqkUuuFx/RPfib9rwvxUrlwqXVMcAbIyZ77Mi/beTbv6Vpk0earYOleAuxXIYoNWZd8fXXBDr9mDblrkhf8WTvYM7eXhGZ5OiEcKm5ulD5vh0md/vUNavfyaOzam40hFQqy4nw8N4gqoi8MwYHgnzVjIhRyGzeA7xja4MzwVbVjbJ9HTqncHu6i4QklBYTpCLqPyD+V/JKF6TuCg1ryYjhXwvy0xpAMo1nkSpBZsOPcMtPit6DQUQTqjdrmU2bVxt67mdfBowZVjWfFF5kZS9rqgYsAjZ1fVzpefNlX/SI/W3xPvv5xPVqLbMPYfB3AR79BfG4PaBkXl80eY1UP7NhXESMUBbI5HxzsI/gyNpmsNrj7So6O2WA2nE8V2gLb+9xrNBq0MYpKqvXDosuufobFobQlqafDhj95lIutEATynxlKBJ5zT1Dvp1vKKbIuhfiMk5fP4fmvRxqFMV+ChHCNZj8OxG9VNf5IzDgStIsJRhCcaxRyOiVlMOJdHhfa1/4vRBh8qhXFPisUfZcK3FivurdBoysDa8RgF+8mM8Tq7eFunXQw04vroxJQA8QNMq0UCBDnSe/ke7CmeyEwVIKqf/8KE3AyGQZ1peysUDw+VBlkeoFdJjnJncPsnvatJZ0PubX65o0k44H/x3HAj3ARn0EnYp6ggug67xCTPt9biGfMzOP4TJaakOCCbSQ13LRnn2BtOPYOmsVfnBDb2cODK34mvUOcF56ipptndnzBRcNpY+WmrdbFTHmVQvGRZiX6v/hTab20lvUq7Y1xZWvS7NY/idlvyktMEwKOMc13dagHLgRXD1weBixOrhpvfZz4yKCxP+1FFren+wLEalbQlMddPtrLXIbCX3B7nsggbNs14qGyWzsnLSQulg3qECPLIpvnTSHsFKw/I3JWRyKturGwrKwcQa8k66/jroUxSs54MykjT8M0yTERatjKuYrDIfnA7ulfUNQdw+8lGwRL3DCtU4z/di6FAwZBnZR2BzyO+YZ14GnLokraxbqoBLyj0c+CLU3Gioylx6b3EpUXpOQxM8aL90rUzQbQOgUP3bLvYxJRxcWrJ+XVVB7uTMqQkZN/m3RTzZKIxRoB0LOQ2GJKE6mqnvSNV4Wli+UXsjPhVXuGf6X6PdfmLu4FHUYHDykfN1Xk7jDYfiuBxMIHNZ+SPbtM1he0AqX7z8ebQGXHwxMuU9+1/92P3PHk4cOmA8Lkn/3JPDa/C7J+lj2/yH5RxBCOhPlNXV60o5')" class="inpage-head" >Free Game Downloads</a></div>
+													
+														<div class="inpage">Download Tons of Free Games On Your PC. Play All Your Favorites!														<br />
+														<a href="#" onmouseover="changeStatus('Free Game Downloads');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4csqZAl8Byn1XZxPX7NLQklrR4ENj2vJ4CjGcYftz8gBquDaDQZ1sH7VAebQ/CA2vYJK1GB5DwymujwNMOtFinzpbYezeG1VNMDCdT06rk678eCx9ryUb2PIwtGqkUuuFx/RPfib9rwvxUrlwqXVMcAbIyZ77Mi/beTbv6Vpk0earYOleAuxXIYoNWZd8fXXBDr9mDblrkhf8WTvYM7eXhGZ5OiEcKm5ulD5vh0md/vUNavfyaOzam40hFQqy4nw8N4gqoi8MwYHgnzVjIhRyGzeA7xja4MzwVbVjbJ9HTqncHu6i4QklBYTpCLqPyD+V/JKF6TuCg1ryYjhXwvy0xpAMo1nkSpBZsOPcMtPit6DQUQTqjdrmU2bVxt67mdfBowZVjWfFF5kZS9rqgYsAjZ1fVzpefNlX/SI/W3xPvv5xPVqLbMPYfB3AR79BfG4PaBkXl80eY1UP7NhXESMUBbI5HxzsI/gyNpmsNrj7So6O2WA2nE8V2gLb+9xrNBq0MYpKqvXDosuufobFobQlqafDhj95lIutEATynxlKBJ5zT1Dvp1vKKbIuhfiMk5fP4fmvRxqFMV+ChHCNZj8OxG9VNf5IzDgStIsJRhCcaxRyOiVlMOJdHhfa1/4vRBh8qhXFPisUfZcK3FivurdBoysDa8RgF+8mM8Tq7eFunXQw04vroxJQA8QNMq0UCBDnSe/ke7CmeyEwVIKqf/8KE3AyGQZ1peysUDw+VBlkeoFdJjnJncPsnvatJZ0PubX65o0k44H/x3HAj3ARn0EnYp6ggug67xCTPt9biGfMzOP4TJaakOCCbSQ13LRnn2BtOPYOmsVfnBDb2cODK34mvUOcF56ipptndnzBRcNpY+WmrdbFTHmVQvGRZiX6v/hTab20lvUq7Y1xZWvS7NY/idlvyktMEwKOMc13dagHLgRXD1weBixOrhpvfZz4yKCxP+1FFren+wLEalbQlMddPtrLXIbCX3B7nsggbNs14qGyWzsnLSQulg3qECPLIpvnTSHsFKw/I3JWRyKturGwrKwcQa8k66/jroUxSs54MykjT8M0yTERatjKuYrDIfnA7ulfUNQdw+8lGwRL3DCtU4z/di6FAwZBnZR2BzyO+YZ14GnLokraxbqoBLyj0c+CLU3Gioylx6b3EpUXpOQxM8aL90rUzQbQOgUP3bLvYxJRxcWrJ+XVVB7uTMqQkZN/m3RTzZKIxRoB0LOQ2GJKE6mqnvSNV4Wli+UXsjPhVXuGf6X6PdfmLu4FHUYHDykfN1Xk7jDYfiuBxMIHNZ+SPbtM1he0AqX7z8ebQGXHwxMuU9+1/92P3PHk4cOmA8Lkn/3JPDa/C7J+lj2/yH5RxBCOhPlNXV60o5')"  >gamedownloads.playtoad.com</a></div>
+																		
+																					
+                                                <br>
+																									
+													<div ><a href="#" onmouseover="changeStatus('Download Full Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4YsqZAl8Bynr6oTSHJaaDarU/22BV7mUP8Yh75bvULeBgPcL4PpqokFTU3ck2ZdhyLg9YY6evaXFs4UdKZyZB8kJE6QJrEpYEqjlV0vncYhy4scEh7hidvBM4G5o0fKJm0BPP+ZhmIPyrGxh88qcM/00tciTkvtI3ZRWFt49OXRsL8iAeD23fs9izw1lbZYLIvaJkmyhDBsEuaDCg91PJNFgdOfkX83RG3l+1IXJ//rLcIXezczyNXduoInDHFshqIr8AsZ50mmQvrPQkR8jNPlhTk3Q7RnCXxldVODQmbaZZwbs2CZmHQXJEGr00dPtgTAXuf5rzDypYyKR0arHskUOGzRWEOhfONupZB/QcC1oubc3Lz193SYYtg+NydyvvjPpk2maMzKanD8oJVytJEzpSTTNPKaxDfsO+K9f+nZJV5qD9/+Z6DOn8nT3FOg3rc3LNKGk5IUImcEGm4TZKDx3z/a7QemkmyWX9HovxwOzdOi4rTo0UIR1IlDnvHOn0ASdgC9CXwgZfcgOaB3cc6VB5FzljsSn9vf2AQ8juZZ17f7QAIt7uGy9VKAn3RzA42ZuwOwoID5f3eNkao1WTwPwOUld5uOVatET6bwyzic3Mn33sRVpzJICpzpH55qFp4h1PmX4OkausFc9hHPJsg20yRwjYA/Z6Nn6sPxPQ0p3PtPWy31JjM6p6VnMQyKlr+2m2GgVV9nfeKk6aW+NvvURIgkd1arjqaSIN+V+E9h5A4Hqv/FIKIqyYCm1j8TawMd76vDLMShf9J2VxfYOvB/MxYM695hdLAa7ICEaGbMXR6byR38SxcNSv2fzlo/5kQLev3zWgoPoJYfiye1xslbvBvlH3j0S9/reQg5tJ3DUlkofSOGEqkSbCFrzsB+3xJgIoyiZksF4IN/PdVZEmOMBrUlJttypLQmG+9irutACPNE8coZbEr+ooRYFGZv4WgZBEUsLBDrVFGcjYgeVwrYNJEza1+9V09bKdKYw/Lfb78TNL08E0ocvSNgC9REiPuE5EN3SUKn7/EQvyaDdPi2dWGh066mqM+dPdwpYstP82ftOjpUgmoGHmzsxxZRJpIu1VGwbF8qK7sGvc+DlmKusx2irWehP6ZCIDWBS7wYnK2uNPtbCrqXFFf+0QkoVjYzxtgJp1vvuXhehmcNxKxrZCS+yjbObZ8EJsj3fcL2H+bLW9bn3tBnEEukobBLEr2mdH85rT4HOUd67vxSXkXduBZsfg3ZhMlqjjtjDWVSpSIRr756hjc59ywrCEzCenJMiHnOM2d6RdbKhA8vmiBl1WyRPirqX1DGVNVeWH0UzBVwH9UW')" class="inpage-head" >Download Full Games</a></div>
+													
+														<div class="inpage">Legally Download Full Version PC, Xbox, PS2 &amp; PSP Games.														<br />
+														<a href="#" onmouseover="changeStatus('Download Full Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNy9me/BwP9QUnmPqEgep+BDD3kHlroHmnsGa8GyGea5TBD6yESFnPvyJC4YsqZAl8Bynr6oTSHJaaDarU/22BV7mUP8Yh75bvULeBgPcL4PpqokFTU3ck2ZdhyLg9YY6evaXFs4UdKZyZB8kJE6QJrEpYEqjlV0vncYhy4scEh7hidvBM4G5o0fKJm0BPP+ZhmIPyrGxh88qcM/00tciTkvtI3ZRWFt49OXRsL8iAeD23fs9izw1lbZYLIvaJkmyhDBsEuaDCg91PJNFgdOfkX83RG3l+1IXJ//rLcIXezczyNXduoInDHFshqIr8AsZ50mmQvrPQkR8jNPlhTk3Q7RnCXxldVODQmbaZZwbs2CZmHQXJEGr00dPtgTAXuf5rzDypYyKR0arHskUOGzRWEOhfONupZB/QcC1oubc3Lz193SYYtg+NydyvvjPpk2maMzKanD8oJVytJEzpSTTNPKaxDfsO+K9f+nZJV5qD9/+Z6DOn8nT3FOg3rc3LNKGk5IUImcEGm4TZKDx3z/a7QemkmyWX9HovxwOzdOi4rTo0UIR1IlDnvHOn0ASdgC9CXwgZfcgOaB3cc6VB5FzljsSn9vf2AQ8juZZ17f7QAIt7uGy9VKAn3RzA42ZuwOwoID5f3eNkao1WTwPwOUld5uOVatET6bwyzic3Mn33sRVpzJICpzpH55qFp4h1PmX4OkausFc9hHPJsg20yRwjYA/Z6Nn6sPxPQ0p3PtPWy31JjM6p6VnMQyKlr+2m2GgVV9nfeKk6aW+NvvURIgkd1arjqaSIN+V+E9h5A4Hqv/FIKIqyYCm1j8TawMd76vDLMShf9J2VxfYOvB/MxYM695hdLAa7ICEaGbMXR6byR38SxcNSv2fzlo/5kQLev3zWgoPoJYfiye1xslbvBvlH3j0S9/reQg5tJ3DUlkofSOGEqkSbCFrzsB+3xJgIoyiZksF4IN/PdVZEmOMBrUlJttypLQmG+9irutACPNE8coZbEr+ooRYFGZv4WgZBEUsLBDrVFGcjYgeVwrYNJEza1+9V09bKdKYw/Lfb78TNL08E0ocvSNgC9REiPuE5EN3SUKn7/EQvyaDdPi2dWGh066mqM+dPdwpYstP82ftOjpUgmoGHmzsxxZRJpIu1VGwbF8qK7sGvc+DlmKusx2irWehP6ZCIDWBS7wYnK2uNPtbCrqXFFf+0QkoVjYzxtgJp1vvuXhehmcNxKxrZCS+yjbObZ8EJsj3fcL2H+bLW9bn3tBnEEukobBLEr2mdH85rT4HOUd67vxSXkXduBZsfg3ZhMlqjjtjDWVSpSIRr756hjc59ywrCEzCenJMiHnOM2d6RdbKhA8vmiBl1WyRPirqX1DGVNVeWH0UzBVwH9UW')"  >UnlimitedGameDownloads.com</a></div>
+																			
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Download Puzzle');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1hwBEjh3caI9EOD9QwDeAoKeL/+IhwsBf2Yj/PXy0BMbvFtlh7z/4XDTLpok76KLJvQGkzR1lr/a+KWZDuq7AOyhwfcx48lRWI3yqn+ljX15F+7cZRVwTsii9vKmq/o3rdaoYOXbeGr3PgfO6+CXgVFLpxouZyMwytmM96hoTRYuSchmF5O73FJOSDAdMP+6jvXoO8FsIm7NU4zMrPeeBH7IbCxZ+/NlT+an9ibMraqTPZeLyk6w16t7QQhB/+fSZ57XCHeY+sDEizW5AtraIGpWDARLSQ8xBybwgQgEEkK/V334+zrBfJ6f+toiarpooib205epBvRphkdN2KvDpHqkRojDmEf/QTayMvbvA/iO919CQBIIzE5nS+8i2g+cvtW7r8vbkXkNb1y6l5ogtAPZHOQubELH7HWzis9ZCH1mU/GnlJIfn3Rl5NfTWU3xWR2IdD86ehlRYnGDIr6rHQPmumFbX+5khLDoNkE1jvDGjQr8wiV2oyUzUF7uBa6RLCT/E15rDw1WGuH7tL0jy7W8gZc6koAhQ3tvXYjMBxDJS1rHeHdAlU6j8lxou8gEdVggLNtGdf/hD2OrkBzIAWM4/BukQ6Lr+JZWMHsFBu4/QCwsn+RT4WrPCWLE3wsGbpvAcMg6f2Je/J/4yXOkHpEbqCqzrXcj4VKx93mbgXoCJZ9rNgu9jBSQtNmeA4gYdMTY/cvAxAo1Lh4VTEiCytcU23cpDTLODOWHO6eNWNgudTBEU1gPeHoYb8FEgWAmdq/zVrHkqa3+vr4NfS8aX5CfB+OSbXhdhnISxEu1bTl8IdhksaLDHaZm7lwJ+oKVek/t85w0oon4gx+6GurRGGxyoSRNMo2CzJM7cbXwOHjKrKpEj0w4+96GaY3Oz8W4dp76K8s+vWCK8TClCUy054PSH0NZ2rC721GCHzcOq9sH9eneVhnW+bgBdSqjfm01MeItCeqKJdjY9W66cisD03VZ3DTuHXARiWMUirSZopDxjLh6L8lj0yemYl6HusH8gC7gXTu6VT+pd+wo1bmoKcNkQhGbPd2u6DOWJQTrrzt3/0uOKFHiT/wWSU2+o+1Erk0ik5rJhUuqXQYHkBOVrM/nnaenM54JiATLmY6qfiCJP4YVJfdJtKyCm/0vB/sC18erfN0bZ4ToknqhrxJTf0EN7zX7FLB/MAMA/L9ghfTm0FIMj/7FIVAik8X/ES4x9uFGrc3kGMZKgcriJOgmA6zjZxT7PDzQPHSCrp/1x1FhA7KgAn54EIE+XWtkXaqw4BgleLuEsSzEdJ4grkz61DkU+YgLvauUs8zBO3yYGT3YAuWMLwxxAH9Q5KD7GH0LPLL5GSV9hzFVgzBwr+98FptxPAqwE8rhTdp0cFG7Hs0kn604DN27yKNmHK2RDxSSf6kRsKz1TMUyCpCxqwJi4IpBTwcqWcsLXCDXnzxvz9i1YO5sN3AIxNWoBK1X59fSOnVIQj0eFDI+PyiwfZRe1o3tN5V6ZDtNC/TpZamwOICL7E2Yp834j6GYeOr2ujAqMkELc1p25M/INNlgua5BvLulXa/XmiKSjmdvxOKamapgoe6W9mVyVyAgrbV+lPghLsBl/HL1NtUAv1tUFRXGyy8wCxW8mHrtGD9kZzlfwDvd6c')" class="inpage-head" >Download Puzzle</a></div>
+													
+														<div class="inpage">Learn about Download Puzzle.														<br />
+														<a href="#" onmouseover="changeStatus('Download Puzzle');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Puzzle+Downloads&kt=4&kp=15@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1hwBEjh3caI9EOD9QwDeAoKeL/+IhwsBf2Yj/PXy0BMbvFtlh7z/4XDTLpok76KLJvQGkzR1lr/a+KWZDuq7AOyhwfcx48lRWI3yqn+ljX15F+7cZRVwTsii9vKmq/o3rdaoYOXbeGr3PgfO6+CXgVFLpxouZyMwytmM96hoTRYuSchmF5O73FJOSDAdMP+6jvXoO8FsIm7NU4zMrPeeBH7IbCxZ+/NlT+an9ibMraqTPZeLyk6w16t7QQhB/+fSZ57XCHeY+sDEizW5AtraIGpWDARLSQ8xBybwgQgEEkK/V334+zrBfJ6f+toiarpooib205epBvRphkdN2KvDpHqkRojDmEf/QTayMvbvA/iO919CQBIIzE5nS+8i2g+cvtW7r8vbkXkNb1y6l5ogtAPZHOQubELH7HWzis9ZCH1mU/GnlJIfn3Rl5NfTWU3xWR2IdD86ehlRYnGDIr6rHQPmumFbX+5khLDoNkE1jvDGjQr8wiV2oyUzUF7uBa6RLCT/E15rDw1WGuH7tL0jy7W8gZc6koAhQ3tvXYjMBxDJS1rHeHdAlU6j8lxou8gEdVggLNtGdf/hD2OrkBzIAWM4/BukQ6Lr+JZWMHsFBu4/QCwsn+RT4WrPCWLE3wsGbpvAcMg6f2Je/J/4yXOkHpEbqCqzrXcj4VKx93mbgXoCJZ9rNgu9jBSQtNmeA4gYdMTY/cvAxAo1Lh4VTEiCytcU23cpDTLODOWHO6eNWNgudTBEU1gPeHoYb8FEgWAmdq/zVrHkqa3+vr4NfS8aX5CfB+OSbXhdhnISxEu1bTl8IdhksaLDHaZm7lwJ+oKVek/t85w0oon4gx+6GurRGGxyoSRNMo2CzJM7cbXwOHjKrKpEj0w4+96GaY3Oz8W4dp76K8s+vWCK8TClCUy054PSH0NZ2rC721GCHzcOq9sH9eneVhnW+bgBdSqjfm01MeItCeqKJdjY9W66cisD03VZ3DTuHXARiWMUirSZopDxjLh6L8lj0yemYl6HusH8gC7gXTu6VT+pd+wo1bmoKcNkQhGbPd2u6DOWJQTrrzt3/0uOKFHiT/wWSU2+o+1Erk0ik5rJhUuqXQYHkBOVrM/nnaenM54JiATLmY6qfiCJP4YVJfdJtKyCm/0vB/sC18erfN0bZ4ToknqhrxJTf0EN7zX7FLB/MAMA/L9ghfTm0FIMj/7FIVAik8X/ES4x9uFGrc3kGMZKgcriJOgmA6zjZxT7PDzQPHSCrp/1x1FhA7KgAn54EIE+XWtkXaqw4BgleLuEsSzEdJ4grkz61DkU+YgLvauUs8zBO3yYGT3YAuWMLwxxAH9Q5KD7GH0LPLL5GSV9hzFVgzBwr+98FptxPAqwE8rhTdp0cFG7Hs0kn604DN27yKNmHK2RDxSSf6kRsKz1TMUyCpCxqwJi4IpBTwcqWcsLXCDXnzxvz9i1YO5sN3AIxNWoBK1X59fSOnVIQj0eFDI+PyiwfZRe1o3tN5V6ZDtNC/TpZamwOICL7E2Yp834j6GYeOr2ujAqMkELc1p25M/INNlgua5BvLulXa/XmiKSjmdvxOKamapgoe6W9mVyVyAgrbV+lPghLsBl/HL1NtUAv1tUFRXGyy8wCxW8mHrtGD9kZzlfwDvd6c')"  >http://www.Shopica.com</a></div>
+																			
+													
+                                                <br>
+													
+											</td>
+											<td width="25%" valign="top">
+												<table width="100%"  border="0" cellspacing="0" cellpadding="0" class="sidebar">
+													<tr>
+														<td>
+															<div class="top"></div>
+															<div>
+																<ul>
+																	<!-- RIGHT RELATED-2 -->	 
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Springbok_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=1" target="_top" onmouseover="changeStatus('Springbok Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Springbok Puzzle" id="sk1" name="sk1" >Springbok Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Ravensburger_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=2" target="_top" onmouseover="changeStatus('Ravensburger Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Ravensburger Puzzle" id="sk2" name="sk2" >Ravensburger Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Puzzle_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=3" target="_top" onmouseover="changeStatus('Puzzle Games');return true;" onmouseout="changeStatus('');return true;" title="Puzzle Games" id="sk3" name="sk3" >Puzzle Games</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Puzzle_Game.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=4" target="_top" onmouseover="changeStatus('Puzzle Game');return true;" onmouseout="changeStatus('');return true;" title="Puzzle Game" id="sk4" name="sk4" >Puzzle Game</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Printable_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=5" target="_top" onmouseover="changeStatus('Printable Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Printable Puzzle" id="sk5" name="sk5" >Printable Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Logic_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=6" target="_top" onmouseover="changeStatus('Logic Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Logic Puzzle" id="sk6" name="sk6" >Logic Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Jigsaw_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=7" target="_top" onmouseover="changeStatus('Jigsaw Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Jigsaw Puzzle" id="sk7" name="sk7" >Jigsaw Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Hard_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=8" target="_top" onmouseover="changeStatus('Hard Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Hard Puzzle" id="sk8" name="sk8" >Hard Puzzle</a>
+																	</li>
+																	<!-- /RIGHT RELATED-2 -->		
+																</ul>
+															</div>
+															<div class="bottom"></div>
+														</td>
+													</tr>
+												</table>									
+												<br>							
+												<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://pics.cnomy.com/287/topbg-red.gif">
+													<tr>
+														<td height="54"><h2>Top Searches:</h2></td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Arcade_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=1" target="_top" onmouseover="changeStatus('Arcade Games');return true;" onmouseout="changeStatus('');return true;" title="Arcade Games" id="dk1" name="dk1" >Arcade Games</a>
+														</td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Computer_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=2" target="_top" onmouseover="changeStatus('Computer Games');return true;" onmouseout="changeStatus('');return true;" title="Computer Games" id="dk2" name="dk2" >Computer Games</a>
+														</td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Free_Software_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=3" target="_top" onmouseover="changeStatus('Free Software Downloads');return true;" onmouseout="changeStatus('');return true;" title="Free Software Downloads" id="dk3" name="dk3" >Free Software Downloads</a>
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="#333333">
+														<img src="http://pics.cnomy.com/287/sidebar-bottom-left.gif" align="left" hspace="0" vspace="0"><img 
+														src="http://pics.cnomy.com/287/sidebar-bottom-right.gif" align="right" hspace="0" vspace="0">
+														</td>
+													</tr>
+												</table>
+												<br>
+												<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://pics.cnomy.com/287/topbg-green.gif">
+														<tr>
+															<td height="54"><h2>Most Preferred:</h2></td>
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Fun_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=4" target="_top" onmouseover="changeStatus('Fun Games');return true;" onmouseout="changeStatus('');return true;" title="Fun Games" id="dk4" name="dk4" >Fun Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Online_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=5" target="_top" onmouseover="changeStatus('Online Games');return true;" onmouseout="changeStatus('');return true;" title="Online Games" id="dk5" name="dk5" >Online Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Pocketpc_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=6" target="_top" onmouseover="changeStatus('Pocketpc Games');return true;" onmouseout="changeStatus('');return true;" title="Pocketpc Games" id="dk6" name="dk6" >Pocketpc Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td bgcolor="#333333">
+															<img src="http://pics.cnomy.com/287/sidebar-bottom-left.gif" align="left" hspace="0" vspace="0"><img 
+															src="http://pics.cnomy.com/287/sidebar-bottom-right.gif" align="right" hspace="0" vspace="0">
+															</td>
+														</tr>
+													</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							</table>
+							 <form name="searchform2"  onsubmit="return submitSearch('searchform2', 2, 'pt=2&vid=1184932119_1X02X1314774600&rpt=2')" method="post" >
+								<table  border="0" align="center" cellpadding="0" cellspacing="8">
+									<tr>
+										<td width="62%"><input name="q" type="text" onClick="clearSearchText(this)"  size="40" /></td>
+										<td width="38%"><input value="Search!" name="B1" style="width: 101px; font-family: verdana; font-size: 10px; font-weight: bold; background-color: #eee;" type="submit"></td>
+									</tr>		
+								</table>
+							 </form>
+														<!-- PAGE FOOTER -->
+							<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td align="center" style="padding:10px 0px;">
+										<a href="#" onclick="return addbookmark('Redclawsoftware.com');">Bookmark this page</a> |
+										<a href="#" onclick="javascript: setAsHomePage(this, 'Redclawsoftware.com');">Make this your Homepage</a>
+									</td>
+								</tr>
+							</table>
+							<!-- /PAGE FOOTER -->
+							<div class="bottom"></div>
+						</div>
+					</div>
+					<!-- PAGE DETAILS -->
+				</div>
+			</div>
+		 	<style>	.divStyle{visibility : hidden; display:none;} </style><div class="divStyle"><a href="mailto:harsha@derfurher.net">harsha@derfurher.net</a></div> </body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>
+Blockout Screenshot 1</title>
+<link rel="stylesheet" href="redclaw.css" Type="text/css">
+</head>
+<body>
+<img src="games/blockout01.jpg" width="640" height="480"><font class="side"><br>This is the menu screen in Blockout, where you can review your previous high scores for each of the difficulty levels, and choose to start a new game. Trying to beat your old high scores becomes quite addictive.<b> <a href="screenshot.php?shot=2&game=blockout">Next ></a></b></font></body>
+</html>

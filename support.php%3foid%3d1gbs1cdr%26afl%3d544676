@@ -1,0 +1,136 @@
+ <html>
+<head>
+<title>Game Help From Redclaw Software.</title>
+<META name="description" CONTENT="Game help from Redclaw Software. Online games and computer games available to download and play for free.">
+<META name="keywords" CONTENT="game help,free game downloads,download free games,games,computer games,online games,free downloads,free online games,free downloads games,games to play,puzzle,puzzles,game downloads,card games,arcade games,mah jong,free arcade,pc games,games and puzzles,internet games,game demos,free internet games,free downloadable games,goobs,blockout,trilix,pacman">
+<META Name="rating" content="Safe for Kids">
+<meta name="robots" content="ALL">
+<!-- game help, free game downloads, download games, computer games, online games, games to play, puzzle, puzzles -->
+<!-- goobs, blockout, trilix, pacman -->
+<link rel="stylesheet" href="redclaw.css" Type="text/css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.redclawsoftware.com/favicon.ico">
+</head>
+<body>
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td class="top" width="620" height="70" align="left" valign="middle" background="gfx/m8.gif"><table border="0" width="100%"><tr><td width="75" align="center" valign="middle"><a href="http://www.redclawsoftware.com/index.php?oid=1gbs1cdr&afl=544676"><img src="gfx/crab.gif" width="59" height="55" border="0" alt="Game help from Redclaw Software" title="Game help from Redclaw Software"></a></td><td align="left" valign="middle"><img src="gfx/banner.gif" alt="Game help from Redclaw Software" title="Game help from Redclaw Software"><br><img src="gfx/1.gif" width="2" height="4"><font class="texttop">Try our free downloadable games and pc game demos</font></td></tr></table></td>
+		<td width="10" height="70"><img src="gfx/1.gif" width="10" height="10"></td>
+		<td class="top" width="120" height="70" align="center" valign="middle" background="gfx/m8.gif"><table width="109" cellpadding="0" cellspacing="0" border="0" align="center"><tr><td height="29" bgcolor="#E10400" background="gfx/b1.gif" align="center" valign="middle"><a class="texttitle" href="files.php?oid=1gbs1cdr&afl=544676">Play Games</a></td></tr><tr><td height="3"><img src="gfx/1.gif" width="3" height="3"></td></tr><tr><td height="29" bgcolor="#0000FF" background="gfx/b2.gif" align="center" valign="middle"><a class="texttitle" href="buy.php?oid=1gbs1cdr&afl=544676">Buy Games</a></td></tr></table></td>
+	</tr>
+	<tr>
+		<td class="menu1" width="620" height="25" align="left">&nbsp;<font class="textnorm">Click <a href="javascript:window.external.AddFavorite('http://www.redclawsoftware.com/','Free game downloads from Redclaw Software')">HERE</a> to add this site to your favorites list.</font></td>
+		<td width="10" height="25"><img src="gfx/1.gif" width="10" height="10"></td>
+		<td class="menu1" width="120" height="25" align="center"><font class="textnorm"><b>04th Sep 2003</b></font></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="750" height="10"><img src="gfx/1.gif" width="10" height="10"></td>
+	</tr>
+</table>
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td class="top2" width="140" height="25" align="left" valign="middle" background="gfx/m1.gif"><font class="texttitle">&nbsp;Games To Play</font></td>
+		<td width="10" height="25"><img src="gfx/1.gif" width="10" height="10"></td>
+		<td class="top" width="600" height="25" align="left" valign="middle" background="gfx/m4.gif"><font class="texttitle">&nbsp;Game Help &amp; Support</font></td>
+	</tr>
+	<tr>
+		<td width="140" height="0" bgcolor="#eeeeee" background="gfx/m2.gif"></td>
+		<td width="10" height="0"></td>		
+		<td width="600" rowspan="2" class="main" align="left" valign="top">
+			<p>If you have any problems or questions at all, please email our support address: <a href="mailto:support@redclawsoftware.com">support@redclawsoftware.com</a>. We take great pride in our customer support, and will reply as soon as possible.</p>
+			<br>
+			<p>Here are a few general things to look out for:</p>
+			<br>
+			<b class="blue">Do you have Direct X 7 or above installed?</b>
+			<br>
+			Direct X is a piece of software from Microsoft, which allows games to run on the Windows operating system. Periodically a new version is released which adds features and fixes bugs in the older versions. Now since the games on this website require you have at least version 7 of Direct X, if you don't have it, you might experience problems. But don't worry! The Direct X updates are very easy to install and are provided free from Microsoft at <a href="http://www.microsoft.com/directx/" target="_blank">www.microsoft.com/directx/</a>. If you don't know if you have Direct X installed, or you are unsure of what version you have, installing the newest version is always a good idea.
+			<br><br><br><br>
+			<b class="blue">"<i>I tried updating Direct X, but I still need help!</i>"</b>
+			<br>
+			No problem! Send an email to our <a href="mailto:support@redclawsoftware.com">support</a> address describing the problem and we will get straight on it. Try to include as much information as you can, not only about the problem itself, but also information about your computer such as operating system, type of video card, memory, etc. If you don't know this type of information, don't panic; we will walk you thought the simple steps needed to find it out.
+			<br><br><br><br>
+			<b class="blue">"<i>I have a question about something else...</i>"</b>
+			<br>
+			Take a look at the following Frequently Asked Questions to see if you can spot the answer. If not feel free to email our <a href="mailto:support@redclawsoftware.com">support</a> address and ask.
+			<br><br>
+			<ul><li><a href="#directdraw">When I run a demo, I get a strange message about "DDRAW.DLL". Why?</a></li></ul>
+			<ul><li><a href="#goobextra">How do I access the Goobs solutions and custom levels?</a></li></ul>
+			<ul><li><a href="#goobwin">Can I play Goobs in Windowed Mode?</a></li></ul>
+			<ul><li><a href="#safety">Is it safe to use my credit card online?</a></li></ul>
+			<ul><li><a href="#corruptdownload">I tried downloading a game but it wouldn't install.</a></li></ul>
+			<ul><li><a href="#lostfile">What if I buy a game and then lose the file?</a></li></ul>
+			<ul><li><a href="#friend">A game runs fine on my friends computer, but not mine. Why?</a></li></ul>
+			<ul><li><a href="#privacy">If I buy a game, will I suddenly get lots of spam email?</a></li></ul>
+			<p>&nbsp;</p>
+			<br><br>
+			<a name="directdraw"><b class="blue">When I run a demo, I get a strange message about "DDRAW.DLL". Why?</b></a><br>If you get a message about "ddraw.dll" or "DirectDraw", either you do not have direct X installed, or you do not have at least version 7 of Direct X. All our games (and virtually every other game) require that you have at least version 7 of Direct X installed for them to run. You can download Direct X for free from the following location: <a href="http://www.microsoft.com/directx/" target="_blank">www.microsoft.com/directx/</a>
+			<p>&nbsp;</p>
+			<br><br>
+			<a name="goobextra"><b class="blue">How do I access the Goobs solutions and custom levels?</b></a><br>Go to the <a href="http://www.redclawsoftware.com/goobsextras.php?oid=1gbs1cdr&afl=544676">Goobs Extras</a> page and select the file you wish to download. <u>You do not read the file</u>, but instead do the following:<br><br>Demo solutions should be saved to <b>c:\program files\redclaw\goobsdemo\solutions\</b><br>Full game solutions should be saved to <b>c:\program files\redclaw\goobs\solutions\</b><br>and custom levels should be saved to <b>c:\program files\redclaw\goobs\custom\</b><br><br>Once the file(s) are saved to these locations they will be available from within the game.<br><br><i>Note: if you have installed Goobs to a different location, use that instead of the default one shown here.</i>
+			<p>&nbsp;</p>
+			<br><br>
+			<a name="goobwin"><b class="blue">Can I play Goobs in Windowed Mode?</b></a><br>You sure can. When you install Goobs, a shortcut is placed on your desktop, which will launch Goobs in the default Full Screen mode. However, if you would like to play Goobs in Windowed mode, simply click the <b>Goobs (Windowed)</b> icon in your start menu.
+			<p>&nbsp;</p>
+			<br><br>
+			<a name="safety"><b class="blue">Is it safe to use my credit card online?</b></a><br>Absolutely! When you place an order with us, it is made over a <u>secure connection</u> to the order processing company, <b>BMT Micro</b>. They are one of the biggest, most respected order processing companies on the Internet, dealing with millions of dollars worth of orders every month. They have many security and fraud prevention measures in place to make sure <u>all</u> bits of customer information, not just credit card numbers, are totally safe!
+			<p>&nbsp;</p>
+			<br><br>
+			<a name="corruptdownload"><b class="blue">I tried downloading a game but it wouldn't install.</b></a><br>If you get an error message when you run the setup program, it is very likely the file has become corrupted during the download. Try turning off any download managers you may have and then download the file again. If it still won't install, it is likely that the corrupted file has been cached by your Internet Service Provider (big ISPs like AOL often do this). If this is the case, try waiting 24 hours before downloading again.
+			<p>&nbsp;</p>
+			<br><br>
+			<a name="lostfile"><b class="blue">What if I buy a game and then lose the file?</b></a><br>It is always a good idea to make a backup of any installation files you have in case you need to re-install your computer, etc. However, if you do lose the file and need a replacement, email our <a href="mailto:support@redclawsoftware.com">support</a> address quoting your order number, and a replacement download will be made available free of charge.
+			<p>&nbsp;</p>
+			<br><br>
+			<a name="friend"><b class="blue">A game runs fine on my friends computer, but not mine. Why?</b></a><br>Like snowflakes, no two computers are alike. Ok, that's probably not true but the fact is most computers do come with different bits of hardware installed. The best thing to try is to download the most recent drivers for your video and sound cards, and get the latest version of <a href="http://www.microsoft.com/directx/" target="_blank">Direct X</a> too. And if all else fails you could distract your friend with a shiny object, then quickly swap computers while they aren't looking.
+			<p>&nbsp;</p>
+			<br><br>
+			<a name="privacy"><b class="blue">If I buy a game, will I suddenly get lots of spam email?</b></a><br>Absolutely not! We hate spam just as much as you, and will never pass on your information to other companies. Please see our <a href="http://www.redclawsoftware.com/privacy.php?oid=1gbs1cdr&afl=544676">privacy policy</a> for more information.
+			<p>&nbsp;</p>
+			<br><br>
+			<p>If you have any problems or questions at all, please email our support address: <a href="mailto:support@redclawsoftware.com">support@redclawsoftware.com</a> and we will respond as quickly as possible.</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="140" align="left" valign="top" bgcolor="#eeeeee" background="gfx/m2.gif">
+						<img src="gfx/1.gif" width="140" height="8"><br>
+			&nbsp;<a href="goobs.php?oid=1gbs1cdr&afl=544676">The Goobs</a><br>
+			&nbsp;<a href="blockout.php?oid=1gbs1cdr&afl=544676">Blockout</a><br>
+			&nbsp;<a href="trilix.php?oid=1gbs1cdr&afl=544676">Trilix</a><br>
+			&nbsp;<br>
+			&nbsp;<font class="textmenu"><b>Free Game Extras</b></font><br>
+			&nbsp;<a href="goobsextras.php?oid=1gbs1cdr&afl=544676">The Goobs</a><br>
+			<img src="gfx/1.gif" width="140" height="8"><br>
+			<img src="gfx/m9.gif" width="140" height="36">
+			<img src="gfx/1.gif" width="140" height="6"><br>
+			<table width="132" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td height="14" align="left" valign="middle"><font class="small">The Goobs</font></td><td height="14" align="right" valign="middle"><font class="small">$19.95</td><td height="14" align="right" valign="middle"><a href="/support.php?oid=1cdr&afl=544676"><img src="gfx/c1.gif" width="6" height="8" border="0" alt="Remove The Goobs from cart" title="Remove The Goobs from cart"></a></td></tr><tr><td height="14" align="left" valign="middle"><font class="small">CdRom</font></td><td height="14" align="right" valign="middle"><font class="small">$10.00</font></td><td height="14" align="right" valign="middle"><a href="/support.php?oid=1gbs&afl=544676"><img src="gfx/c1.gif" width="6" height="8" border="0" alt="Remove CdRom from cart" title="Remove CdRom from cart"></a></td></tr><tr><td height="18" align="left" valign="middle"><font class="small"><b><u>Total Price:</u></b></font></td><td height="18" align="right" valign="middle"><font class="small"><b><u>$29.95</u></b></font></td><td height="18"><img src="gfx/1.gif" width="1" height="1"></td></tr><tr><td colspan="3" height="22" align="center" valign="bottom"><a href="buy.php?oid=1gbs1cdr&afl=544676"><img src="gfx/c2.gif" border="0" width="102" height="17" alt="Go To Checkout" title="Go To Checkout"></a></td></tr></table>			<img src="gfx/1.gif" width="140" height="8"><br>
+			<img src="gfx/m3.gif" width="140" height="36">
+			<img src="gfx/1.gif" width="140" height="6"><br>
+			&nbsp;<a href="index.php?oid=1gbs1cdr&afl=544676">Home</a><br>
+			&nbsp;<a href="news.php?oid=1gbs1cdr&afl=544676">News</a><br>
+			&nbsp;<a href="about.php?oid=1gbs1cdr&afl=544676">About Us</a><br>
+			&nbsp;<a href="contact.php?oid=1gbs1cdr&afl=544676">Contact Info</a><br>
+			&nbsp;<a href="poll.php?oid=1gbs1cdr&afl=544676">Game Poll</a><br>
+			&nbsp;<a href="guarantee.php?oid=1gbs1cdr&afl=544676">Our Guarantee</a><br>
+			&nbsp;<a href="support.php?oid=1gbs1cdr&afl=544676">Help &amp; Support</a><br>
+			&nbsp;<a href="affiliate.php?oid=1gbs1cdr&afl=544676">Affiliate Program</a><br>
+			<img src="gfx/1.gif" width="140" height="20"><br>
+			<img src="gfx/1.gif" width="5" height="12"><font class="textmenu"><b>Cool Stuff</b></font><br>	
+			&nbsp;<a href="pinchy.php?oid=1gbs1cdr&afl=544676">Mr Pinchy</a><br>
+			&nbsp;<a href="think.php?oid=1gbs1cdr&afl=544676">Think About It</a><br>
+			&nbsp;<a href="bigred.php?oid=1gbs1cdr&afl=544676">Big Red Button</a><br>
+			<img src="gfx/1.gif" width="140" height="8"><br>
+		</td>
+		<td width="10"><img src="gfx/1.gif" width="10" height="10"></td>
+	</tr>
+	<tr>
+		<td width="140" height="10" class="menu3"><img src="gfx/1.gif" width="10" height="10"></td>
+		<td width="10" height="10"><img src="gfx/1.gif" width="10" height="10"></td>
+		<td width="600" height="10" class="menu3"><img src="gfx/1.gif" width="10" height="10"></td>
+	</tr>
+</table>
+	<table width="750" border="0" cellspacing="0" cellpadding="5" align="center">
+	<tr>
+		<td class="menu2" width="750" align="center" valign="middle"><font class="textnorm">Copyright © 2001-2003 Redclaw Software. All Rights Reserved.&nbsp;<a href="privacy.php?oid=1gbs1cdr&afl=544676">Privacy Policy</a>&nbsp;|&nbsp;<a href="index.php?oid=1gbs1cdr&afl=544676">Home</a>&nbsp;|&nbsp;<a href="affiliate.php?oid=1gbs1cdr&afl=544676">Sell Our Games</a></font></td>
+	</tr>
+</table>
+</body>
+</html>
