@@ -1,0 +1,540 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Game Puzzle-Redclawsoftware.com</title>
+		<style type="text/css">
+			 .img { 			
+				margin:8px;
+				border:1px solid #ff5c01; 
+			}
+			.in-page { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.in-page li { 
+				margin:0px;
+				padding:4px 5px; 
+				background:url(http://pics.cnomy.com/287/pointer.gif) no-repeat -3px 7px; 
+				list-style:none;
+				border-bottom:1px solid #ccc;
+				text-align:left;
+				color:#666;
+				font-weight:bold; 
+			}
+			.in-page li a { 			
+				text-align:left;
+				color:#666;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.in-page li a:hover { 			
+				color:#000;
+				text-decoration:none; 
+			}
+			.in-page ul { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.inpage { 
+				margin:0px;
+				padding:4px 2px 1px 45px;
+				font-size:11px;
+				color:#333;
+				text-align:left;		
+				line-height:16px; 
+			}
+			.inpage a { 
+				font-size:11px;	
+				color:#8c9357;	
+				text-align:left;
+				text-decoration:underline;		
+				font-style: italic; 
+			}
+			.inpage a:hover { 			
+				color:#666;
+				text-decoration:underline; 
+			}
+			.inpage-head { 
+				margin:0px;
+				padding:4px 2px 1px 45px;
+				color:#80433A;
+				font-size:16px;
+				background: url(http://pics.cnomy.com/287/inpage-arrow.gif) no-repeat 5px 5px;
+				font-weight:bold;text-align:left; 
+				text-decoration:none;
+			}
+			.inpage-top { 
+				margin:0px;
+				padding:8px 5px;
+				color:#666;
+				font-size:14px;
+				font-weight:bold;	
+				text-align:left; 
+			}
+			.inpage-top a { 
+				margin:0px;
+				padding:10px 6px;
+				color:#000;	
+				font-size:11px;	
+				font-weight:bold; 
+				text-decoration:none; 
+			}
+			.inpage-top a:hover { 			
+				color:#666;
+				text-decoration:underline; 
+			}
+			.result-text { 			
+				margin:0px;
+				padding:10px 7px;
+				color:#fff;
+				font-size:12px;
+				font-weight:bold;
+				text-align:left;
+				background: #333;
+				border-bottom: 1px solid #fff;
+			}
+			.result-text a { 		
+				color:#fff;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.result-text a:hover { 			
+				color:#fff;
+				text-decoration:underline; 
+			}
+			.result-text-index { 
+				margin:0px;
+				padding:12px 7px;
+				color:#fff;	
+				font-size:12px;	
+				font-weight:bold;
+				text-align:left;
+				background: #333;
+				border-bottom: 1px solid #fff;	
+				border-right: 1px solid #fff; 
+			}
+			.result-text-index a { 			
+				color:#fff;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.result-text-index a:hover { 			
+				color:#fff;
+				text-decoration:underline; 
+			}
+			.sidebar { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.sidebar .bottom { 			
+				background: url(http://pics.cnomy.com/287/sidebar-bottom.gif) #eee no-repeat right bottom;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar .top { 
+				background: url(http://pics.cnomy.com/287/sidebar-top.gif) #eee no-repeat left top;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar li { 
+				margin:0px;padding:3px 12px;
+				background: url(http://pics.cnomy.com/287/sidebar-li.gif) no-repeat 5px 5px;			
+				list-style:none;
+				border-bottom:2px solid #fff;
+				text-align:left;
+				color:#666; 
+			}
+			.sidebar li a { 			
+				text-align:left;
+				color:#666;
+				text-decoration:none;
+				font-weight:bold; 
+			}
+			.sidebar li a:hover { 			
+				color:#000;
+				text-decoration:underline; 
+			}
+			.sidebar ul { 			
+				margin:0px;
+				padding:0px;
+				background:#eee;
+				border:none; 
+			}
+			.sidebar-results { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.sidebar-results .bottom { 
+				background: url(http://pics.cnomy.com/287/sidebar-bottom.gif) #eee no-repeat right bottom;	
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar-results .top { 			
+				background: url(http://pics.cnomy.com/287/sidebar-top.gif) #eee no-repeat left top;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar-results li { 
+				margin:0px;
+				padding:3px 12px;
+				background: url(http://pics.cnomy.com/287/pointer.gif) #eee no-repeat 5px 5px;	
+				list-style:none;
+				border-bottom:2px solid #fff;	
+				text-align:left;
+				color:#666; 
+			}
+			.sidebar-results li a { 
+				text-align:left;
+				color:#666;
+				text-decoration:none;
+				font-weight:bold;
+				margin-left: 2px;
+				display: block; 
+			}
+			.sidebar-results li a:hover { 		
+				color:#000;
+				text-decoration:underline; 
+			}
+			.sidebar-results ul { 			
+				margin:0px;
+				padding:0px;
+				background:#eee;
+				border:none; 
+			}
+			.style1 { 			
+				font-size: 14px;
+				font-weight: bold;
+				font-style: italic; 
+			}
+			.style2 { 			
+				font-size: 12px;
+				font-weight: bold; 
+			}
+			.style3 { 
+				color: #000000 
+			}
+			.table-border { 
+				border-bottom:2px solid #e0e0e0;
+				border-right:2px solid #e0e0e0;
+				border-left:2px solid #e0e0e0;	
+				background:#fff;width:752px 
+			}
+			a { 			
+				text-decoration:underline;
+				color:#666666; 
+			}
+			a:hover { 			
+				text-decoration:underline;
+				color:#000; 
+			}
+			body { 
+				margin:0px;
+				font-family:Verdana, Arial, Helvetica, sans-serif;
+				font-size:11px;
+				color:#666666; 
+			}
+			#wrapper { 
+				background:url(http://pics.cnomy.com/287/body-bg.gif) repeat-x center -27px; 
+			}
+			form { 			
+				margin:0px;
+				padding:0px; 
+			}
+			h2 { 
+				margin:0px;
+				padding:0px 10px;
+				font-size:16px;
+				color:#000;
+				font-weight:bold;	
+				text-align:left; 
+			}
+			h3 { 
+				margin:5px;
+				color:#b18f8a;
+				font-size:14px;
+				font-weight:bold;
+				text-align:left;			
+				font-style: oblique; 
+			}
+			li { 
+				margin:0px;
+				padding:2px 1px 4px 20px;
+				background: url(http://pics.cnomy.com/287/li.gif) no-repeat 2px 3px;	
+				list-style:none;
+				text-align:left; 
+			}
+			p { 			
+				margin:0px;
+				padding:4px 2px 2px 5px; 
+			}
+			table { 
+				margin:0px;
+				padding:0px;	
+				font-family:Verdana, Arial, Helvetica, sans-serif;			
+				font-size:11px;	
+				color:#666666;	
+				text-align:left;
+			}
+			ul { 			
+				margin:0px;
+				padding:0px; 
+			}
+		</style>
+		<script language="JavaScript" type="text/javascript" src="http://js.cnomy.com/templates.js">
+		</script>
+	</head>
+
+	<body onload="showPopunder('http://www.redclawsoftware.com/popunder?q=Game+Puzzle&pt=2&vid=1184932119_1X02X1314774600&rpt=2');" onunload="">		<!-- custom message start -->
+				<!-- custom message end -->
+
+		<div style="visibility:hidden;display:none;" id="divSponAds"> <form name="frmSponsAds" id="frmSponsAds" method="POST" action="" target="_blank"><input type="hidden" name="params" id="params"></form></div>			<div id="wrapper">
+				<div align="center">
+										<!-- PAGE HEADER -->
+					<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+						<tr>
+							<td valign="bottom" align="left" height="56">
+								<a href="http://www.Redclawsoftware.com" style="text-decoration: none;">
+									<span style="font-family: Tahoma,arial;font-size: 20pt;font-weight: bold; color: #333333; letter-spacing: -1px;"><i>Redclawsoftware.com</i></span>
+								</a>
+								<br><br>
+							</td>
+							<td>
+								<form name="searchform1"  onsubmit="return submitSearch('searchform1', 1, 'pt=2&vid=1184932119_1X02X1314774600&rpt=2')" method="post" >
+									<div align="right">
+									<small style="padding-right: 220px;font-size: 11px;">Enter Search Term!</small><br>
+									<input name="q" type="text" onClick="clearSearchText(this)"  size="35" />
+									<input value="Search!" name="B1" style="width: 101px; font-family: verdana; font-size: 10px; font-weight: bold; background-color: #eee;" type="submit">
+									</div>
+								</form>
+							</td>
+						</tr>
+					</table>
+					<!-- /PAGE HEADER -->
+										<!-- PAGE DETAILS -->
+					<div class="table-border">
+						<table width="752"  border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#eeeeee">
+							<tr>
+								<td width="23" height="35" valign="top"> </td>
+								<td width="534" valign="bottom" bgcolor="eeeeee">Sponsored Results:</td>
+								<td width="177" valign="bottom" bgcolor="eeeeee">Relevant Links:</td>
+							</tr>
+						</table>
+												<div class="next">
+							<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+								<td valign="top">
+									<table width="100%"  border="0" cellspacing="0" cellpadding="5">
+										<tr>
+											<td width="75%" valign="top">
+																									
+													<div><a href="#" onmouseover="changeStatus('Play Puzzle Games - Free');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqIypO9Jp4ChDsL4LI9DTGMQx0NpRKpvKc8UKNeVnDZgrBQxgFLLBDwEW0NhK+wOtyn3so3761o0+DSoLWdHJMghDaVGSQQwF5NzuCtwyriG6X35bqkDsznFHQsixx5PXzqV9Je0Ef3xJuCHv3uNn2VZykK474wux8c7y6S5n5Qw4wku1mgDsB9XNnvb816hO0L7MDr5MUv2lvPA7tEOm4OPCQwE96nPhaMrCLhG3rbcBohgLxfm2iPGYvFbCGQKQGc1E4OJw8HcdOBHQYfSjDRj7NqgVX9bu4C3trBD4vv/IkP8JYnFiIWzU7IoWlevrSN2vhmyBQbS4M0wLzz+Nd9BTD70Xkv7jiqIHdTuUMpG7EObGkKlPKm8FFdj9L3bv3gwp2Xb2oA7snhnhnrathu89Jacp6cTxOuQ4wsYJA1/nrV07+1QGXE7OnOeIcuDu38nO3NlaMMvPc0xBJkpbQyLHrFbEyoce4Vfttpw58oKw8EmX5ESu+uhRpGG1MM2ZByuZRdYuLIAJ5rYN02+FET+AmDuSqDxm6LrRdBPz7fmA5Z3oXN79o+4sUCL4HI2FL6XDU668WMfLG5p4pikXthurbWaihhlGWSJ6irAw2R3pYmFKFvBod0aKCHr3C5gURG4+6r44wcLKIUppGT/QKvzgRGYre3Ht1u+pQ+GB5S35wF3NsJi0SNXRV27awIuuDWGnO7l6SWejQ2WDAX122EO+4OUqNsGcX2ftn99bgoYX5Fp114WcNumHsq7XGXfyQPYNPxRIhZ2abYhQyM+96o99CH14nqq/sXiZq09HPEDB6wwWDuzvOaD37rGaaH+FSVaKKKSJjmY57qy3RQ7LfIM8OV/UOL4l0Voy6Nhoo1hi4iEm89T4vVmoEQN/DxlPQmrNOffd23UlrUnHU/6JTCLnzwRH2ZEW5qgHf1ztmbqDkJa76cagxeru6IYbsyljKPQSfL9rxCfOGlJ9PgZj1o6sccp/nb7Mob8vAVQPQLulIOcEqbhz7YyWUKWo67wtTD0VzSvDbH5uI9ldaMNsiehPbs07e11HMqiJjtjviXV4VQ+HY5vFv4nALvpSpEP6x2m60y1T4WYeNVL7y4HK5Kf4oyNG9fayl/w4oZfSMQvUxzOzv/nl1xhMBQX9zD4G9WZv+0XrvsAeVzmz3du01do5oBsdIkM3bEFaitpBpy/kYmtnjk+Qw2Oiy1+C/iE3+4A1jGXK0igdZxgc+HXv4hOAC88ak7Q9WeOOO4JN2MrICGJJvBR2vCtCS8BCgt8Ow6R3jFUIn907ZGk+SpQMR7VsuAmBWVuUQjIKDsGZDR1LBrAHZbViOGyCz4r/ictdTHTWwQJ33jloIXvl6EUwqgQziOXbUIdxFyAEXErfQ==')" class="inpage-head" >Play Puzzle Games - Free</a></div>
+													
+														<div class="inpage">Mystery Case Files, Luxor, &amp; more! Free Puzzle Game Downloads.														<br />
+														<a href="#" onmouseover="changeStatus('Play Puzzle Games - Free');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqIypO9Jp4ChDsL4LI9DTGMQx0NpRKpvKc8UKNeVnDZgrBQxgFLLBDwEW0NhK+wOtyn3so3761o0+DSoLWdHJMghDaVGSQQwF5NzuCtwyriG6X35bqkDsznFHQsixx5PXzqV9Je0Ef3xJuCHv3uNn2VZykK474wux8c7y6S5n5Qw4wku1mgDsB9XNnvb816hO0L7MDr5MUv2lvPA7tEOm4OPCQwE96nPhaMrCLhG3rbcBohgLxfm2iPGYvFbCGQKQGc1E4OJw8HcdOBHQYfSjDRj7NqgVX9bu4C3trBD4vv/IkP8JYnFiIWzU7IoWlevrSN2vhmyBQbS4M0wLzz+Nd9BTD70Xkv7jiqIHdTuUMpG7EObGkKlPKm8FFdj9L3bv3gwp2Xb2oA7snhnhnrathu89Jacp6cTxOuQ4wsYJA1/nrV07+1QGXE7OnOeIcuDu38nO3NlaMMvPc0xBJkpbQyLHrFbEyoce4Vfttpw58oKw8EmX5ESu+uhRpGG1MM2ZByuZRdYuLIAJ5rYN02+FET+AmDuSqDxm6LrRdBPz7fmA5Z3oXN79o+4sUCL4HI2FL6XDU668WMfLG5p4pikXthurbWaihhlGWSJ6irAw2R3pYmFKFvBod0aKCHr3C5gURG4+6r44wcLKIUppGT/QKvzgRGYre3Ht1u+pQ+GB5S35wF3NsJi0SNXRV27awIuuDWGnO7l6SWejQ2WDAX122EO+4OUqNsGcX2ftn99bgoYX5Fp114WcNumHsq7XGXfyQPYNPxRIhZ2abYhQyM+96o99CH14nqq/sXiZq09HPEDB6wwWDuzvOaD37rGaaH+FSVaKKKSJjmY57qy3RQ7LfIM8OV/UOL4l0Voy6Nhoo1hi4iEm89T4vVmoEQN/DxlPQmrNOffd23UlrUnHU/6JTCLnzwRH2ZEW5qgHf1ztmbqDkJa76cagxeru6IYbsyljKPQSfL9rxCfOGlJ9PgZj1o6sccp/nb7Mob8vAVQPQLulIOcEqbhz7YyWUKWo67wtTD0VzSvDbH5uI9ldaMNsiehPbs07e11HMqiJjtjviXV4VQ+HY5vFv4nALvpSpEP6x2m60y1T4WYeNVL7y4HK5Kf4oyNG9fayl/w4oZfSMQvUxzOzv/nl1xhMBQX9zD4G9WZv+0XrvsAeVzmz3du01do5oBsdIkM3bEFaitpBpy/kYmtnjk+Qw2Oiy1+C/iE3+4A1jGXK0igdZxgc+HXv4hOAC88ak7Q9WeOOO4JN2MrICGJJvBR2vCtCS8BCgt8Ow6R3jFUIn907ZGk+SpQMR7VsuAmBWVuUQjIKDsGZDR1LBrAHZbViOGyCz4r/ictdTHTWwQJ33jloIXvl6EUwqgQziOXbUIdxFyAEXErfQ==')"  >www.BigFishGames.com</a></div>
+																				
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqMypO9Jp4Ch3PWtQe+GZ3zSHQlKmHQ1CZ1gTwLU372LcKXtdpSP1MlZeTfkpiOnJxlbxIFLyW1n9e/9HIwBx3srFEHyxyj0TwW88NbQ71dpQxyhUioVgoNReLZ5ahkMF9Ylv2oT5UoXw4VvnPUIP0jAJgyokiCLEdlVCOzOwkCev1r1W2lZW8+XSWDXyiF9jXUzr5o4C9WCwOiB4LR4j/zlQ/b3Gq8TXsAH9++UqxUXzUXjiaxb1ZFZsDuEnm/8s3d1GhgH1KmLEkTanEicuOLtp13s7yZcK9UP9derZCoLIESnIlHwIwvCA+73DECXHGJVHRcL8wz5KicYX7wJzN0od0A1AHZmuKR4T9HoBuHm9YAtbNE9+T2UjkLb9C2xXAsAeY4f1Gf17n81Oxls0BhrywIci24pgqo3/ppEQmlaqD4QEKdCJu7urcL2tweyzC2+r4wgcygIH+ocwrU2gwak/JQQRV7FQBbRs9hu5C0KNT+ycvzqQvmg4iV14afAGxfyuw1TfvS+IKYOlWT+80CNJ4QDX8+hMlIDsnmtnYiLBkhzf79AUxew/xYI5P51h+k/k9GRX3ccjJI/RI4C4rERGDYwpKa3kSDuW7pWAetOeqzOEWaKR4djLZ8pXOV0JmNsKjJBshkqBSPe77yP03+z+iSuj9dY5iqPQdgcLfFI0BFuqWj69H0ztRgl8kIKIW9q00rXuBohvxfngKNGAKOkrrvbiUjDsw1K1OZr1Bk45rvkMznpsdUiY57HJ6dFtfAuiakEr901yMkK1HRUVKykIrd2zvgIwhZeJ1vTcDvw67t6UPgrwf+UlHZHAgS0RXhW4ZjvYlMeBvexXKxsFrIWB630AzGmkh2utcfyNlvR08lN03G4FTdNIfKMKWX/36vcEB0KKYWhwAXn/mmJm3Cd7P5cz9g4s/YzqrxeyAqAVZKRDIB/U+TnHRJdtFeLz04ftwypZyIZe9RAZLbATXkxGmre3rMS2A2Qgw7ANsuI0EmTWEmEl128hTFW+Bpxl3tp6lZyZtlSGZKr7PDXyrqZbOrBeGPYrwQ6T+PDPrHeX6fRBNC63o7sLd1a+WptAmJjhxDQwGBNvFYWHMckCklUg9rfPaxY6ylEiRMha4ooWYNNZYI85NegET2SN4CKOJiqdTNwojNCoJBI00M1a8fX0ZcvghK/RunyUEkc5y76Au93j925RiGfSzOoxC8NikkWvok363pu8k3CGvF6OEbTq7VsCPqI58jKLg17Nc3//o/mAj3xuN0Vxdny6uEa32T5WctWFvrrPnzYftRWE26uwaHDbctjLFH4Bg/ocYZGJ+yxY8ud6P24sWEeo/Mkd1+OXTNDdrEI0OznTrAo2Tg=')" class="inpage-head" >Puzzle Games</a></div>
+													
+														<div class="inpage">GameTap delivers the greatest video games right to your PC. Play Now.														<br />
+														<a href="#" onmouseover="changeStatus('Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqMypO9Jp4Ch3PWtQe+GZ3zSHQlKmHQ1CZ1gTwLU372LcKXtdpSP1MlZeTfkpiOnJxlbxIFLyW1n9e/9HIwBx3srFEHyxyj0TwW88NbQ71dpQxyhUioVgoNReLZ5ahkMF9Ylv2oT5UoXw4VvnPUIP0jAJgyokiCLEdlVCOzOwkCev1r1W2lZW8+XSWDXyiF9jXUzr5o4C9WCwOiB4LR4j/zlQ/b3Gq8TXsAH9++UqxUXzUXjiaxb1ZFZsDuEnm/8s3d1GhgH1KmLEkTanEicuOLtp13s7yZcK9UP9derZCoLIESnIlHwIwvCA+73DECXHGJVHRcL8wz5KicYX7wJzN0od0A1AHZmuKR4T9HoBuHm9YAtbNE9+T2UjkLb9C2xXAsAeY4f1Gf17n81Oxls0BhrywIci24pgqo3/ppEQmlaqD4QEKdCJu7urcL2tweyzC2+r4wgcygIH+ocwrU2gwak/JQQRV7FQBbRs9hu5C0KNT+ycvzqQvmg4iV14afAGxfyuw1TfvS+IKYOlWT+80CNJ4QDX8+hMlIDsnmtnYiLBkhzf79AUxew/xYI5P51h+k/k9GRX3ccjJI/RI4C4rERGDYwpKa3kSDuW7pWAetOeqzOEWaKR4djLZ8pXOV0JmNsKjJBshkqBSPe77yP03+z+iSuj9dY5iqPQdgcLfFI0BFuqWj69H0ztRgl8kIKIW9q00rXuBohvxfngKNGAKOkrrvbiUjDsw1K1OZr1Bk45rvkMznpsdUiY57HJ6dFtfAuiakEr901yMkK1HRUVKykIrd2zvgIwhZeJ1vTcDvw67t6UPgrwf+UlHZHAgS0RXhW4ZjvYlMeBvexXKxsFrIWB630AzGmkh2utcfyNlvR08lN03G4FTdNIfKMKWX/36vcEB0KKYWhwAXn/mmJm3Cd7P5cz9g4s/YzqrxeyAqAVZKRDIB/U+TnHRJdtFeLz04ftwypZyIZe9RAZLbATXkxGmre3rMS2A2Qgw7ANsuI0EmTWEmEl128hTFW+Bpxl3tp6lZyZtlSGZKr7PDXyrqZbOrBeGPYrwQ6T+PDPrHeX6fRBNC63o7sLd1a+WptAmJjhxDQwGBNvFYWHMckCklUg9rfPaxY6ylEiRMha4ooWYNNZYI85NegET2SN4CKOJiqdTNwojNCoJBI00M1a8fX0ZcvghK/RunyUEkc5y76Au93j925RiGfSzOoxC8NikkWvok363pu8k3CGvF6OEbTq7VsCPqI58jKLg17Nc3//o/mAj3xuN0Vxdny6uEa32T5WctWFvrrPnzYftRWE26uwaHDbctjLFH4Bg/ocYZGJ+yxY8ud6P24sWEeo/Mkd1+OXTNDdrEI0OznTrAo2Tg=')"  >www.GameTap.com</a></div>
+																			
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Free Online Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqAypO9Jp4ChNea5bC7Vj6o3TsxofZh9GYlcrE6Fn08KqKArMCcs5ad4lq5wQ3DyH1q+ylTcc408hMfjtuYpUuoqDXTiqOSReC9sCYYLSYZGM4GRskDPlRtE1WEHeqYmsanREfrjBq35LoGkR5ooawACZ6qdj57/Jx6G1mPHXWlFbMQij56K2Yqld7tbk5GO/SyqlmRwkXZPdRzzRNoEJDKAu/I/xtKLAqmuuuTBPGuYHymFNbyDGu8eVHEpUIhrpq0S0Ivr9N2wHIP7i/bePqj2tZv+H6T6uBjmfCXNd47+DqhtR4bkiqu/VLzgbtPZTF9zlKrR5gvNttuhtfo0/zqEMRd/r5GZHb14nkBRzWiPRphkhkGr9/4DPk2GNAJZhwbl3+iBhcMPoa0BeZubIV84OItKHk4P9WCNGo43i3ItWNsNtKzOJoCh0CrLZ3iM2ZgpdCXYEJyKlsHZBzEuL4yKze2CBLW4zmtw/pjffgGHlo6zPLf+hogQKdsV1nISWQ5adxqVCGI8xiw0KH1Kxu2HQISWg6MxnFQlETwUrJ6YF1poyR8aBXlQ058tN9bLG9S8vqVPZ003SnEv3AxNuKSbBy1Q+i3oqiJ/ssPWT4/3UhpP9mI89XeE+uOeROpFhOvy7SZ4IWKRrAeZs04GVXjqQz/ojkqyVMO38DnOD4l6+sD5MCcZYwT5gDLt8JuXSRyS9TXTyAjhzv+JazrA90EEkRBx3vlt7DDt+Wq5Hni5WEl32Xdt5zvXvJesx1XlI6iyapXHCiJ8b3RnAHXngnQB0TS5gJP61aCWiZ74Qs9jgXn9aHj8d4IotHvEnQZxB1zTpSWyshZM5oDCeFIQsdcZ2VhZ+j/pgdr/Mw4F2ReB8WBp++GQ2uZXaclHXGEPsOFEiTBHMIDkPIoR/z2DDHkQNqvUjh9wPds9YtpTesqOtQwNArXvk5VuF9iRd7Xj5ahlkQYi7Vi4DQEzxCOtxTgsdYu4Q0P8gMsn07BJfkJCLjPAuG7j0nHLwfK9+xTZfdpLfcoDlHUV1Zpl4/svHQOjf8kwIoNBiJxeue8EPO6mSfBWID0Pt8hFslFpMwmfYCVGmnRTpTGhjO7Q8+QrtrRZOwvBtIRSo9Kuz0FVa10BvypcZCgfeK8X9eNvyR0otD3z5zrFVzsfE/SLIt3ZhtlRyG12IQ/qsJioWnUdfBuZp70S1YJk32okp/JgfAZkO8IR4egMg+dOuPqSCB7wtslIvXMDNEMVDWk4Ji9dOKAWMRmcCWGkH/QamwKpBZ4mWQ==')" class="inpage-head" >Free Online Puzzle Games</a></div>
+													
+														<div class="inpage">Download Your Favorite Card, Board &amp; Puzzle Games To Your PC For Free!														<br />
+														<a href="#" onmouseover="changeStatus('Free Online Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqAypO9Jp4ChNea5bC7Vj6o3TsxofZh9GYlcrE6Fn08KqKArMCcs5ad4lq5wQ3DyH1q+ylTcc408hMfjtuYpUuoqDXTiqOSReC9sCYYLSYZGM4GRskDPlRtE1WEHeqYmsanREfrjBq35LoGkR5ooawACZ6qdj57/Jx6G1mPHXWlFbMQij56K2Yqld7tbk5GO/SyqlmRwkXZPdRzzRNoEJDKAu/I/xtKLAqmuuuTBPGuYHymFNbyDGu8eVHEpUIhrpq0S0Ivr9N2wHIP7i/bePqj2tZv+H6T6uBjmfCXNd47+DqhtR4bkiqu/VLzgbtPZTF9zlKrR5gvNttuhtfo0/zqEMRd/r5GZHb14nkBRzWiPRphkhkGr9/4DPk2GNAJZhwbl3+iBhcMPoa0BeZubIV84OItKHk4P9WCNGo43i3ItWNsNtKzOJoCh0CrLZ3iM2ZgpdCXYEJyKlsHZBzEuL4yKze2CBLW4zmtw/pjffgGHlo6zPLf+hogQKdsV1nISWQ5adxqVCGI8xiw0KH1Kxu2HQISWg6MxnFQlETwUrJ6YF1poyR8aBXlQ058tN9bLG9S8vqVPZ003SnEv3AxNuKSbBy1Q+i3oqiJ/ssPWT4/3UhpP9mI89XeE+uOeROpFhOvy7SZ4IWKRrAeZs04GVXjqQz/ojkqyVMO38DnOD4l6+sD5MCcZYwT5gDLt8JuXSRyS9TXTyAjhzv+JazrA90EEkRBx3vlt7DDt+Wq5Hni5WEl32Xdt5zvXvJesx1XlI6iyapXHCiJ8b3RnAHXngnQB0TS5gJP61aCWiZ74Qs9jgXn9aHj8d4IotHvEnQZxB1zTpSWyshZM5oDCeFIQsdcZ2VhZ+j/pgdr/Mw4F2ReB8WBp++GQ2uZXaclHXGEPsOFEiTBHMIDkPIoR/z2DDHkQNqvUjh9wPds9YtpTesqOtQwNArXvk5VuF9iRd7Xj5ahlkQYi7Vi4DQEzxCOtxTgsdYu4Q0P8gMsn07BJfkJCLjPAuG7j0nHLwfK9+xTZfdpLfcoDlHUV1Zpl4/svHQOjf8kwIoNBiJxeue8EPO6mSfBWID0Pt8hFslFpMwmfYCVGmnRTpTGhjO7Q8+QrtrRZOwvBtIRSo9Kuz0FVa10BvypcZCgfeK8X9eNvyR0otD3z5zrFVzsfE/SLIt3ZhtlRyG12IQ/qsJioWnUdfBuZp70S1YJk32okp/JgfAZkO8IR4egMg+dOuPqSCB7wtslIvXMDNEMVDWk4Ji9dOKAWMRmcCWGkH/QamwKpBZ4mWQ==')" >www.AllDownloadGames.com</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div> <a href="#" onmouseover="changeStatus('Keep Little Hands Busy');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqEypO9Jp4ChKsoNHZlPzqBU+Y9z4r73pLcHzctknNz/KMeP4a9kGNYRjHsBNfrSsyUEKnC+wPwPEXKB1is8C9gdMhlK3J+RdjjZJVrCN42nmzVqtq+KvpoACY6LxcLEraTzTg4/7QzTq5xG1kRHPbuyLJdkmvmltaZ5vAmhEIL5Y9PtxfXm/svVDX714TgDyVzDn2/aUQIS9C+qWN4kXR0uD9ec1PEwnj9/kBPrAV27VKPCLnysvvwlrLxtSl1EHug5MzkqRBN7s5U4dhRCnsGHyIVyUaEldQExDDaOnO0wX/rHyViFt4VnOUpMKxoIksRh/12qwagqX1U8i62lTe2xLjjNqgk0atzQGfuj5I8z21eE1oXMgj/AfJGcHWgxLtRNU0EFaj7PrHs4TbHi1ici8d5LEK5lJjPFlazJisu5TbVgHgDYxYaW9cj86pTB/YrRqhvSZ5hMfG/lmfm4hrF0YOSPGNm2xr1NL8yTr0NJZArpbwbxSrnNR1xyN7xbaxaAcyJIy0Z+YT3zy5MC0DMbKuO5gIUfPXwuhcL9cLRmvNL0MUrs5XQkPReLjcWG0ESF3+Q6WvPoB5QzxiPLWGSms3XmSbGW9aGMUyH0oV6+fpA5hNWueULeQZH0KuzA3bfM/T2lhFGDItK9+llMCR0cl7VENprLUk0+bERM7+6aNR0oUbSYE5i8g3K6mNtnUbXO+9NQsa+q0RrXw07xgIMHkg+aFBrylqRIA0mzjrC1Qjt9/xII25R4PdNKoCtlvMOpPdnPY5SKMla0oBdkKTkrBA3wRvG0EcceCk41RxJ3BzCd02A+7TABvHZUT7aTidgwdr2C0Bu5X7BHx7aq0vedMCDTU1ZWysmeP8YIZb5jW7okDgqN+nGSE0K5wCNEaqoYF5JW7udNVLwz2iFWgaRhLQ2nuCMOJZMBKKdIctRrBSyME4/g+H9Xy/nVs0Nf0monOSVzOgHuMje7p2C9hVGQKKxzcZjlq/URPFd/cmaJKGyYGL1dkQLhw9Pnc1ipMqCxr4l0u8IaTEXnPsV09PuQypvX+2Sbf7GSNRM6eNCjYdYRgP4HDAawEBHfW24Po4UXIGaiNZKCkAS2GVkf3VD++lT9v4O3nB1rtDYchV4KSeHpHULV7Bx3X813M3qTSCENK+unWpX20joQ0vZFYmatWJas6y3gZEUEjQYnCu6Va0jA1iKZbdSOaH2VZcBHrpTMMmmeWV/nawRVmT4yOg7Jsr+Njxyz61wapUo1a7rO1thpsxE+d91++Tv3MBri8qAyGBI2H7mHlLU7ACvo/Fn1FZGz+Qq0N1cPcdjDubDKlH5jMgxZHBr78S10qf5VAqdcPrb+EUdH9k0LvA==')" class="inpage-head" >Keep Little Hands Busy</a></div>
+													
+														<div class="inpage">Find Entertainment Reviews, Games &amp; Fun Ideas for the Entire Family!														<br />
+														<a href="#" onmouseover="changeStatus('Keep Little Hands Busy');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqEypO9Jp4ChKsoNHZlPzqBU+Y9z4r73pLcHzctknNz/KMeP4a9kGNYRjHsBNfrSsyUEKnC+wPwPEXKB1is8C9gdMhlK3J+RdjjZJVrCN42nmzVqtq+KvpoACY6LxcLEraTzTg4/7QzTq5xG1kRHPbuyLJdkmvmltaZ5vAmhEIL5Y9PtxfXm/svVDX714TgDyVzDn2/aUQIS9C+qWN4kXR0uD9ec1PEwnj9/kBPrAV27VKPCLnysvvwlrLxtSl1EHug5MzkqRBN7s5U4dhRCnsGHyIVyUaEldQExDDaOnO0wX/rHyViFt4VnOUpMKxoIksRh/12qwagqX1U8i62lTe2xLjjNqgk0atzQGfuj5I8z21eE1oXMgj/AfJGcHWgxLtRNU0EFaj7PrHs4TbHi1ici8d5LEK5lJjPFlazJisu5TbVgHgDYxYaW9cj86pTB/YrRqhvSZ5hMfG/lmfm4hrF0YOSPGNm2xr1NL8yTr0NJZArpbwbxSrnNR1xyN7xbaxaAcyJIy0Z+YT3zy5MC0DMbKuO5gIUfPXwuhcL9cLRmvNL0MUrs5XQkPReLjcWG0ESF3+Q6WvPoB5QzxiPLWGSms3XmSbGW9aGMUyH0oV6+fpA5hNWueULeQZH0KuzA3bfM/T2lhFGDItK9+llMCR0cl7VENprLUk0+bERM7+6aNR0oUbSYE5i8g3K6mNtnUbXO+9NQsa+q0RrXw07xgIMHkg+aFBrylqRIA0mzjrC1Qjt9/xII25R4PdNKoCtlvMOpPdnPY5SKMla0oBdkKTkrBA3wRvG0EcceCk41RxJ3BzCd02A+7TABvHZUT7aTidgwdr2C0Bu5X7BHx7aq0vedMCDTU1ZWysmeP8YIZb5jW7okDgqN+nGSE0K5wCNEaqoYF5JW7udNVLwz2iFWgaRhLQ2nuCMOJZMBKKdIctRrBSyME4/g+H9Xy/nVs0Nf0monOSVzOgHuMje7p2C9hVGQKKxzcZjlq/URPFd/cmaJKGyYGL1dkQLhw9Pnc1ipMqCxr4l0u8IaTEXnPsV09PuQypvX+2Sbf7GSNRM6eNCjYdYRgP4HDAawEBHfW24Po4UXIGaiNZKCkAS2GVkf3VD++lT9v4O3nB1rtDYchV4KSeHpHULV7Bx3X813M3qTSCENK+unWpX20joQ0vZFYmatWJas6y3gZEUEjQYnCu6Va0jA1iKZbdSOaH2VZcBHrpTMMmmeWV/nawRVmT4yOg7Jsr+Njxyz61wapUo1a7rO1thpsxE+d91++Tv3MBri8qAyGBI2H7mHlLU7ACvo/Fn1FZGz+Qq0N1cPcdjDubDKlH5jMgxZHBr78S10qf5VAqdcPrb+EUdH9k0LvA==')" >www.Family.com</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Best Puzzle Game Ever?');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqYypO9Jp4ChWAz0XBmGwHqNqChXvLYqHw+qN70mgT4J0alpg3hcq+DbmLcYec2aqmRcab4UXduc0yf/j+uV/qEszRvO3tWfJwg3aKFlCiENZwXPcbdwHDxKrsnn0FSuOGOQEu976UnujxdBhHWhCBCQPasE3b6hwvSPaKAthDrM8NWg/szjiy771B0qR7UbJ+c0FKd3Vg/nse/Fa9FV3rvopiki0iBqQkIkL42+Epmb3zZ9vWrkFCTY4ZEGGYxEbQjGs7l8avVfqOtrJrBtBbrB2bsSMTlALYkjo37MTsz4vyXqFYoSebsAXjrbeaDR3utmOaI3Nvg+tCoANPSsQ+FhBhqeni/SS5Bds4kVJT6y0WB49W1slfx5+MRAcNLzBH/42tTKrt9B1G6M2vAt36IhT+9XGIRzcbnTDFl//3KeUEB6lx3KRWYXBnRlyFWQjmmKGIVZ2g2fvio38Lhm5arXiBG98PbERqF2ukgKVK6B31LgJ8CAx7aKRwYATS/IqB/4yKvinREeZiB6XT8Ogb124e4AcC7UZECZZO5M+20wf+NaIB4tpZ2gVRZmqGwwBogaaSUwU06O8oovaGazN7Xu/99bQbRSblDwDzz7KrROeQO7xYhnTtpHEZ5GG6T+b+NCGu6Mc9EDkqbDyauiHCAnLneHsZtshvOSR5aXl9tKk5AJjMTH9Xm1U2jJNhAHCeRKY73APMEutymwOAmbK38LFL/pkcNdZ0lhmK0PCrA6HJr1yH+rWZS8pupF6loDxkHQ/Nw5U2tn6QHe3u0vrw+On49LCakpbGBZBSIor9oH7Uy30Il2HL1qRse9RcJwAEVoz0KARnjidrP/oXL7osHxPmlN3ZkfQT2BtKILCF47BFTmEl9saIz6nlOGxAwnG6By7acj/86+mrQlAhcLqwHKPtXyYZYHRUtPyu85c/zvvXjppyaNeP3N/9pych1IJBQSLddKHw8pxf5ELByESV+h0fYo73bOFC06SnDAr0Bq4bbrFpFeXe3nAMyEKvQtxYqbsaUPFU/utnI4Ynznqh2opwRaFx9yBcgVTS9T6pxbCzA5dC2ZfRlXvW3dY1W55BLgo53gxrGL/6erwbC6y5wpPO9tc/2ghpRQKhQf6cK/zltJDu45GHETxEgIbVNV6VA7fjRUjAX1c816ZFNjRZvC9NdDbb+nStwoEYL/smstdEoihi0vyA2zJLO6C6l5VRZtMS4IzdYCJX0tfMO4q9R4n+ESeNK/v/OJu7+MoQMEEkWmzFrPA4KV7HQe6ueBNBYco/p6uXh9TPOUMqDu7XXG7GYSM2+uVlYdqVfMYGv7WveeWrVv/VqC3nYle6Dy1yviINttqZg80uDdkXLuP6mIEs6FYNQV5V2fuLeP9dej3A==')" class="inpage-head" >Best Puzzle Game Ever?</a></div>
+													
+														<div class="inpage">Winner of the 2006 Casual Game of the Year.														<br />
+														<a href="#" onmouseover="changeStatus('Best Puzzle Game Ever?');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqYypO9Jp4ChWAz0XBmGwHqNqChXvLYqHw+qN70mgT4J0alpg3hcq+DbmLcYec2aqmRcab4UXduc0yf/j+uV/qEszRvO3tWfJwg3aKFlCiENZwXPcbdwHDxKrsnn0FSuOGOQEu976UnujxdBhHWhCBCQPasE3b6hwvSPaKAthDrM8NWg/szjiy771B0qR7UbJ+c0FKd3Vg/nse/Fa9FV3rvopiki0iBqQkIkL42+Epmb3zZ9vWrkFCTY4ZEGGYxEbQjGs7l8avVfqOtrJrBtBbrB2bsSMTlALYkjo37MTsz4vyXqFYoSebsAXjrbeaDR3utmOaI3Nvg+tCoANPSsQ+FhBhqeni/SS5Bds4kVJT6y0WB49W1slfx5+MRAcNLzBH/42tTKrt9B1G6M2vAt36IhT+9XGIRzcbnTDFl//3KeUEB6lx3KRWYXBnRlyFWQjmmKGIVZ2g2fvio38Lhm5arXiBG98PbERqF2ukgKVK6B31LgJ8CAx7aKRwYATS/IqB/4yKvinREeZiB6XT8Ogb124e4AcC7UZECZZO5M+20wf+NaIB4tpZ2gVRZmqGwwBogaaSUwU06O8oovaGazN7Xu/99bQbRSblDwDzz7KrROeQO7xYhnTtpHEZ5GG6T+b+NCGu6Mc9EDkqbDyauiHCAnLneHsZtshvOSR5aXl9tKk5AJjMTH9Xm1U2jJNhAHCeRKY73APMEutymwOAmbK38LFL/pkcNdZ0lhmK0PCrA6HJr1yH+rWZS8pupF6loDxkHQ/Nw5U2tn6QHe3u0vrw+On49LCakpbGBZBSIor9oH7Uy30Il2HL1qRse9RcJwAEVoz0KARnjidrP/oXL7osHxPmlN3ZkfQT2BtKILCF47BFTmEl9saIz6nlOGxAwnG6By7acj/86+mrQlAhcLqwHKPtXyYZYHRUtPyu85c/zvvXjppyaNeP3N/9pych1IJBQSLddKHw8pxf5ELByESV+h0fYo73bOFC06SnDAr0Bq4bbrFpFeXe3nAMyEKvQtxYqbsaUPFU/utnI4Ynznqh2opwRaFx9yBcgVTS9T6pxbCzA5dC2ZfRlXvW3dY1W55BLgo53gxrGL/6erwbC6y5wpPO9tc/2ghpRQKhQf6cK/zltJDu45GHETxEgIbVNV6VA7fjRUjAX1c816ZFNjRZvC9NdDbb+nStwoEYL/smstdEoihi0vyA2zJLO6C6l5VRZtMS4IzdYCJX0tfMO4q9R4n+ESeNK/v/OJu7+MoQMEEkWmzFrPA4KV7HQe6ueBNBYco/p6uXh9TPOUMqDu7XXG7GYSM2+uVlYdqVfMYGv7WveeWrVv/VqC3nYle6Dy1yviINttqZg80uDdkXLuP6mIEs6FYNQV5V2fuLeP9dej3A==')"  >www.realarcade.com</a></div>
+																				
+																					
+                                                <br>
+																									
+													<div ><a href="#" onmouseover="changeStatus('Puzzle Game');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqcypO9Jp4Chxd7WE2Jji9MuAqU43g5k/pV7aqiZEkA3KokyJwh87pgEHvicb3CxIk0O1ECz/I1g+F4VTSzhsYSISDpN63V5viKD4TmhEwvlenTSng1ZV6sd8xn8kBUtgfq57tzUqTxMbfXDGaeUIW6QlE4DcaD3KCWFG/ivl77z63Oo2B5csYMKFBDfKSm1WVnLgmCieUS51MqeOTkD7/Hwj/g5bKVI1VE9/x/7NncBIGHEoG7YQIhoi/JBZLeBCH4pkxAIedqDbKMbgu4yigRlzYyb/qMcACryZ3H/G51fy/YIR197by2Eyaqh5TlMuXkp1CTroNzD58yo7MkXRUhjjsAaysy3aaLkpYQ2i6gWsSZPveB4IPCBnb4qNya74Iu3qH+hzxZWYUD/GB6FpoV2g/EtmPO1bTgU/uO0bL96ZCVAiEwN/cuxqS330JFhgHnW2WdU/XnwZYWLYMB8RT8UJiIoScPoeF7bSIgnVBq8TmY0gCAzDzZGaoifnWRUYzJzK++twGgCkhEnXtLF1pLnm2UfILN5MIerk4okDo5tcdyAThRc3BC6E5YL5wqemFfRXvOiL8Fmr3G2Jj2uEibB2s0Lgkzq9ZC80NqAXDgIBrN4JvE+BTYuE7VmOQRfGeJ6Wt0A7PSTQ8Te8vjCffAy34+gex55vqIIcUwWuzI4sfCyEXOD9MUo99EioTggXovGoePZk9l14VyTxY2cxB77b0qkQ51zdKQocXEjDAizVc6oU1eaV5/T0PfdGAatzZBi3da1sTsgSGeN3rVR84WT7FG6F5Kd6KShmX8cA4VkNvxGg623/DM2YZ3en9Nj5Xs0Ja36DgM70hMKBSy6S34AING4n0I+bUh8eFD4taRmIIXGDbuMMBJiP216pkfGp3gKGkE6A37pN1CNBvBBz4oujmTaPjLNTE9pH3bfDtNW5Mk6qLzIPQnOo82+8FGCCKeciex0chF2PODOd4a1g/vwZqxxGA9u2AeW/1H5quWf8X+SD9qy1gJaf90rFXnsrH8KfAhTRke8E6XSusyMr7Kes/VtaehnNnT0BIlLn9bn+mF/mhcbXiPyOyCWY4wCKdp54LV9LS/5e6O93+HUD76htgY3+im4e/IUFe2f377zACuvhXj3Y5lSvP1b/k23kXhRlDCyr8S+TPwzzIoA7rADBXuzq/Q9KYJOhTo7abFtZJekdU2WEPeB/L/+AH890i12ITnMBQrGJL5KXqGdx5JGi+XtTNhEnR+a63a/LaDK33TXcAG7dSEnRUgvMwIDgQRbr1VwFhqDD7uBxkiWIvR6IMlQVncfTKm6GSlKmSyA2MnpKlpajcP62uaW9hLR8XzJB827IdpaMhoea4HS9Jw6X5sK0QIrxH5AKR0Mxe+6c53aFGklpKLnWA4wqrrterqNnDMnUWU+emgHfW+30ynutDi8tcPG+va7uVsP1jHXN7FTRxOie2Db1w4o4VFDPlGTCMvdtZnnrB+wc+haPDzgpngsMa5I8xE=')" class="inpage-head" >Puzzle Game</a></div>
+													
+														<div class="inpage">Find Puzzle Game Online. Shop &amp; Save at Target.com Today.														<br />
+														<a href="#" onmouseover="changeStatus('Puzzle Game');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqcypO9Jp4Chxd7WE2Jji9MuAqU43g5k/pV7aqiZEkA3KokyJwh87pgEHvicb3CxIk0O1ECz/I1g+F4VTSzhsYSISDpN63V5viKD4TmhEwvlenTSng1ZV6sd8xn8kBUtgfq57tzUqTxMbfXDGaeUIW6QlE4DcaD3KCWFG/ivl77z63Oo2B5csYMKFBDfKSm1WVnLgmCieUS51MqeOTkD7/Hwj/g5bKVI1VE9/x/7NncBIGHEoG7YQIhoi/JBZLeBCH4pkxAIedqDbKMbgu4yigRlzYyb/qMcACryZ3H/G51fy/YIR197by2Eyaqh5TlMuXkp1CTroNzD58yo7MkXRUhjjsAaysy3aaLkpYQ2i6gWsSZPveB4IPCBnb4qNya74Iu3qH+hzxZWYUD/GB6FpoV2g/EtmPO1bTgU/uO0bL96ZCVAiEwN/cuxqS330JFhgHnW2WdU/XnwZYWLYMB8RT8UJiIoScPoeF7bSIgnVBq8TmY0gCAzDzZGaoifnWRUYzJzK++twGgCkhEnXtLF1pLnm2UfILN5MIerk4okDo5tcdyAThRc3BC6E5YL5wqemFfRXvOiL8Fmr3G2Jj2uEibB2s0Lgkzq9ZC80NqAXDgIBrN4JvE+BTYuE7VmOQRfGeJ6Wt0A7PSTQ8Te8vjCffAy34+gex55vqIIcUwWuzI4sfCyEXOD9MUo99EioTggXovGoePZk9l14VyTxY2cxB77b0qkQ51zdKQocXEjDAizVc6oU1eaV5/T0PfdGAatzZBi3da1sTsgSGeN3rVR84WT7FG6F5Kd6KShmX8cA4VkNvxGg623/DM2YZ3en9Nj5Xs0Ja36DgM70hMKBSy6S34AING4n0I+bUh8eFD4taRmIIXGDbuMMBJiP216pkfGp3gKGkE6A37pN1CNBvBBz4oujmTaPjLNTE9pH3bfDtNW5Mk6qLzIPQnOo82+8FGCCKeciex0chF2PODOd4a1g/vwZqxxGA9u2AeW/1H5quWf8X+SD9qy1gJaf90rFXnsrH8KfAhTRke8E6XSusyMr7Kes/VtaehnNnT0BIlLn9bn+mF/mhcbXiPyOyCWY4wCKdp54LV9LS/5e6O93+HUD76htgY3+im4e/IUFe2f377zACuvhXj3Y5lSvP1b/k23kXhRlDCyr8S+TPwzzIoA7rADBXuzq/Q9KYJOhTo7abFtZJekdU2WEPeB/L/+AH890i12ITnMBQrGJL5KXqGdx5JGi+XtTNhEnR+a63a/LaDK33TXcAG7dSEnRUgvMwIDgQRbr1VwFhqDD7uBxkiWIvR6IMlQVncfTKm6GSlKmSyA2MnpKlpajcP62uaW9hLR8XzJB827IdpaMhoea4HS9Jw6X5sK0QIrxH5AKR0Mxe+6c53aFGklpKLnWA4wqrrterqNnDMnUWU+emgHfW+30ynutDi8tcPG+va7uVsP1jHXN7FTRxOie2Db1w4o4VFDPlGTCMvdtZnnrB+wc+haPDzgpngsMa5I8xE=')" >www.Target.com</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Free Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqQypO9Jp4Ch+nRRKvvi80QF/o1EhZcEsYnH4PXqfFIzQy2s9ok7OfmiJ2tF5q08vmFEPNFUl1B0o4clh0Ps0Yzb5ZCvbORX/HyyeLOa9Ew8Bc34FEBVzcoZZANylczel6e0CPGVgJ4pHL2T0rKCJquvLleV0B0/5AVEjIT6YykT4CLiuNqwVSWUTdmNjH4lEqecZRQZuJK0LMZ5qxHINxpGm1qm4eZ2av5dmHKeXnKYpZziWNxX56AO/RcSLdYfJm4Qg+Vnr6bIerNbAEbMHn4lIJ5Bn3uIWJdee9+6rCQ9OKtv7ue61MEcY9K9lpb/GI+Zc3KwgVmhvDzEmNC0y7sKKHfQZ+BqGjhDyTfQy3iorRGiCKcUpQs5oArv8RMV6u4k5xNKgwpjZW7NRYG2BCZgcE994F7IidkM481tpAt0UDbfwbaSOUcRiWNYUBI+EzdAJznNabMOgyhO+7QIYq6ONWdscN5nPnLmo0xx7g2zf4YdZcYeAG87ICtpIOtrk8+3GfcnIcZDWGYltrhaKEST0ciOFIExeCcacxs/NVM9NtI7wQ/ifZ3GkTmuxg6X+URZN/L8MmV21+lk2k3L2z9YpU8fRmJ32ihDdZN3wnZdTRZyBYlEi5KriZ9/h0yslaAARjbyrBkTUaW1scWJKyBU1qOWTKvT4Ngv/15YNew5F9vHbzFaQGVWKRSp6lCdcyxyUIwTHht7x2wEJVj3ZAmOzXmBU6QbOAGpwlD/ercQNOWxlvFxVUs3Ev5G8zqYPWxkocu3Y/CfiKcd/6MhaKoS7ih72fh6SFxzOhl+AvCFVs8NoUiyxpgKFX+zvdRz95a0rsQHJn4RBEDXz9/WXGbd+MP3q9BxzyZngzvJmaglfdfBsrp1qLWfv5ycD9vdLgcHPsXwgweI8lVfjCanYmKn2JuGc5EF5Vuc8zpCtx3nWaUqMOR7jPJmtnfsFSXS9a3kMzwWDEugKUOsuFjM6wcyELHW/JKvKyRRHqcqpkM54MSs5Bo2Ui9BCzk46siu/K/enOluEW1ULzkAXApiZ3WY4Fin6eI26VzpQAP4lUE7z7aDnkhFKtqfbYAyd1K4EVMMHdLtrzgvLXHkXeCqDJdu8BlmqUtuiBBi28KtbiDaBJ+8/uWXe+fa1QUaq8+Ggt9VlAxL1+OsuEMfGbSPBKBelt4kd6Uh+cFFkWtf5/8H1YhaQrkRQo+MUwcm9zeaKjlnFfrZnvRT9rO6yxvZzmdgnFHlXBlifWVolCQswhE/ylFYOazv7g8GWEBi3TqWAO/vaFCWrI4vyEvVyrTXzBG2LJ4kSD/JgMOFkuXjpGvFIIW6TBXRm9F1zjNBM+FNFrTHE5yn7f2MHIIdkuZOxp9Oukpv9dN5e1QURMqnU0A0jATWWw==')" class="inpage-head" >Free Puzzle Games</a></div>
+													
+														<div class="inpage">Play free Puzzle games at Pogo. Make new friends &amp; win prizes!														<br />
+														<a href="#" onmouseover="changeStatus('Free Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqQypO9Jp4Ch+nRRKvvi80QF/o1EhZcEsYnH4PXqfFIzQy2s9ok7OfmiJ2tF5q08vmFEPNFUl1B0o4clh0Ps0Yzb5ZCvbORX/HyyeLOa9Ew8Bc34FEBVzcoZZANylczel6e0CPGVgJ4pHL2T0rKCJquvLleV0B0/5AVEjIT6YykT4CLiuNqwVSWUTdmNjH4lEqecZRQZuJK0LMZ5qxHINxpGm1qm4eZ2av5dmHKeXnKYpZziWNxX56AO/RcSLdYfJm4Qg+Vnr6bIerNbAEbMHn4lIJ5Bn3uIWJdee9+6rCQ9OKtv7ue61MEcY9K9lpb/GI+Zc3KwgVmhvDzEmNC0y7sKKHfQZ+BqGjhDyTfQy3iorRGiCKcUpQs5oArv8RMV6u4k5xNKgwpjZW7NRYG2BCZgcE994F7IidkM481tpAt0UDbfwbaSOUcRiWNYUBI+EzdAJznNabMOgyhO+7QIYq6ONWdscN5nPnLmo0xx7g2zf4YdZcYeAG87ICtpIOtrk8+3GfcnIcZDWGYltrhaKEST0ciOFIExeCcacxs/NVM9NtI7wQ/ifZ3GkTmuxg6X+URZN/L8MmV21+lk2k3L2z9YpU8fRmJ32ihDdZN3wnZdTRZyBYlEi5KriZ9/h0yslaAARjbyrBkTUaW1scWJKyBU1qOWTKvT4Ngv/15YNew5F9vHbzFaQGVWKRSp6lCdcyxyUIwTHht7x2wEJVj3ZAmOzXmBU6QbOAGpwlD/ercQNOWxlvFxVUs3Ev5G8zqYPWxkocu3Y/CfiKcd/6MhaKoS7ih72fh6SFxzOhl+AvCFVs8NoUiyxpgKFX+zvdRz95a0rsQHJn4RBEDXz9/WXGbd+MP3q9BxzyZngzvJmaglfdfBsrp1qLWfv5ycD9vdLgcHPsXwgweI8lVfjCanYmKn2JuGc5EF5Vuc8zpCtx3nWaUqMOR7jPJmtnfsFSXS9a3kMzwWDEugKUOsuFjM6wcyELHW/JKvKyRRHqcqpkM54MSs5Bo2Ui9BCzk46siu/K/enOluEW1ULzkAXApiZ3WY4Fin6eI26VzpQAP4lUE7z7aDnkhFKtqfbYAyd1K4EVMMHdLtrzgvLXHkXeCqDJdu8BlmqUtuiBBi28KtbiDaBJ+8/uWXe+fa1QUaq8+Ggt9VlAxL1+OsuEMfGbSPBKBelt4kd6Uh+cFFkWtf5/8H1YhaQrkRQo+MUwcm9zeaKjlnFfrZnvRT9rO6yxvZzmdgnFHlXBlifWVolCQswhE/ylFYOazv7g8GWEBi3TqWAO/vaFCWrI4vyEvVyrTXzBG2LJ4kSD/JgMOFkuXjpGvFIIW6TBXRm9F1zjNBM+FNFrTHE5yn7f2MHIIdkuZOxp9Oukpv9dN5e1QURMqnU0A0jATWWw==')"  >www.Pogo.com</a></div>
+																			
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Play Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqUypO9Jp4ChIRo0cy6fbmwX8jm/WRBPL126sE0T8D6A8Yl69dyIY9vKsTCQR8xPBVLZNJsXUCD3ojcTGX2/R++in31x1Ua0nJEWbZ/Lxy2KifFDGA2eRC+sKgZAuTc13k+mgZ91s8yEO7vbn8OlEubScBBNLuCqcfu+ZQ56y9TNhDT2dK9yYo8FoPT02bPJD72HQaFAFyTaoOGpfYm70KvgmzR22PNmEZCJggVpkaqSZwb852TINZjTWAkFF8azauFI0Wjhk7QTO1VumfMN64WXKVuHq3m0vUC5SciLpRbz4U/0/JFY4Bcx7Qqm5kj3ci769dyYvMOguktMFjjg0Uqb8uGspnfVcuEAFEfCQtsh4xve4uPpdhzMqe9E90zwEaB+gazlFBgsNKiBS3m3lanyHurSYUbuWUxuDScGMLGh2u95S1eR5mKb9OxgM3Jl/EKtbLHvZCOfnneLIm6N3IdZ6geDYUAXX447GnMIryJ48nafceRAzKp0mW3Oqy56bZ2kafLawOJfDLogIL7BchtDO/NMHtryhAn+zElalJrD0Kn3nQCATSUWkU2KK4RHPBbnFBHmpmDU7Qgnou9f/RIkLPa8+30/0B7l+D78Kb99MhfyMHBe7IElambVvyO7Fbur15Obz2wMA7KxvCbT3yp8b95SbTmhiQ8mlOGGvV7M5tJiz2pHTBqwiBwu/Zynjujp2hwuVRqW3qJGfrRulUbPZuUZF7uX48dT7D54AYkexV/SWGmM9Bo/YM3lsPylwdRzJLBx2YMTM8gEQF2LBu2inNjC3u2p/gLWD6BBlQi8dds/iyVcVPe0MKge2DWuxqDSgORsMBaF5JhIW6hbdvasAj5671DppqNICtvXgJHpp1PE06KJaLDAL3X/RsbKnPZUjbKE+jpktowHCtXe10vzg4mx2FUmZS0aHbXPDkhpPVMudqRYwTRA+CKtUavWOM978DZrr5Qc3RPKV9m1seTKtxKuHSCCs1gx8xhWDSqL2M/78sW+1Se6+wzkUjERUB7YgtLbCAGpQ+Zzcb7tVWAI4IAMpmb9548EFU7NkKzzAjaaaIipJiR0b2n8ESDIV3yqrLgw1xassZeTav5Wih0+Tpz2Cc1RB8o0XZiAp38cMka289IKem/NfSvR727M5/iLAXOrgNIHFOt3fmG7TTB589u+dn321gjVv9pY1vSuMXEVGzWfI9Wb2CV/CfnuD/zYM8OKGzwV2OJTVsesvhBzX6gLP8CXahw1f7xfS6KX7VQ+X1X1VETt/j1YsXGw/vOpqVaq2dAbzK+eogqGm6K6mrkvDhTv/byVnqCVSuy5iejQ564dkA==')" class="inpage-head" >Play Puzzle Games</a></div>
+													
+														<div class="inpage">Choose from dozens of puzzle games including Collapse and Bejeweled														<br />
+														<a href="#" onmouseover="changeStatus('Play Puzzle Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqUypO9Jp4ChIRo0cy6fbmwX8jm/WRBPL126sE0T8D6A8Yl69dyIY9vKsTCQR8xPBVLZNJsXUCD3ojcTGX2/R++in31x1Ua0nJEWbZ/Lxy2KifFDGA2eRC+sKgZAuTc13k+mgZ91s8yEO7vbn8OlEubScBBNLuCqcfu+ZQ56y9TNhDT2dK9yYo8FoPT02bPJD72HQaFAFyTaoOGpfYm70KvgmzR22PNmEZCJggVpkaqSZwb852TINZjTWAkFF8azauFI0Wjhk7QTO1VumfMN64WXKVuHq3m0vUC5SciLpRbz4U/0/JFY4Bcx7Qqm5kj3ci769dyYvMOguktMFjjg0Uqb8uGspnfVcuEAFEfCQtsh4xve4uPpdhzMqe9E90zwEaB+gazlFBgsNKiBS3m3lanyHurSYUbuWUxuDScGMLGh2u95S1eR5mKb9OxgM3Jl/EKtbLHvZCOfnneLIm6N3IdZ6geDYUAXX447GnMIryJ48nafceRAzKp0mW3Oqy56bZ2kafLawOJfDLogIL7BchtDO/NMHtryhAn+zElalJrD0Kn3nQCATSUWkU2KK4RHPBbnFBHmpmDU7Qgnou9f/RIkLPa8+30/0B7l+D78Kb99MhfyMHBe7IElambVvyO7Fbur15Obz2wMA7KxvCbT3yp8b95SbTmhiQ8mlOGGvV7M5tJiz2pHTBqwiBwu/Zynjujp2hwuVRqW3qJGfrRulUbPZuUZF7uX48dT7D54AYkexV/SWGmM9Bo/YM3lsPylwdRzJLBx2YMTM8gEQF2LBu2inNjC3u2p/gLWD6BBlQi8dds/iyVcVPe0MKge2DWuxqDSgORsMBaF5JhIW6hbdvasAj5671DppqNICtvXgJHpp1PE06KJaLDAL3X/RsbKnPZUjbKE+jpktowHCtXe10vzg4mx2FUmZS0aHbXPDkhpPVMudqRYwTRA+CKtUavWOM978DZrr5Qc3RPKV9m1seTKtxKuHSCCs1gx8xhWDSqL2M/78sW+1Se6+wzkUjERUB7YgtLbCAGpQ+Zzcb7tVWAI4IAMpmb9548EFU7NkKzzAjaaaIipJiR0b2n8ESDIV3yqrLgw1xassZeTav5Wih0+Tpz2Cc1RB8o0XZiAp38cMka289IKem/NfSvR727M5/iLAXOrgNIHFOt3fmG7TTB589u+dn321gjVv9pY1vSuMXEVGzWfI9Wb2CV/CfnuD/zYM8OKGzwV2OJTVsesvhBzX6gLP8CXahw1f7xfS6KX7VQ+X1X1VETt/j1YsXGw/vOpqVaq2dAbzK+eogqGm6K6mrkvDhTv/byVnqCVSuy5iejQ564dkA==')"  >www.gamehouse.com</a></div>
+																				
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Online Games Puzzle');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqoypO9Jp4Ch6TZYx2Sr1laNrEgt7zaOV6mz/can5Y/l0aTzXSF9Sxkpf1Tq/TpXAi0khEIM5usLNU8fFH1XXoW6UIr4o7uWzK0nMxqf+D8MRLyoEy1nV8RckpdmMyV5DKp6vQOouPxrUW5tJEPpYvgbxtFtPsZSjfrQROHG4bOVpRWbWz+M0tLbUxlroLQHlInyiVWBSJ6sIG1wk9ymrpm27ZyitPAh8+e9X1YbFZvGrcm5M52U+98tJqZFief7Yhb/W4rXO4YVBEQEX4OLX2GznAydLXxNdH4r3yZjQaUkrlJcLrg5xxrvPsMDlZR6PbjxYZ2RXCIRsaTVJz2iySM9cJAHKeDYmIKxkgBsHwYFdz48YQUL2wNFSBs2oxV9FMdf6rFsXL9075PRgdMKAPmgB+iEyjukdu/887MOdnP0PAIPoh68WQkuMCUN+LnUyuOmy7oroZYK64jEFH6UqSRJBMnA0rfRqYlQBUofwMhqGwEYidh0sgItgXScI+XiXKCAUcmFRrkNOn3X8SftkaokViSlijyLfACDuQPRt4+Qc24KMmzE7MADg+8zIUYjV9XZ1jkjW/fKS9lzvDgGAvLvb5NKM/O3CJGjV1uzWLlxwDfhsuYY3vLG3FXK+C0IkssFYPPUc2TuDa7bIyJdqxuOO5GzRoX6VU2z5EH28lS75Wn8KTQcWV3Ma8Y4oXyLxRABUHiui+9e/XkSGrpGU/QmCNUh6WdY9sG66XsymKAB6V657RKgRMvbXgzJCgBPqPB9rxnGeq0bfsMlhb61WckOlLDK09bDGzAaLuAyQpfzUSxo6Nfc4/dRNLLn2kIdpAjEx928irRH8c3vzrz3PVUNyMP1+h5W1jO3CTrpqRe/KLJvQOBh98ra7WJkDIqy6929VB9EzNEbmCHwPNzMEMs5YplPX/1w0iv+a+iHMgIAxbFhhWt1PyG8LNjK+P4SUximI6Dw48ysT/RodvZhNdHt/XNuxXkNfKVl35+ukdlnQQug2nafGvNcDDOBjd2QlBrj7BvCAmKv3DTd72CYfDr1kb4hRZsq6MAgrInG+ssMhlNYI5AAmnS142E+18OpyGelLOyfPhSczHVD2Xud6lYkD9k9sDNOp3+IVsHKGvd6UY2UprQ1jD67Fex1RFDYVs6G/+UFFEfpEMMXKHMdVIBZ1dNayb//y5Ol+ZLdACGrBZMeWSinuvAYZC+H5dFfDYjVvTXjWtqadk224VW1oMp4X4ifZF8CyDGm+VBzQWS6erwTtpFmNFFupf8g6ryxVfFnfanMAVgJxpJurHWyIpSWupvjYQOVKlUoMUDgZcSCFtiCGjiRs8RzS1FG2qXBvnGq')" class="inpage-head" >Online Games Puzzle</a></div>
+													
+														<div class="inpage">Check out all the mind-bending puzzle-action at WildGames!														<br />
+														<a href="#" onmouseover="changeStatus('Online Games Puzzle');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqoypO9Jp4Ch6TZYx2Sr1laNrEgt7zaOV6mz/can5Y/l0aTzXSF9Sxkpf1Tq/TpXAi0khEIM5usLNU8fFH1XXoW6UIr4o7uWzK0nMxqf+D8MRLyoEy1nV8RckpdmMyV5DKp6vQOouPxrUW5tJEPpYvgbxtFtPsZSjfrQROHG4bOVpRWbWz+M0tLbUxlroLQHlInyiVWBSJ6sIG1wk9ymrpm27ZyitPAh8+e9X1YbFZvGrcm5M52U+98tJqZFief7Yhb/W4rXO4YVBEQEX4OLX2GznAydLXxNdH4r3yZjQaUkrlJcLrg5xxrvPsMDlZR6PbjxYZ2RXCIRsaTVJz2iySM9cJAHKeDYmIKxkgBsHwYFdz48YQUL2wNFSBs2oxV9FMdf6rFsXL9075PRgdMKAPmgB+iEyjukdu/887MOdnP0PAIPoh68WQkuMCUN+LnUyuOmy7oroZYK64jEFH6UqSRJBMnA0rfRqYlQBUofwMhqGwEYidh0sgItgXScI+XiXKCAUcmFRrkNOn3X8SftkaokViSlijyLfACDuQPRt4+Qc24KMmzE7MADg+8zIUYjV9XZ1jkjW/fKS9lzvDgGAvLvb5NKM/O3CJGjV1uzWLlxwDfhsuYY3vLG3FXK+C0IkssFYPPUc2TuDa7bIyJdqxuOO5GzRoX6VU2z5EH28lS75Wn8KTQcWV3Ma8Y4oXyLxRABUHiui+9e/XkSGrpGU/QmCNUh6WdY9sG66XsymKAB6V657RKgRMvbXgzJCgBPqPB9rxnGeq0bfsMlhb61WckOlLDK09bDGzAaLuAyQpfzUSxo6Nfc4/dRNLLn2kIdpAjEx928irRH8c3vzrz3PVUNyMP1+h5W1jO3CTrpqRe/KLJvQOBh98ra7WJkDIqy6929VB9EzNEbmCHwPNzMEMs5YplPX/1w0iv+a+iHMgIAxbFhhWt1PyG8LNjK+P4SUximI6Dw48ysT/RodvZhNdHt/XNuxXkNfKVl35+ukdlnQQug2nafGvNcDDOBjd2QlBrj7BvCAmKv3DTd72CYfDr1kb4hRZsq6MAgrInG+ssMhlNYI5AAmnS142E+18OpyGelLOyfPhSczHVD2Xud6lYkD9k9sDNOp3+IVsHKGvd6UY2UprQ1jD67Fex1RFDYVs6G/+UFFEfpEMMXKHMdVIBZ1dNayb//y5Ol+ZLdACGrBZMeWSinuvAYZC+H5dFfDYjVvTXjWtqadk224VW1oMp4X4ifZF8CyDGm+VBzQWS6erwTtpFmNFFupf8g6ryxVfFnfanMAVgJxpJurHWyIpSWupvjYQOVKlUoMUDgZcSCFtiCGjiRs8RzS1FG2qXBvnGq')"  >www.wildgames.com/Puzzles</a></div>
+																		
+																					
+                                                <br>
+																									
+													<div ><a href="#" onmouseover="changeStatus('Play Azada(tm)');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqsypO9Jp4ChUfn6RQtuN7AV9rphEqn6s4PAesHf9A14eMJ5aFFJOSTC2Q8Vcmvsos/lLBnPvJYWO0LudmM9kq5k2szAzdhKesWAW/1PWeS+UrqgRsvaeJV/9zI6c2mAq87VZYcnPAcRD6/bCe8ppgfVnCpiyNeHDK4wUMFXB0t0WtVlgPKIpPk8zBTNDwL/7nJGGQEjyF/qEo8+4CwqLquZQ5J5h8DeOgwsYg7/oog2Tmn47Qat/XPWv5rdjCBshzTJ8RVoqtnIN5wVDr89Dw7Ye9EOvGBuH8+rOPrRqDPrUhHVOrJ9oGBn0WbK+ngKuMU3x19yUhHPHvEA/qSQVFWn633UGsSg1R757cybfUOZ4Bn3bG0xqvpZzW44/usH7BToyoZs2tcXTUNp15vH94Pdp9ZoWO6fdNI5zD+7Aa1ed0ss1xkBx37OOkvPd3V6HqevwZ79XUUY29+S/NKvWJo9eDJ35N0DxLTmIVT1TmcOYBBxZPTBKEMXUxe4nrRJuBbR/USxoj6lGl7ElZ4qdFz9YKw75jvpJxIQttTCZLZPiuqRt+yaWejSjfcUKS4rF7BcCJDAnm+cCooNs8TrS1fMxFt791MpWkqPE3O46vw2gGQBS3U+F2LZQC+wFDps0TIBMdg1/bgokrGRDUrDFevHQsLMxQjyzv1BzKkNCZv5eeKJ+BYrWxpo2+WIYL/jeGdER9318zTGXGy1cwM9ENXlPBqFF0FhliGmt+l1QrpFXa5GnVNBzhLDC5VT6AOyktOtae2u8lPXqUcQxE7a/9H3xBioOzlwOwxR1vPihoDFosqirnB5NvOyAYASETmqEVBy9qKwyHXCbTJ/78mVZyW3YwLSFUv3Utjuv7BUBBM9IJ3JtpALbD4bSdfBvVcs+Ih9iucUOXgBuWrTwwuOzDELKvjbimTSni8Uujb3THm/CtPXKYcNjZxGEh/YufECqp6YSscmzqbfL6zJVaVxT/SuxG/ObVNZG5Zk1eTemhtuJO7TAb7HkX8dEfYPrWi1RjoOnhbkcinm2MVLsiiDasGiT2DA88wG2QI/EXDFDr3VgY7nfSpMKdeu27u5+RAyzdCZ+IIhTA42QUznpdBtGwQ9oSYacN65Wey+VVhwnZKuO4irz+bpXd/iRLHwtoGdzHD/mT0/EfCFZsl1QHdB3CLsVG0FasU1idgHE684bxH1StdwH56/BRHQusAiTrkf6vPUxNe2T9aEIe1kLn39FQ8KOMIx1Zc/bjpzdEe1PX8m2SDbVso3NdBcJUOq')" class="inpage-head" >Play Azada(tm)</a></div>
+													
+														<div class="inpage">Dozens of puzzles to solve! Download it for free now!														<br />
+														<a href="#" onmouseover="changeStatus('Play Azada(tm)');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOLP8ig5t4dpnk0LHV0BlF3jdXGw31VkjN+iNPmgLw2ia3ROqsypO9Jp4ChUfn6RQtuN7AV9rphEqn6s4PAesHf9A14eMJ5aFFJOSTC2Q8Vcmvsos/lLBnPvJYWO0LudmM9kq5k2szAzdhKesWAW/1PWeS+UrqgRsvaeJV/9zI6c2mAq87VZYcnPAcRD6/bCe8ppgfVnCpiyNeHDK4wUMFXB0t0WtVlgPKIpPk8zBTNDwL/7nJGGQEjyF/qEo8+4CwqLquZQ5J5h8DeOgwsYg7/oog2Tmn47Qat/XPWv5rdjCBshzTJ8RVoqtnIN5wVDr89Dw7Ye9EOvGBuH8+rOPrRqDPrUhHVOrJ9oGBn0WbK+ngKuMU3x19yUhHPHvEA/qSQVFWn633UGsSg1R757cybfUOZ4Bn3bG0xqvpZzW44/usH7BToyoZs2tcXTUNp15vH94Pdp9ZoWO6fdNI5zD+7Aa1ed0ss1xkBx37OOkvPd3V6HqevwZ79XUUY29+S/NKvWJo9eDJ35N0DxLTmIVT1TmcOYBBxZPTBKEMXUxe4nrRJuBbR/USxoj6lGl7ElZ4qdFz9YKw75jvpJxIQttTCZLZPiuqRt+yaWejSjfcUKS4rF7BcCJDAnm+cCooNs8TrS1fMxFt791MpWkqPE3O46vw2gGQBS3U+F2LZQC+wFDps0TIBMdg1/bgokrGRDUrDFevHQsLMxQjyzv1BzKkNCZv5eeKJ+BYrWxpo2+WIYL/jeGdER9318zTGXGy1cwM9ENXlPBqFF0FhliGmt+l1QrpFXa5GnVNBzhLDC5VT6AOyktOtae2u8lPXqUcQxE7a/9H3xBioOzlwOwxR1vPihoDFosqirnB5NvOyAYASETmqEVBy9qKwyHXCbTJ/78mVZyW3YwLSFUv3Utjuv7BUBBM9IJ3JtpALbD4bSdfBvVcs+Ih9iucUOXgBuWrTwwuOzDELKvjbimTSni8Uujb3THm/CtPXKYcNjZxGEh/YufECqp6YSscmzqbfL6zJVaVxT/SuxG/ObVNZG5Zk1eTemhtuJO7TAb7HkX8dEfYPrWi1RjoOnhbkcinm2MVLsiiDasGiT2DA88wG2QI/EXDFDr3VgY7nfSpMKdeu27u5+RAyzdCZ+IIhTA42QUznpdBtGwQ9oSYacN65Wey+VVhwnZKuO4irz+bpXd/iRLHwtoGdzHD/mT0/EfCFZsl1QHdB3CLsVG0FasU1idgHE684bxH1StdwH56/BRHQusAiTrkf6vPUxNe2T9aEIe1kLn39FQ8KOMIx1Zc/bjpzdEe1PX8m2SDbVso3NdBcJUOq')"  >www.arcadehaus.com</a></div>
+																			
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Game Puzzle');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1hwBEjh3caI9EOD9QwDeAoKeL/+IhwsBf2Yj/PXy0BMbvFtlh7z/4XDTLpok76KLJvQGkzR1lriamIIpXn38IIyB8RDhU2nQMNqy0a/vNaMFRDoySE0gbyRq2wsTmaAYMPSp4RlltyzdOSKlmtD1DvmMvUssbox+knjePbmiX96QSZc0L4ycvXgT7EohzdWxMjEHYOpmv6bf9+/TTT/1puLQm9vFBsxjnrDsHTe8A2evbckHcyjY1h2KwyJ/iNilqjMhEMpIZ13aRx0FBreJGyqqAJT9eLhgHM0lwW7CBfq3coOHCBWnTrYxZH0QlloMBfon1Ln8QZYXZEaFD6bmW1jcGFMYpNNh/WbcdXbK/nCC4nzJWr5xXLIMcg61F8HHLlN5ir//gUA2ENH0YSG4rl7ISlCOP29swiGM3C++nckiuDbhoLxOodjrhHFdtxD+Ry/n6a+EHx0DQ5d0p1lJ7miw8aXdeV1EGb+kMFXWG969sIPADl89KdD8YZF/7ngJpzvTIOGkojrVezzaNAy8nRsoYNU1K/IuuT8PTIW2ZO/PKQTwFa/fWY9LE06ocg+SmE0iarYUqZ3qf8tBXNijAyX1ZFJuOdQoe4gQvUDL93MYqCbfVkXhYM5quvSh0Hte7ypzEsFNBDBFt4aTZUZmKWHSKDEr0HFf/VHlDUgcmmR6ndDi8tyqBJzY5a0nO0IGuCHPcovbKczMEEWf+Qdha23X80iL0edQuUmjgRjuWqgDevTVGkmlgH8ltJeRXyDtg5xKaAYy6ylEYUdJA4jNw1CbH+njlDuw6gLrmBB3Tu93SdXI5oir/nfPZgjlh11QSmWaZbTEE0N/oG4odZP/pfMhhlHEW4e6XanyhSH4QtI03d8zgf7NYHk2hW7KenJEGQZPpLg0AZ9I77wJFIr81KgWdSkBg6FLfcKf4T1P0RuCbHZs2iO0ga2xLjg29gkBEtHmz55cLTXCq/XC/AP53Y5fm/GIVM/zbq2CWXRqxMKyeMOI+l6tt2OdtjL31ITRA5gdD+96yeE1dw8lCl7spa5PYs6Y/n1+QUyuNVGDPKCGyd/XSbi4D4CDyKNQ4bRJu7WNur6uDO9g1GmzMI0q/ldL8KCJ50LtXAoY41ZDzQVZGlcqDlIBFXZD5Rw0UzcyrOPrmrzcVSQBJ75Qp7G9tjeyVDYktkPP6/OK4OsmI5Kzmwh5NA28dQReDunYGGxQ14l+q3Z+mt7utIxGDVOaWQDQhNGgfn9U8YNbeV5SeOJDik0nSV8aGFe5jdhZKRm90ogPjBgdIH1ubdG2UzdOfMU24SIXvrcA5l3OmOtHiWQOoKuQFs+bCmklyv3hAYLqhBwc+9UF1f7MIb9Lh67+PQ9wb0KV6/f2LF4fBeg6we+NEDo9+gvVsXearLHJKxIXp1/20qajimuZSm0/F5E/XI52ksWDc4WfQG+SMHQrtOZ2cVeNjH2iuv3WS1R3Tfkb6nzNRcmDx9GjmYZDK8PdVxIrl8NswzIQSV9+PFzBxMDyulnKUAm50Yzz9DTBjRxG7IadvVDMGv68+pTA6BlB0g+GlEe8vEHnbPZC7tG8zO2AeEeMEr0urSS+cy')" class="inpage-head" >Game Puzzle</a></div>
+													
+														<div class="inpage">Learn about Game Puzzle.														<br />
+														<a href="#" onmouseover="changeStatus('Game Puzzle');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Game+Puzzle&kt=4&kp=13@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1hwBEjh3caI9EOD9QwDeAoKeL/+IhwsBf2Yj/PXy0BMbvFtlh7z/4XDTLpok76KLJvQGkzR1lriamIIpXn38IIyB8RDhU2nQMNqy0a/vNaMFRDoySE0gbyRq2wsTmaAYMPSp4RlltyzdOSKlmtD1DvmMvUssbox+knjePbmiX96QSZc0L4ycvXgT7EohzdWxMjEHYOpmv6bf9+/TTT/1puLQm9vFBsxjnrDsHTe8A2evbckHcyjY1h2KwyJ/iNilqjMhEMpIZ13aRx0FBreJGyqqAJT9eLhgHM0lwW7CBfq3coOHCBWnTrYxZH0QlloMBfon1Ln8QZYXZEaFD6bmW1jcGFMYpNNh/WbcdXbK/nCC4nzJWr5xXLIMcg61F8HHLlN5ir//gUA2ENH0YSG4rl7ISlCOP29swiGM3C++nckiuDbhoLxOodjrhHFdtxD+Ry/n6a+EHx0DQ5d0p1lJ7miw8aXdeV1EGb+kMFXWG969sIPADl89KdD8YZF/7ngJpzvTIOGkojrVezzaNAy8nRsoYNU1K/IuuT8PTIW2ZO/PKQTwFa/fWY9LE06ocg+SmE0iarYUqZ3qf8tBXNijAyX1ZFJuOdQoe4gQvUDL93MYqCbfVkXhYM5quvSh0Hte7ypzEsFNBDBFt4aTZUZmKWHSKDEr0HFf/VHlDUgcmmR6ndDi8tyqBJzY5a0nO0IGuCHPcovbKczMEEWf+Qdha23X80iL0edQuUmjgRjuWqgDevTVGkmlgH8ltJeRXyDtg5xKaAYy6ylEYUdJA4jNw1CbH+njlDuw6gLrmBB3Tu93SdXI5oir/nfPZgjlh11QSmWaZbTEE0N/oG4odZP/pfMhhlHEW4e6XanyhSH4QtI03d8zgf7NYHk2hW7KenJEGQZPpLg0AZ9I77wJFIr81KgWdSkBg6FLfcKf4T1P0RuCbHZs2iO0ga2xLjg29gkBEtHmz55cLTXCq/XC/AP53Y5fm/GIVM/zbq2CWXRqxMKyeMOI+l6tt2OdtjL31ITRA5gdD+96yeE1dw8lCl7spa5PYs6Y/n1+QUyuNVGDPKCGyd/XSbi4D4CDyKNQ4bRJu7WNur6uDO9g1GmzMI0q/ldL8KCJ50LtXAoY41ZDzQVZGlcqDlIBFXZD5Rw0UzcyrOPrmrzcVSQBJ75Qp7G9tjeyVDYktkPP6/OK4OsmI5Kzmwh5NA28dQReDunYGGxQ14l+q3Z+mt7utIxGDVOaWQDQhNGgfn9U8YNbeV5SeOJDik0nSV8aGFe5jdhZKRm90ogPjBgdIH1ubdG2UzdOfMU24SIXvrcA5l3OmOtHiWQOoKuQFs+bCmklyv3hAYLqhBwc+9UF1f7MIb9Lh67+PQ9wb0KV6/f2LF4fBeg6we+NEDo9+gvVsXearLHJKxIXp1/20qajimuZSm0/F5E/XI52ksWDc4WfQG+SMHQrtOZ2cVeNjH2iuv3WS1R3Tfkb6nzNRcmDx9GjmYZDK8PdVxIrl8NswzIQSV9+PFzBxMDyulnKUAm50Yzz9DTBjRxG7IadvVDMGv68+pTA6BlB0g+GlEe8vEHnbPZC7tG8zO2AeEeMEr0urSS+cy')"  >http://www.Shopica.com</a></div>
+																			
+													
+                                                <br>
+													
+											</td>
+											<td width="25%" valign="top">
+												<table width="100%"  border="0" cellspacing="0" cellpadding="0" class="sidebar">
+													<tr>
+														<td>
+															<div class="top"></div>
+															<div>
+																<ul>
+																	<!-- RIGHT RELATED-2 -->	 
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Word_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=1" target="_top" onmouseover="changeStatus('Word Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Word Puzzle" id="sk1" name="sk1" >Word Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Wooden_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=2" target="_top" onmouseover="changeStatus('Wooden Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Wooden Puzzle" id="sk2" name="sk2" >Wooden Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Wood_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=3" target="_top" onmouseover="changeStatus('Wood Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Wood Puzzle" id="sk3" name="sk3" >Wood Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Puzzle_Master.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=4" target="_top" onmouseover="changeStatus('Puzzle Master');return true;" onmouseout="changeStatus('');return true;" title="Puzzle Master" id="sk4" name="sk4" >Puzzle Master</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Puzzle_Case.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=5" target="_top" onmouseover="changeStatus('Puzzle Case');return true;" onmouseout="changeStatus('');return true;" title="Puzzle Case" id="sk5" name="sk5" >Puzzle Case</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Number_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=6" target="_top" onmouseover="changeStatus('Number Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Number Puzzle" id="sk6" name="sk6" >Number Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Jigsaw_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=7" target="_top" onmouseover="changeStatus('Jigsaw Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Jigsaw Puzzle" id="sk7" name="sk7" >Jigsaw Puzzle</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Hard_Puzzle.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=8" target="_top" onmouseover="changeStatus('Hard Puzzle');return true;" onmouseout="changeStatus('');return true;" title="Hard Puzzle" id="sk8" name="sk8" >Hard Puzzle</a>
+																	</li>
+																	<!-- /RIGHT RELATED-2 -->		
+																</ul>
+															</div>
+															<div class="bottom"></div>
+														</td>
+													</tr>
+												</table>									
+												<br>							
+												<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://pics.cnomy.com/287/topbg-red.gif">
+													<tr>
+														<td height="54"><h2>Top Searches:</h2></td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Arcade_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=1" target="_top" onmouseover="changeStatus('Arcade Games');return true;" onmouseout="changeStatus('');return true;" title="Arcade Games" id="dk1" name="dk1" >Arcade Games</a>
+														</td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Computer_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=2" target="_top" onmouseover="changeStatus('Computer Games');return true;" onmouseout="changeStatus('');return true;" title="Computer Games" id="dk2" name="dk2" >Computer Games</a>
+														</td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Free_Software_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=3" target="_top" onmouseover="changeStatus('Free Software Downloads');return true;" onmouseout="changeStatus('');return true;" title="Free Software Downloads" id="dk3" name="dk3" >Free Software Downloads</a>
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="#333333">
+														<img src="http://pics.cnomy.com/287/sidebar-bottom-left.gif" align="left" hspace="0" vspace="0"><img 
+														src="http://pics.cnomy.com/287/sidebar-bottom-right.gif" align="right" hspace="0" vspace="0">
+														</td>
+													</tr>
+												</table>
+												<br>
+												<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://pics.cnomy.com/287/topbg-green.gif">
+														<tr>
+															<td height="54"><h2>Most Preferred:</h2></td>
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Fun_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=4" target="_top" onmouseover="changeStatus('Fun Games');return true;" onmouseout="changeStatus('');return true;" title="Fun Games" id="dk4" name="dk4" >Fun Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Online_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=5" target="_top" onmouseover="changeStatus('Online Games');return true;" onmouseout="changeStatus('');return true;" title="Online Games" id="dk5" name="dk5" >Online Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Pocketpc_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=6" target="_top" onmouseover="changeStatus('Pocketpc Games');return true;" onmouseout="changeStatus('');return true;" title="Pocketpc Games" id="dk6" name="dk6" >Pocketpc Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td bgcolor="#333333">
+															<img src="http://pics.cnomy.com/287/sidebar-bottom-left.gif" align="left" hspace="0" vspace="0"><img 
+															src="http://pics.cnomy.com/287/sidebar-bottom-right.gif" align="right" hspace="0" vspace="0">
+															</td>
+														</tr>
+													</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							</table>
+							 <form name="searchform2"  onsubmit="return submitSearch('searchform2', 2, 'pt=2&vid=1184932119_1X02X1314774600&rpt=2')" method="post" >
+								<table  border="0" align="center" cellpadding="0" cellspacing="8">
+									<tr>
+										<td width="62%"><input name="q" type="text" onClick="clearSearchText(this)"  size="40" /></td>
+										<td width="38%"><input value="Search!" name="B1" style="width: 101px; font-family: verdana; font-size: 10px; font-weight: bold; background-color: #eee;" type="submit"></td>
+									</tr>		
+								</table>
+							 </form>
+														<!-- PAGE FOOTER -->
+							<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td align="center" style="padding:10px 0px;">
+										<a href="#" onclick="return addbookmark('Redclawsoftware.com');">Bookmark this page</a> |
+										<a href="#" onclick="javascript: setAsHomePage(this, 'Redclawsoftware.com');">Make this your Homepage</a>
+									</td>
+								</tr>
+							</table>
+							<!-- /PAGE FOOTER -->
+							<div class="bottom"></div>
+						</div>
+					</div>
+					<!-- PAGE DETAILS -->
+				</div>
+			</div>
+		 	<style>	.divStyle{visibility : hidden; display:none;} </style><div class="divStyle"><a href="mailto:harsha@freakmyths.com">harsha@freakmyths.com</a></div> </body>
+</html>

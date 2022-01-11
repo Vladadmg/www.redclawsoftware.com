@@ -1,0 +1,486 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Classic Games-Redclawsoftware.com</title>
+		<style type="text/css">
+			 .img { 			
+				margin:8px;
+				border:1px solid #ff5c01; 
+			}
+			.in-page { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.in-page li { 
+				margin:0px;
+				padding:4px 5px; 
+				background:url(http://pics.cnomy.com/287/pointer.gif) no-repeat -3px 7px; 
+				list-style:none;
+				border-bottom:1px solid #ccc;
+				text-align:left;
+				color:#666;
+				font-weight:bold; 
+			}
+			.in-page li a { 			
+				text-align:left;
+				color:#666;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.in-page li a:hover { 			
+				color:#000;
+				text-decoration:none; 
+			}
+			.in-page ul { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.inpage { 
+				margin:0px;
+				padding:4px 2px 1px 45px;
+				font-size:11px;
+				color:#333;
+				text-align:left;		
+				line-height:16px; 
+			}
+			.inpage a { 
+				font-size:11px;	
+				color:#8c9357;	
+				text-align:left;
+				text-decoration:underline;		
+				font-style: italic; 
+			}
+			.inpage a:hover { 			
+				color:#666;
+				text-decoration:underline; 
+			}
+			.inpage-head { 
+				margin:0px;
+				padding:4px 2px 1px 45px;
+				color:#80433A;
+				font-size:16px;
+				background: url(http://pics.cnomy.com/287/inpage-arrow.gif) no-repeat 5px 5px;
+				font-weight:bold;text-align:left; 
+				text-decoration:none;
+			}
+			.inpage-top { 
+				margin:0px;
+				padding:8px 5px;
+				color:#666;
+				font-size:14px;
+				font-weight:bold;	
+				text-align:left; 
+			}
+			.inpage-top a { 
+				margin:0px;
+				padding:10px 6px;
+				color:#000;	
+				font-size:11px;	
+				font-weight:bold; 
+				text-decoration:none; 
+			}
+			.inpage-top a:hover { 			
+				color:#666;
+				text-decoration:underline; 
+			}
+			.result-text { 			
+				margin:0px;
+				padding:10px 7px;
+				color:#fff;
+				font-size:12px;
+				font-weight:bold;
+				text-align:left;
+				background: #333;
+				border-bottom: 1px solid #fff;
+			}
+			.result-text a { 		
+				color:#fff;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.result-text a:hover { 			
+				color:#fff;
+				text-decoration:underline; 
+			}
+			.result-text-index { 
+				margin:0px;
+				padding:12px 7px;
+				color:#fff;	
+				font-size:12px;	
+				font-weight:bold;
+				text-align:left;
+				background: #333;
+				border-bottom: 1px solid #fff;	
+				border-right: 1px solid #fff; 
+			}
+			.result-text-index a { 			
+				color:#fff;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.result-text-index a:hover { 			
+				color:#fff;
+				text-decoration:underline; 
+			}
+			.sidebar { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.sidebar .bottom { 			
+				background: url(http://pics.cnomy.com/287/sidebar-bottom.gif) #eee no-repeat right bottom;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar .top { 
+				background: url(http://pics.cnomy.com/287/sidebar-top.gif) #eee no-repeat left top;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar li { 
+				margin:0px;padding:3px 12px;
+				background: url(http://pics.cnomy.com/287/sidebar-li.gif) no-repeat 5px 5px;			
+				list-style:none;
+				border-bottom:2px solid #fff;
+				text-align:left;
+				color:#666; 
+			}
+			.sidebar li a { 			
+				text-align:left;
+				color:#666;
+				text-decoration:none;
+				font-weight:bold; 
+			}
+			.sidebar li a:hover { 			
+				color:#000;
+				text-decoration:underline; 
+			}
+			.sidebar ul { 			
+				margin:0px;
+				padding:0px;
+				background:#eee;
+				border:none; 
+			}
+			.sidebar-results { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.sidebar-results .bottom { 
+				background: url(http://pics.cnomy.com/287/sidebar-bottom.gif) #eee no-repeat right bottom;	
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar-results .top { 			
+				background: url(http://pics.cnomy.com/287/sidebar-top.gif) #eee no-repeat left top;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar-results li { 
+				margin:0px;
+				padding:3px 12px;
+				background: url(http://pics.cnomy.com/287/pointer.gif) #eee no-repeat 5px 5px;	
+				list-style:none;
+				border-bottom:2px solid #fff;	
+				text-align:left;
+				color:#666; 
+			}
+			.sidebar-results li a { 
+				text-align:left;
+				color:#666;
+				text-decoration:none;
+				font-weight:bold;
+				margin-left: 2px;
+				display: block; 
+			}
+			.sidebar-results li a:hover { 		
+				color:#000;
+				text-decoration:underline; 
+			}
+			.sidebar-results ul { 			
+				margin:0px;
+				padding:0px;
+				background:#eee;
+				border:none; 
+			}
+			.style1 { 			
+				font-size: 14px;
+				font-weight: bold;
+				font-style: italic; 
+			}
+			.style2 { 			
+				font-size: 12px;
+				font-weight: bold; 
+			}
+			.style3 { 
+				color: #000000 
+			}
+			.table-border { 
+				border-bottom:2px solid #e0e0e0;
+				border-right:2px solid #e0e0e0;
+				border-left:2px solid #e0e0e0;	
+				background:#fff;width:752px 
+			}
+			a { 			
+				text-decoration:underline;
+				color:#666666; 
+			}
+			a:hover { 			
+				text-decoration:underline;
+				color:#000; 
+			}
+			body { 
+				margin:0px;
+				font-family:Verdana, Arial, Helvetica, sans-serif;
+				font-size:11px;
+				color:#666666; 
+			}
+			#wrapper { 
+				background:url(http://pics.cnomy.com/287/body-bg.gif) repeat-x center -27px; 
+			}
+			form { 			
+				margin:0px;
+				padding:0px; 
+			}
+			h2 { 
+				margin:0px;
+				padding:0px 10px;
+				font-size:16px;
+				color:#000;
+				font-weight:bold;	
+				text-align:left; 
+			}
+			h3 { 
+				margin:5px;
+				color:#b18f8a;
+				font-size:14px;
+				font-weight:bold;
+				text-align:left;			
+				font-style: oblique; 
+			}
+			li { 
+				margin:0px;
+				padding:2px 1px 4px 20px;
+				background: url(http://pics.cnomy.com/287/li.gif) no-repeat 2px 3px;	
+				list-style:none;
+				text-align:left; 
+			}
+			p { 			
+				margin:0px;
+				padding:4px 2px 2px 5px; 
+			}
+			table { 
+				margin:0px;
+				padding:0px;	
+				font-family:Verdana, Arial, Helvetica, sans-serif;			
+				font-size:11px;	
+				color:#666666;	
+				text-align:left;
+			}
+			ul { 			
+				margin:0px;
+				padding:0px; 
+			}
+		</style>
+		<script language="JavaScript" type="text/javascript" src="http://js.cnomy.com/templates.js">
+		</script>
+	</head>
+
+	<body onload="showPopunder('http://www.redclawsoftware.com/popunder?q=Classic+Games&pt=2&vid=1184932119_1X02X1314774600&rpt=2');" onunload="">		<!-- custom message start -->
+				<!-- custom message end -->
+
+		<div style="visibility:hidden;display:none;" id="divSponAds"> <form name="frmSponsAds" id="frmSponsAds" method="POST" action="" target="_blank"><input type="hidden" name="params" id="params"></form></div>			<div id="wrapper">
+				<div align="center">
+										<!-- PAGE HEADER -->
+					<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+						<tr>
+							<td valign="bottom" align="left" height="56">
+								<a href="http://www.Redclawsoftware.com" style="text-decoration: none;">
+									<span style="font-family: Tahoma,arial;font-size: 20pt;font-weight: bold; color: #333333; letter-spacing: -1px;"><i>Redclawsoftware.com</i></span>
+								</a>
+								<br><br>
+							</td>
+							<td>
+								<form name="searchform1"  onsubmit="return submitSearch('searchform1', 1, 'pt=2&vid=1184932119_1X02X1314774600&rpt=2')" method="post" >
+									<div align="right">
+									<small style="padding-right: 220px;font-size: 11px;">Enter Search Term!</small><br>
+									<input name="q" type="text" onClick="clearSearchText(this)"  size="35" />
+									<input value="Search!" name="B1" style="width: 101px; font-family: verdana; font-size: 10px; font-weight: bold; background-color: #eee;" type="submit">
+									</div>
+								</form>
+							</td>
+						</tr>
+					</table>
+					<!-- /PAGE HEADER -->
+										<!-- PAGE DETAILS -->
+					<div class="table-border">
+						<table width="752"  border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#eeeeee">
+							<tr>
+								<td width="23" height="35" valign="top"> </td>
+								<td width="534" valign="bottom" bgcolor="eeeeee">Sponsored Results:</td>
+								<td width="177" valign="bottom" bgcolor="eeeeee">Relevant Links:</td>
+							</tr>
+						</table>
+												<div class="next">
+							<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+								<td valign="top">
+									<table width="100%"  border="0" cellspacing="0" cellpadding="5">
+										<tr>
+											<td width="75%" valign="top">
+																									
+													<div><a href="#" onmouseover="changeStatus('Play Free Video Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Classic+Games&kt=4&kp=7@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOPTMukm64cpANAWa7oirt9O/R54/OyWQlnQFXvkVVaH41TtqMX7jwVxNaMQFKm0ZM1gSBetgTQll7GjRuAp5wcQ+1S1IGTGZ0Uch+B+I6CZh+EUx9ZiK0Q1OseIY6woevEZQHozg8xSkdGX+3AjY74h+0BZhrUbwWhf2PlD45JIq0sJ9zzMi3QzciUf65yr2mdHk4jsvplU0bzGp/+6YsvjBkko16KtSh7Hl+tpD1esylGYVx0YwLm0uEnZTSRwo7puicDSLHHqh5nTg3WPNs5bCywBQ4ymNDfAymyQnFZeAUUYlXt3qRxVb83rqwYe7MirYJVwibwutoxPPR+ye23rdDCiVdkZPXhVQy3535BhKgEpmcs8tfqlnV+vgaXbH4u8hcn2pP87wbdG61RVgIK3KZ1BhWj08E0GL5B4jxy5cRabVZbBPNcdQNYHZ/F6v/3YwUNEqczFEWIYCxwci7LTWJYcwNuB+yyQG0yycWfonCWf1R46c0WWpMs8dzI7tP2YOUzwN+khsdWZ4d56WzQHETbiqC4UZ8Kr8WI+8pHm0XqhA6VgQm6kK66vM+gUxcVVeCwArdp45/JtgFCkcmVMbHvKW2LywWnskEa853KR/hrvl1vORYrF6ltOpwu/KUMgu4fgxnNvFbHz9m87mY5u3VTTqixVfnqZRtSKn3TrTwwNALQ8QTYsrHyCPWAjhf9STLpj+2hrIaDBXYtXktjoYddeFBnDBolUJg97s+inf45d4wLkAZg89+yGQoCSIjyAAuPvAWVswsM7KQe95pBbEGOcDyiED8hh+SY28p2od/RxE7COjX6iVmrwlbqnoqv6fSDjgIl3gTHT15CboxfgHVOlkXdW2ukMKA4L89lUZJfo/WpMNCX4RLKxT17pzYvoBM/fus+HN1jkWj5Ezu35FsE6/6cwMam1zgE+2vCVGMqP+eJ/d514f+473Xam4PnSBtEZN46Nb0HhPoeENiQc2FlpUf/FFj0vLPotnMrd7giqJsaFgUGRifKsmkTe/UJyCGDs8LFdxaQE9hEOUrqEs5STAoFdyG6QP8X2nkB/keq2T9MN0EaOZZ7B8Cfxhd808gJi6BWY5pX334Sk7Rfbf/BDtNU+AmbVDkZSTwmunE1rF+aDhuhS3D9r5aAlvoZ7zEYNSfIHUemidDMVkQLUI9uH5oO1vgwzX+CkX2NJ1/b2LJeDAgeyjqMZ3UFO5GoGHnAsPI+ws4Q/moTfNvXmSHXtHrTvAj4eKuO+p0b8Jdeu34OmLs+vubNA1TGwKtyXXsNnGXZD89K8pVmJYfnoq9JTodKs8Tb3XNr4nZhmstGEulDF5PGfbdN5HJCMYcZUk5GvYVs2WtHgPY8Zr0iWCBPAg5sB1pIH29A1vKZJr+NXBUh7UJ9UurUcqS/KScVzQcKD2dU6os/eeQdQt/s5f6tmVXik0tUpCkPPjVuGs9grRQNXijx8fsXQTOrcWHJuA==')" class="inpage-head" >Play Free Video Games</a></div>
+													
+														<div class="inpage">Real Games. Real Easy. Get it all with the all new GameTap. Play Now.														<br />
+														<a href="#" onmouseover="changeStatus('Play Free Video Games');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Classic+Games&kt=4&kp=7@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNyhmkmyxFCOPTMukm64cpANAWa7oirt9O/R54/OyWQlnQFXvkVVaH41TtqMX7jwVxNaMQFKm0ZM1gSBetgTQll7GjRuAp5wcQ+1S1IGTGZ0Uch+B+I6CZh+EUx9ZiK0Q1OseIY6woevEZQHozg8xSkdGX+3AjY74h+0BZhrUbwWhf2PlD45JIq0sJ9zzMi3QzciUf65yr2mdHk4jsvplU0bzGp/+6YsvjBkko16KtSh7Hl+tpD1esylGYVx0YwLm0uEnZTSRwo7puicDSLHHqh5nTg3WPNs5bCywBQ4ymNDfAymyQnFZeAUUYlXt3qRxVb83rqwYe7MirYJVwibwutoxPPR+ye23rdDCiVdkZPXhVQy3535BhKgEpmcs8tfqlnV+vgaXbH4u8hcn2pP87wbdG61RVgIK3KZ1BhWj08E0GL5B4jxy5cRabVZbBPNcdQNYHZ/F6v/3YwUNEqczFEWIYCxwci7LTWJYcwNuB+yyQG0yycWfonCWf1R46c0WWpMs8dzI7tP2YOUzwN+khsdWZ4d56WzQHETbiqC4UZ8Kr8WI+8pHm0XqhA6VgQm6kK66vM+gUxcVVeCwArdp45/JtgFCkcmVMbHvKW2LywWnskEa853KR/hrvl1vORYrF6ltOpwu/KUMgu4fgxnNvFbHz9m87mY5u3VTTqixVfnqZRtSKn3TrTwwNALQ8QTYsrHyCPWAjhf9STLpj+2hrIaDBXYtXktjoYddeFBnDBolUJg97s+inf45d4wLkAZg89+yGQoCSIjyAAuPvAWVswsM7KQe95pBbEGOcDyiED8hh+SY28p2od/RxE7COjX6iVmrwlbqnoqv6fSDjgIl3gTHT15CboxfgHVOlkXdW2ukMKA4L89lUZJfo/WpMNCX4RLKxT17pzYvoBM/fus+HN1jkWj5Ezu35FsE6/6cwMam1zgE+2vCVGMqP+eJ/d514f+473Xam4PnSBtEZN46Nb0HhPoeENiQc2FlpUf/FFj0vLPotnMrd7giqJsaFgUGRifKsmkTe/UJyCGDs8LFdxaQE9hEOUrqEs5STAoFdyG6QP8X2nkB/keq2T9MN0EaOZZ7B8Cfxhd808gJi6BWY5pX334Sk7Rfbf/BDtNU+AmbVDkZSTwmunE1rF+aDhuhS3D9r5aAlvoZ7zEYNSfIHUemidDMVkQLUI9uH5oO1vgwzX+CkX2NJ1/b2LJeDAgeyjqMZ3UFO5GoGHnAsPI+ws4Q/moTfNvXmSHXtHrTvAj4eKuO+p0b8Jdeu34OmLs+vubNA1TGwKtyXXsNnGXZD89K8pVmJYfnoq9JTodKs8Tb3XNr4nZhmstGEulDF5PGfbdN5HJCMYcZUk5GvYVs2WtHgPY8Zr0iWCBPAg5sB1pIH29A1vKZJr+NXBUh7UJ9UurUcqS/KScVzQcKD2dU6os/eeQdQt/s5f6tmVXik0tUpCkPPjVuGs9grRQNXijx8fsXQTOrcWHJuA==')"  >www.GameTap.com</a></div>
+																				
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('For Your Game Room');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Classic+Games&kt=4&kp=7@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1hwBEjh3caI9EOD9QwDeAoKeL/+IhwsBf2Yj/PXy0BMbvFtlh7z/4XDTLpok76KLJvQGkzR1lrj9r4KpjmqbMLvxgZCWMxlB/HFexkP+tHlTcQWuNzxPnbT/oIjJa3DTfI18bJt8Se0m/ADEKwz15wKQd6S2gP8njnEiPKQwL0wYTgoKoZUZt/Ax3X6UJvhqSYWE4CWLR1qAgo+pA1gin2p21Y1cb0Uf9srMurC2+wPr8Dl71xeA8V3/bpgLYTum0M7vOfqCa71wRpEThVlP0tOVe7b1D+JgAL/ge95dRI2h2rUc0O+SIcIexnB4SFDaDBdzDyWCywoheWsw/vhwSuQhfrrxWBTaHP4Wq3S7nTdJoukDtF5Sm2YQK7mDb9FSGtSyKWYiRL2YocxhgWdWl9EBgcdd4od6vWQAJFk8/2bP0LsdSmJ/GN4C37mMNQbHbhdFd5jbo88/mAqCiAhsb+J4+Q1C2BMpnJ5cDLFy6PSj3IgvGAL27t32TSD6yNo1XiYl4xGsLR1Mbb+WPvBML74Sdn/PwLKTmw2lBMerj63IyAEQlY4CNHvWAOMjsOsJUBlPF5eh9AlYyg/NCFJ1bL5n8T9iZsOzKXXukRSOlcZDKDkqneMLRDnw7B9xqDxM2zo7KVIX1qpqR7BxP8th3Cx1Hp0kv+8HtP/iYFC4hSz8C+g461W8E/YpveSWH8Iiz2gubTwztlJy4EmvbaD1zFb0l6RqPdjj1jMSuaJRTlHdndTQxGgdPB0gyjun2XUQJmhCl1pnRJF4GW2UMd/jF4QYEi0retboOb8uxPv5Rc/JjejyHfXMYYR1NenIw0AjCn+ua3GBgttBNIZeEZReLPJfof7t8AXmDg9WX0Zq19LJdX7ZMsy1Z0PEnIFuyXWuYf5uegWttZLszD4KAVlqqR0Xn6iA4sC3m36PN+xvyUTHDEbyKLmsZhPXlHHsVxSU731cVrVqDk4l0rYNcus34YkugffH0L59hInQe/exX+I1DcZJ1sT0YR19Tl4GZcub2o1iU4rCvSmJujfjZn/5orOQo2uB6/7zvpq5k9SY7jYLEvZg6AwhpS6svuZRWq0QP+bynecQrLLb1ADR7dIrouqcKoK9P8zub58IPsYhPcZn7JpfrF3Gb2TxwgMN4Zz3kPvAEkym/2uzKymgoNHd8PQbEB/lO3yQZhvMGMpLxhkrqx/vvmFkYlYLq43AHyatw6XmUEDkIpozN/6jM7ETRxFhQbXlAzfR5CRZ12kgHq2S8N0XWUTJeOqDu2bPeykBRiu6JDWp8ifIdAcipTjwM/GG6raluzv0UBecLleTVaHZfUWFWRR31w6yAWWT2eAWk+UQwDg/ZF/QgJ2xv9gEF0AFaBEUHSuI3kXulRF06XpkIcYN1Zq7y0hms1LID8g7r1o+baWz/8H28H3azHAiKw3Uqj0z/N7rx++VGzSA/kvy57oKvOUyoy2cgm66E0v4Nk1OUOvo+rXo3ZuhTcSkg3tuDgpkf5ejmJGC8ci0tQydZ8y9rgUOcplT32rIS6H72Jf2GSKkZL6TibG+Fez2rnb98=')" class="inpage-head" >For Your Game Room</a></div>
+													
+														<div class="inpage">For sale: Arcade games, jukeboxes, and soda machines.														<br />
+														<a href="#" onmouseover="changeStatus('For Your Game Room');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Classic+Games&kt=4&kp=7@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1hwBEjh3caI9EOD9QwDeAoKeL/+IhwsBf2Yj/PXy0BMbvFtlh7z/4XDTLpok76KLJvQGkzR1lrj9r4KpjmqbMLvxgZCWMxlB/HFexkP+tHlTcQWuNzxPnbT/oIjJa3DTfI18bJt8Se0m/ADEKwz15wKQd6S2gP8njnEiPKQwL0wYTgoKoZUZt/Ax3X6UJvhqSYWE4CWLR1qAgo+pA1gin2p21Y1cb0Uf9srMurC2+wPr8Dl71xeA8V3/bpgLYTum0M7vOfqCa71wRpEThVlP0tOVe7b1D+JgAL/ge95dRI2h2rUc0O+SIcIexnB4SFDaDBdzDyWCywoheWsw/vhwSuQhfrrxWBTaHP4Wq3S7nTdJoukDtF5Sm2YQK7mDb9FSGtSyKWYiRL2YocxhgWdWl9EBgcdd4od6vWQAJFk8/2bP0LsdSmJ/GN4C37mMNQbHbhdFd5jbo88/mAqCiAhsb+J4+Q1C2BMpnJ5cDLFy6PSj3IgvGAL27t32TSD6yNo1XiYl4xGsLR1Mbb+WPvBML74Sdn/PwLKTmw2lBMerj63IyAEQlY4CNHvWAOMjsOsJUBlPF5eh9AlYyg/NCFJ1bL5n8T9iZsOzKXXukRSOlcZDKDkqneMLRDnw7B9xqDxM2zo7KVIX1qpqR7BxP8th3Cx1Hp0kv+8HtP/iYFC4hSz8C+g461W8E/YpveSWH8Iiz2gubTwztlJy4EmvbaD1zFb0l6RqPdjj1jMSuaJRTlHdndTQxGgdPB0gyjun2XUQJmhCl1pnRJF4GW2UMd/jF4QYEi0retboOb8uxPv5Rc/JjejyHfXMYYR1NenIw0AjCn+ua3GBgttBNIZeEZReLPJfof7t8AXmDg9WX0Zq19LJdX7ZMsy1Z0PEnIFuyXWuYf5uegWttZLszD4KAVlqqR0Xn6iA4sC3m36PN+xvyUTHDEbyKLmsZhPXlHHsVxSU731cVrVqDk4l0rYNcus34YkugffH0L59hInQe/exX+I1DcZJ1sT0YR19Tl4GZcub2o1iU4rCvSmJujfjZn/5orOQo2uB6/7zvpq5k9SY7jYLEvZg6AwhpS6svuZRWq0QP+bynecQrLLb1ADR7dIrouqcKoK9P8zub58IPsYhPcZn7JpfrF3Gb2TxwgMN4Zz3kPvAEkym/2uzKymgoNHd8PQbEB/lO3yQZhvMGMpLxhkrqx/vvmFkYlYLq43AHyatw6XmUEDkIpozN/6jM7ETRxFhQbXlAzfR5CRZ12kgHq2S8N0XWUTJeOqDu2bPeykBRiu6JDWp8ifIdAcipTjwM/GG6raluzv0UBecLleTVaHZfUWFWRR31w6yAWWT2eAWk+UQwDg/ZF/QgJ2xv9gEF0AFaBEUHSuI3kXulRF06XpkIcYN1Zq7y0hms1LID8g7r1o+baWz/8H28H3azHAiKw3Uqj0z/N7rx++VGzSA/kvy57oKvOUyoy2cgm66E0v4Nk1OUOvo+rXo3ZuhTcSkg3tuDgpkf5ejmJGC8ci0tQydZ8y9rgUOcplT32rIS6H72Jf2GSKkZL6TibG+Fez2rnb98=')"  >http://eagled.com</a></div>
+																			
+												                                                <br>
+																					
+                                                <br>
+																					
+                                                <br>
+																					
+                                                <br>
+																					
+                                                <br>
+												                                                <br>
+																					
+                                                <br>
+																					
+                                                <br>
+												                                                <br>
+													
+                                                <br>
+													
+											</td>
+											<td width="25%" valign="top">
+												<table width="100%"  border="0" cellspacing="0" cellpadding="0" class="sidebar">
+													<tr>
+														<td>
+															<div class="top"></div>
+															<div>
+																<ul>
+																	<!-- RIGHT RELATED-2 -->	 
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Tetris_Classic.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=1" target="_top" onmouseover="changeStatus('Tetris Classic');return true;" onmouseout="changeStatus('');return true;" title="Tetris Classic" id="sk1" name="sk1" >Tetris Classic</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Power_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=2" target="_top" onmouseover="changeStatus('Power Games');return true;" onmouseout="changeStatus('');return true;" title="Power Games" id="sk2" name="sk2" >Power Games</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Pc_Arcade_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=3" target="_top" onmouseover="changeStatus('Pc Arcade Games');return true;" onmouseout="changeStatus('');return true;" title="Pc Arcade Games" id="sk3" name="sk3" >Pc Arcade Games</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Multiplayer_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=4" target="_top" onmouseover="changeStatus('Multiplayer Games');return true;" onmouseout="changeStatus('');return true;" title="Multiplayer Games" id="sk4" name="sk4" >Multiplayer Games</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Games_Download.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=5" target="_top" onmouseover="changeStatus('Games Download');return true;" onmouseout="changeStatus('');return true;" title="Games Download" id="sk5" name="sk5" >Games Download</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=6" target="_top" onmouseover="changeStatus('Games');return true;" onmouseout="changeStatus('');return true;" title="Games" id="sk6" name="sk6" >Games</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Fun_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=7" target="_top" onmouseover="changeStatus('Fun Games');return true;" onmouseout="changeStatus('');return true;" title="Fun Games" id="sk7" name="sk7" >Fun Games</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Downloadable_Computer_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=8" target="_top" onmouseover="changeStatus('Downloadable Computer Games');return true;" onmouseout="changeStatus('');return true;" title="Downloadable Computer Games" id="sk8" name="sk8" >Downloadable Computer Games</a>
+																	</li>
+																	<!-- /RIGHT RELATED-2 -->		
+																</ul>
+															</div>
+															<div class="bottom"></div>
+														</td>
+													</tr>
+												</table>									
+												<br>							
+												<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://pics.cnomy.com/287/topbg-red.gif">
+													<tr>
+														<td height="54"><h2>Top Searches:</h2></td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Arcade_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=1" target="_top" onmouseover="changeStatus('Arcade Games');return true;" onmouseout="changeStatus('');return true;" title="Arcade Games" id="dk1" name="dk1" >Arcade Games</a>
+														</td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Computer_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=2" target="_top" onmouseover="changeStatus('Computer Games');return true;" onmouseout="changeStatus('');return true;" title="Computer Games" id="dk2" name="dk2" >Computer Games</a>
+														</td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Free_Software_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=3" target="_top" onmouseover="changeStatus('Free Software Downloads');return true;" onmouseout="changeStatus('');return true;" title="Free Software Downloads" id="dk3" name="dk3" >Free Software Downloads</a>
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="#333333">
+														<img src="http://pics.cnomy.com/287/sidebar-bottom-left.gif" align="left" hspace="0" vspace="0"><img 
+														src="http://pics.cnomy.com/287/sidebar-bottom-right.gif" align="right" hspace="0" vspace="0">
+														</td>
+													</tr>
+												</table>
+												<br>
+												<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://pics.cnomy.com/287/topbg-green.gif">
+														<tr>
+															<td height="54"><h2>Most Preferred:</h2></td>
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Fun_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=4" target="_top" onmouseover="changeStatus('Fun Games');return true;" onmouseout="changeStatus('');return true;" title="Fun Games" id="dk4" name="dk4" >Fun Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Online_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=5" target="_top" onmouseover="changeStatus('Online Games');return true;" onmouseout="changeStatus('');return true;" title="Online Games" id="dk5" name="dk5" >Online Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Pocketpc_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=6" target="_top" onmouseover="changeStatus('Pocketpc Games');return true;" onmouseout="changeStatus('');return true;" title="Pocketpc Games" id="dk6" name="dk6" >Pocketpc Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td bgcolor="#333333">
+															<img src="http://pics.cnomy.com/287/sidebar-bottom-left.gif" align="left" hspace="0" vspace="0"><img 
+															src="http://pics.cnomy.com/287/sidebar-bottom-right.gif" align="right" hspace="0" vspace="0">
+															</td>
+														</tr>
+													</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							</table>
+							 <form name="searchform2"  onsubmit="return submitSearch('searchform2', 2, 'pt=2&vid=1184932119_1X02X1314774600&rpt=2')" method="post" >
+								<table  border="0" align="center" cellpadding="0" cellspacing="8">
+									<tr>
+										<td width="62%"><input name="q" type="text" onClick="clearSearchText(this)"  size="40" /></td>
+										<td width="38%"><input value="Search!" name="B1" style="width: 101px; font-family: verdana; font-size: 10px; font-weight: bold; background-color: #eee;" type="submit"></td>
+									</tr>		
+								</table>
+							 </form>
+														<!-- PAGE FOOTER -->
+							<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td align="center" style="padding:10px 0px;">
+										<a href="#" onclick="return addbookmark('Redclawsoftware.com');">Bookmark this page</a> |
+										<a href="#" onclick="javascript: setAsHomePage(this, 'Redclawsoftware.com');">Make this your Homepage</a>
+									</td>
+								</tr>
+							</table>
+							<!-- /PAGE FOOTER -->
+							<div class="bottom"></div>
+						</div>
+					</div>
+					<!-- PAGE DETAILS -->
+				</div>
+			</div>
+		 	<style>	.divStyle{visibility : hidden; display:none;} </style><div class="divStyle"><a href="mailto:harsha@vassilipuskas.com">harsha@vassilipuskas.com</a></div> </body>
+</html>

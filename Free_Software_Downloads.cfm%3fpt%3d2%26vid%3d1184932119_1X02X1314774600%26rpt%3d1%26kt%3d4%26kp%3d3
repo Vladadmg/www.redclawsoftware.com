@@ -1,0 +1,534 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Free Software Downloads-Redclawsoftware.com</title>
+		<style type="text/css">
+			 .img { 			
+				margin:8px;
+				border:1px solid #ff5c01; 
+			}
+			.in-page { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.in-page li { 
+				margin:0px;
+				padding:4px 5px; 
+				background:url(http://pics.cnomy.com/287/pointer.gif) no-repeat -3px 7px; 
+				list-style:none;
+				border-bottom:1px solid #ccc;
+				text-align:left;
+				color:#666;
+				font-weight:bold; 
+			}
+			.in-page li a { 			
+				text-align:left;
+				color:#666;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.in-page li a:hover { 			
+				color:#000;
+				text-decoration:none; 
+			}
+			.in-page ul { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.inpage { 
+				margin:0px;
+				padding:4px 2px 1px 45px;
+				font-size:11px;
+				color:#333;
+				text-align:left;		
+				line-height:16px; 
+			}
+			.inpage a { 
+				font-size:11px;	
+				color:#8c9357;	
+				text-align:left;
+				text-decoration:underline;		
+				font-style: italic; 
+			}
+			.inpage a:hover { 			
+				color:#666;
+				text-decoration:underline; 
+			}
+			.inpage-head { 
+				margin:0px;
+				padding:4px 2px 1px 45px;
+				color:#80433A;
+				font-size:16px;
+				background: url(http://pics.cnomy.com/287/inpage-arrow.gif) no-repeat 5px 5px;
+				font-weight:bold;text-align:left; 
+				text-decoration:none;
+			}
+			.inpage-top { 
+				margin:0px;
+				padding:8px 5px;
+				color:#666;
+				font-size:14px;
+				font-weight:bold;	
+				text-align:left; 
+			}
+			.inpage-top a { 
+				margin:0px;
+				padding:10px 6px;
+				color:#000;	
+				font-size:11px;	
+				font-weight:bold; 
+				text-decoration:none; 
+			}
+			.inpage-top a:hover { 			
+				color:#666;
+				text-decoration:underline; 
+			}
+			.result-text { 			
+				margin:0px;
+				padding:10px 7px;
+				color:#fff;
+				font-size:12px;
+				font-weight:bold;
+				text-align:left;
+				background: #333;
+				border-bottom: 1px solid #fff;
+			}
+			.result-text a { 		
+				color:#fff;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.result-text a:hover { 			
+				color:#fff;
+				text-decoration:underline; 
+			}
+			.result-text-index { 
+				margin:0px;
+				padding:12px 7px;
+				color:#fff;	
+				font-size:12px;	
+				font-weight:bold;
+				text-align:left;
+				background: #333;
+				border-bottom: 1px solid #fff;	
+				border-right: 1px solid #fff; 
+			}
+			.result-text-index a { 			
+				color:#fff;
+				font-weight:bold;
+				text-decoration:none; 
+			}
+			.result-text-index a:hover { 			
+				color:#fff;
+				text-decoration:underline; 
+			}
+			.sidebar { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.sidebar .bottom { 			
+				background: url(http://pics.cnomy.com/287/sidebar-bottom.gif) #eee no-repeat right bottom;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar .top { 
+				background: url(http://pics.cnomy.com/287/sidebar-top.gif) #eee no-repeat left top;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar li { 
+				margin:0px;padding:3px 12px;
+				background: url(http://pics.cnomy.com/287/sidebar-li.gif) no-repeat 5px 5px;			
+				list-style:none;
+				border-bottom:2px solid #fff;
+				text-align:left;
+				color:#666; 
+			}
+			.sidebar li a { 			
+				text-align:left;
+				color:#666;
+				text-decoration:none;
+				font-weight:bold; 
+			}
+			.sidebar li a:hover { 			
+				color:#000;
+				text-decoration:underline; 
+			}
+			.sidebar ul { 			
+				margin:0px;
+				padding:0px;
+				background:#eee;
+				border:none; 
+			}
+			.sidebar-results { 			
+				margin:0px;
+				padding:0px; 
+			}
+			.sidebar-results .bottom { 
+				background: url(http://pics.cnomy.com/287/sidebar-bottom.gif) #eee no-repeat right bottom;	
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar-results .top { 			
+				background: url(http://pics.cnomy.com/287/sidebar-top.gif) #eee no-repeat left top;
+				height:9px;
+				widows:10px; 
+			}
+			.sidebar-results li { 
+				margin:0px;
+				padding:3px 12px;
+				background: url(http://pics.cnomy.com/287/pointer.gif) #eee no-repeat 5px 5px;	
+				list-style:none;
+				border-bottom:2px solid #fff;	
+				text-align:left;
+				color:#666; 
+			}
+			.sidebar-results li a { 
+				text-align:left;
+				color:#666;
+				text-decoration:none;
+				font-weight:bold;
+				margin-left: 2px;
+				display: block; 
+			}
+			.sidebar-results li a:hover { 		
+				color:#000;
+				text-decoration:underline; 
+			}
+			.sidebar-results ul { 			
+				margin:0px;
+				padding:0px;
+				background:#eee;
+				border:none; 
+			}
+			.style1 { 			
+				font-size: 14px;
+				font-weight: bold;
+				font-style: italic; 
+			}
+			.style2 { 			
+				font-size: 12px;
+				font-weight: bold; 
+			}
+			.style3 { 
+				color: #000000 
+			}
+			.table-border { 
+				border-bottom:2px solid #e0e0e0;
+				border-right:2px solid #e0e0e0;
+				border-left:2px solid #e0e0e0;	
+				background:#fff;width:752px 
+			}
+			a { 			
+				text-decoration:underline;
+				color:#666666; 
+			}
+			a:hover { 			
+				text-decoration:underline;
+				color:#000; 
+			}
+			body { 
+				margin:0px;
+				font-family:Verdana, Arial, Helvetica, sans-serif;
+				font-size:11px;
+				color:#666666; 
+			}
+			#wrapper { 
+				background:url(http://pics.cnomy.com/287/body-bg.gif) repeat-x center -27px; 
+			}
+			form { 			
+				margin:0px;
+				padding:0px; 
+			}
+			h2 { 
+				margin:0px;
+				padding:0px 10px;
+				font-size:16px;
+				color:#000;
+				font-weight:bold;	
+				text-align:left; 
+			}
+			h3 { 
+				margin:5px;
+				color:#b18f8a;
+				font-size:14px;
+				font-weight:bold;
+				text-align:left;			
+				font-style: oblique; 
+			}
+			li { 
+				margin:0px;
+				padding:2px 1px 4px 20px;
+				background: url(http://pics.cnomy.com/287/li.gif) no-repeat 2px 3px;	
+				list-style:none;
+				text-align:left; 
+			}
+			p { 			
+				margin:0px;
+				padding:4px 2px 2px 5px; 
+			}
+			table { 
+				margin:0px;
+				padding:0px;	
+				font-family:Verdana, Arial, Helvetica, sans-serif;			
+				font-size:11px;	
+				color:#666666;	
+				text-align:left;
+			}
+			ul { 			
+				margin:0px;
+				padding:0px; 
+			}
+		</style>
+		<script language="JavaScript" type="text/javascript" src="http://js.cnomy.com/templates.js">
+		</script>
+	</head>
+
+	<body onload="showPopunder('http://www.redclawsoftware.com/popunder?q=Free+Software+Downloads&pt=2&vid=1184932119_1X02X1314774600&rpt=2');" onunload="">		<!-- custom message start -->
+				<!-- custom message end -->
+
+		<div style="visibility:hidden;display:none;" id="divSponAds"> <form name="frmSponsAds" id="frmSponsAds" method="POST" action="" target="_blank"><input type="hidden" name="params" id="params"></form></div>			<div id="wrapper">
+				<div align="center">
+										<!-- PAGE HEADER -->
+					<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+						<tr>
+							<td valign="bottom" align="left" height="56">
+								<a href="http://www.Redclawsoftware.com" style="text-decoration: none;">
+									<span style="font-family: Tahoma,arial;font-size: 20pt;font-weight: bold; color: #333333; letter-spacing: -1px;"><i>Redclawsoftware.com</i></span>
+								</a>
+								<br><br>
+							</td>
+							<td>
+								<form name="searchform1"  onsubmit="return submitSearch('searchform1', 1, 'pt=2&vid=1184932119_1X02X1314774600&rpt=2')" method="post" >
+									<div align="right">
+									<small style="padding-right: 220px;font-size: 11px;">Enter Search Term!</small><br>
+									<input name="q" type="text" onClick="clearSearchText(this)"  size="35" />
+									<input value="Search!" name="B1" style="width: 101px; font-family: verdana; font-size: 10px; font-weight: bold; background-color: #eee;" type="submit">
+									</div>
+								</form>
+							</td>
+						</tr>
+					</table>
+					<!-- /PAGE HEADER -->
+										<!-- PAGE DETAILS -->
+					<div class="table-border">
+						<table width="752"  border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#eeeeee">
+							<tr>
+								<td width="23" height="35" valign="top"> </td>
+								<td width="534" valign="bottom" bgcolor="eeeeee">Sponsored Results:</td>
+								<td width="177" valign="bottom" bgcolor="eeeeee">Relevant Links:</td>
+							</tr>
+						</table>
+												<div class="next">
+							<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+								<td valign="top">
+									<table width="100%"  border="0" cellspacing="0" cellpadding="5">
+										<tr>
+											<td width="75%" valign="top">
+																									
+													<div><a href="#" onmouseover="changeStatus('Computer Problems Fixer');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yDJmsGcjoH6MN6qQROm1mR+3JCbUd2sCvjIAOMaafjb5iEMnDLcYvlv8RapjqBHVU2Jr/Ny20hpD3zfsuHHR5kCPqjjmVxOR21DitvTbyr6gqi3Y87ilTeDw2OtnAF2eCLoCozAf87YBgIMOTm+4HykDnr2qd7iBw0HvtyQIFQrT9cZ0dxRYWDD7IAKB1s8I6FFO4AfEWqgw1CREC9rAOuAkMc4Me2m1bJQ3XtsKngkzaBeFTuxVvbIdAfqZyQUHpXy2oL/ywAny8TlIMt216Q2jr8PgivuCdC/KbiMRXmTm2VYyBVgrQELnUq/M5GsApeg/vhQ6lvH849OhrIYDVr8ulTYqijVxLtqY2mwfz3XbzkYCL4nP7c+LjB7mONcvQVLrssDmvTKfxHEnm6jWVeFBUmL7dUMITxgg0pf0stmd88rhAjkTxQWGvnOry8pv+KoX3GCPmDYCCY2gtcukHygSs7nhW6kdMYuC2llfm/lOvKTWp5E/DPDvJQHvU+n1a1IgDqmQZ1EbTmWW3OZC/OwplKjlxrJ4UBKIBwSv61tQRDiD1sFWB8KeHVHsTAQdVM7wB3Cb8Y2DMCLdhf7LxvyuGr0GGcCYU9HXD+iNfbXtde4zKdp2qcf/QIdNdRY0GXEXtZf4am6Um/roTlBJIb2Dg1HNMrEXj+7HdKn4yQnhmEipHFCLYdJ7nghZrpPABhxPBsAViF/gqyoIJv5HUW5pk98Rlu49Y/kOi/I5NKsqVp5JEpWwfu+12epwXByjX9TT3jAmGUwsyvHgA9GHu/Z9nELq70iyWeTLjLOCg61vO0sJZeT5HYvis51VTBELgdEjvdmJ8G7GFb4d+wXvWaeiUHNeKiLCrkVynzO4yGtGWVgo5u6oWvtzc+sQ4R37Rju+ZcTUco/mWlTYenj37EvHjMmw0guQiV6yNRgkKvoIhE/cSelf0w5YhQnTmSDVkuZ3ROT+/AEqayxXKOvDxGyda+TyynLz7JwfxfutSmt1UhKtz6BBndEN7dBUq4+cfuZ6RaF3S1g0u2GjF0Dgu2on8KrS29wLHinel7x0PQgR6Nvl9IF7guISrHcgD4YIx2OKALfpU1zE3D+m4ekWYqyzkGkpQP1q/AXtdG+RPUavy78dneY6CTlDMBpntNCd7gh48MXW9Yi7xiCz/rV2MDWjXSqGvDLMOKUaGOffazChVfxkdGCUfo5mkY+UjBYgXb0upL8m4JtdWvxCDkMQFk5FLuyRS9HpZAJK6OlQUvEqnwVfGzbOUWo9RZIPpXL7tBq/7MtZTi2otEE5AbdWxF3iLY65EnzDX6f3F8pBsgwkYi8PROqtS0=')" class="inpage-head" >Computer Problems Fixer</a></div>
+													
+														<div class="inpage">PC too Slow, Crashing, Freezing? Free Scan &amp; Repair 100% Guaranteed														<br />
+														<a href="#" onmouseover="changeStatus('Computer Problems Fixer');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yDJmsGcjoH6MN6qQROm1mR+3JCbUd2sCvjIAOMaafjb5iEMnDLcYvlv8RapjqBHVU2Jr/Ny20hpD3zfsuHHR5kCPqjjmVxOR21DitvTbyr6gqi3Y87ilTeDw2OtnAF2eCLoCozAf87YBgIMOTm+4HykDnr2qd7iBw0HvtyQIFQrT9cZ0dxRYWDD7IAKB1s8I6FFO4AfEWqgw1CREC9rAOuAkMc4Me2m1bJQ3XtsKngkzaBeFTuxVvbIdAfqZyQUHpXy2oL/ywAny8TlIMt216Q2jr8PgivuCdC/KbiMRXmTm2VYyBVgrQELnUq/M5GsApeg/vhQ6lvH849OhrIYDVr8ulTYqijVxLtqY2mwfz3XbzkYCL4nP7c+LjB7mONcvQVLrssDmvTKfxHEnm6jWVeFBUmL7dUMITxgg0pf0stmd88rhAjkTxQWGvnOry8pv+KoX3GCPmDYCCY2gtcukHygSs7nhW6kdMYuC2llfm/lOvKTWp5E/DPDvJQHvU+n1a1IgDqmQZ1EbTmWW3OZC/OwplKjlxrJ4UBKIBwSv61tQRDiD1sFWB8KeHVHsTAQdVM7wB3Cb8Y2DMCLdhf7LxvyuGr0GGcCYU9HXD+iNfbXtde4zKdp2qcf/QIdNdRY0GXEXtZf4am6Um/roTlBJIb2Dg1HNMrEXj+7HdKn4yQnhmEipHFCLYdJ7nghZrpPABhxPBsAViF/gqyoIJv5HUW5pk98Rlu49Y/kOi/I5NKsqVp5JEpWwfu+12epwXByjX9TT3jAmGUwsyvHgA9GHu/Z9nELq70iyWeTLjLOCg61vO0sJZeT5HYvis51VTBELgdEjvdmJ8G7GFb4d+wXvWaeiUHNeKiLCrkVynzO4yGtGWVgo5u6oWvtzc+sQ4R37Rju+ZcTUco/mWlTYenj37EvHjMmw0guQiV6yNRgkKvoIhE/cSelf0w5YhQnTmSDVkuZ3ROT+/AEqayxXKOvDxGyda+TyynLz7JwfxfutSmt1UhKtz6BBndEN7dBUq4+cfuZ6RaF3S1g0u2GjF0Dgu2on8KrS29wLHinel7x0PQgR6Nvl9IF7guISrHcgD4YIx2OKALfpU1zE3D+m4ekWYqyzkGkpQP1q/AXtdG+RPUavy78dneY6CTlDMBpntNCd7gh48MXW9Yi7xiCz/rV2MDWjXSqGvDLMOKUaGOffazChVfxkdGCUfo5mkY+UjBYgXb0upL8m4JtdWvxCDkMQFk5FLuyRS9HpZAJK6OlQUvEqnwVfGzbOUWo9RZIPpXL7tBq/7MtZTi2otEE5AbdWxF3iLY65EnzDX6f3F8pBsgwkYi8PROqtS0=')"  >www.PcDocPro.com</a></div>
+																				
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Clear Your PC\'s Registry');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yHJmsGcjoH6UXQ5ConSc8LXHYj5quq8joUs4Tps2nSW0YnhK8vZdvHMnxFh0jgs84YnxNTq+hVKCl4gCFhWHAZqF6bB6SLOQS/NUVSgdfo4jE64UUs/QiIs0thIZlF9NBh7DnAdN0rqt1+RvmNexJt/HT4xe99sTyVKjl6ToOSZ5BY7r8LcmDP+3WxFeycfFfc8W8lW1KajgaAKVrMWKf+/6Ej87oifxp+Dfgf6C1XzPokNUPw38lGvbAmJhXAn20xqmDUVU6EA5KtdzOWWr68XY3jMClmBbgLzJYlNNX+otghJO2ErsYcLH4/XGJjReWwC0qrkpmoaKD8m/M2wRleSqXlmu3twanJnqWIybumPAbYJPWEOgdtmnHWg5VWaQ1qxpYWFY6WGjCoONZeQji73UF0uPGAGGOmJbueAosipf4iNU+4U80W/CV/iOKNeumjQiQ+xwgAVGARMJa/kPQevjKgN6HhhBGGnj/SRZ15GS7QIYAcKwmS2tbvaYpu3yIgT3K9SGAlVVaeFmjgvZ/AmY7EJBo1MIqwaJ840LZKUFjb1ccZUZMuLumZ0iAkm3WXquOgv7TLmwhWI+pVaPHuWvk3JFDJbRlVlv9y+mFC5lxnTAbA0aMI68/+nGQTUvB2GRD4GkQ+2Qa2JxVIWKP/8kJF0sDdf40ybfJOhAVf9DyfQqMPYQekgNQOuwYiPkrNUs2a/J0nte+LMu9v2UkCnCnNeULjOR9227XUJ3CuMyIcC2oKF2fOx9pd6A7ohzoQqA3I4zOgsln8vpKYj0I1qPWJ8eE9dBi6xeXXzugNuPEUgjtj/YD7wcaiDu5dvcQeWglJf+5FvsQTtMT6/P2fgpnfrELlcIgBzyQW+LlL9XDXoieG0+q9V7fVKGH5ktYn9a93ppJLHNZDmHEfgefca5j2qW2n7N3fMQERoNUxVv6cjqc7UOLptuAWE3+K1MEXjIYKRVEVNUbokhf6MNClEVRLZvq+tkB/VcNsf7M3oicSGYW5hlyhxsZF8b2nst9vQ84xJvp7dd95Kfz6y1p6ik3nn5j/XBTUDlzr7NJ6tj26sV4QeSCBgG/Bk35TG3nYrncLHec/FhTp/IXAjYppGMSr6pd40ZtDrfRgobemicuWow1rGvBNdJy9PPbMHghOcYEBQsA5mMceetwpG0LcvhiTPEcdCD64S6ofFaoD4WFmgHd2qi3YZBeDcasHK7LQPJ8u6uTpFwtXmt9PauJCEC8Yt4eoOLrESpQ6G+3ONUQEONRYsmteK/3xK4YASS/SkSyN/4azoSDANZRlKcsFe0LqfICD2RehYjsSLUdgPkO5plv8PO+WzXcwJd/gC72x7uYFKKMcImIcZaDC6unRmkwjRPNwTM1+QVLkitB59qcukkqFwpffTvaO2aqSveApVKKRjRxpeIn6zffClRLhHMMl0xWSVGUiXJGskBwrEhp8iNEDR+LsmROQjRsMjh1NVRcI=')" class="inpage-head" >Clear Your PC's Registry</a></div>
+													
+														<div class="inpage">Download Free Registry Scanner Scan, Repair &amp; Speed Up your PC!														<br />
+														<a href="#" onmouseover="changeStatus('Clear Your PC\'s Registry');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yHJmsGcjoH6UXQ5ConSc8LXHYj5quq8joUs4Tps2nSW0YnhK8vZdvHMnxFh0jgs84YnxNTq+hVKCl4gCFhWHAZqF6bB6SLOQS/NUVSgdfo4jE64UUs/QiIs0thIZlF9NBh7DnAdN0rqt1+RvmNexJt/HT4xe99sTyVKjl6ToOSZ5BY7r8LcmDP+3WxFeycfFfc8W8lW1KajgaAKVrMWKf+/6Ej87oifxp+Dfgf6C1XzPokNUPw38lGvbAmJhXAn20xqmDUVU6EA5KtdzOWWr68XY3jMClmBbgLzJYlNNX+otghJO2ErsYcLH4/XGJjReWwC0qrkpmoaKD8m/M2wRleSqXlmu3twanJnqWIybumPAbYJPWEOgdtmnHWg5VWaQ1qxpYWFY6WGjCoONZeQji73UF0uPGAGGOmJbueAosipf4iNU+4U80W/CV/iOKNeumjQiQ+xwgAVGARMJa/kPQevjKgN6HhhBGGnj/SRZ15GS7QIYAcKwmS2tbvaYpu3yIgT3K9SGAlVVaeFmjgvZ/AmY7EJBo1MIqwaJ840LZKUFjb1ccZUZMuLumZ0iAkm3WXquOgv7TLmwhWI+pVaPHuWvk3JFDJbRlVlv9y+mFC5lxnTAbA0aMI68/+nGQTUvB2GRD4GkQ+2Qa2JxVIWKP/8kJF0sDdf40ybfJOhAVf9DyfQqMPYQekgNQOuwYiPkrNUs2a/J0nte+LMu9v2UkCnCnNeULjOR9227XUJ3CuMyIcC2oKF2fOx9pd6A7ohzoQqA3I4zOgsln8vpKYj0I1qPWJ8eE9dBi6xeXXzugNuPEUgjtj/YD7wcaiDu5dvcQeWglJf+5FvsQTtMT6/P2fgpnfrELlcIgBzyQW+LlL9XDXoieG0+q9V7fVKGH5ktYn9a93ppJLHNZDmHEfgefca5j2qW2n7N3fMQERoNUxVv6cjqc7UOLptuAWE3+K1MEXjIYKRVEVNUbokhf6MNClEVRLZvq+tkB/VcNsf7M3oicSGYW5hlyhxsZF8b2nst9vQ84xJvp7dd95Kfz6y1p6ik3nn5j/XBTUDlzr7NJ6tj26sV4QeSCBgG/Bk35TG3nYrncLHec/FhTp/IXAjYppGMSr6pd40ZtDrfRgobemicuWow1rGvBNdJy9PPbMHghOcYEBQsA5mMceetwpG0LcvhiTPEcdCD64S6ofFaoD4WFmgHd2qi3YZBeDcasHK7LQPJ8u6uTpFwtXmt9PauJCEC8Yt4eoOLrESpQ6G+3ONUQEONRYsmteK/3xK4YASS/SkSyN/4azoSDANZRlKcsFe0LqfICD2RehYjsSLUdgPkO5plv8PO+WzXcwJd/gC72x7uYFKKMcImIcZaDC6unRmkwjRPNwTM1+QVLkitB59qcukkqFwpffTvaO2aqSveApVKKRjRxpeIn6zffClRLhHMMl0xWSVGUiXJGskBwrEhp8iNEDR+LsmROQjRsMjh1NVRcI=')"  >FixMyPCpro.com/DownloadFree</a></div>
+																			
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Tweak Windows Performance');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yLJmsGcjoH6x88DGUzOe5qM6E5KrtjNgvi8v51/6/eUblYGpTPpqndVeZV8Ssd4BjXQb82WYWa4VSXZJ8N6/asdEDJnvlt3arEjNDUD4z767EAfi3sSw8pYTXGoD2Pcj3cQanvSL3Ki/g94Jig0dB+5f+Qy+jmF+zzybGRhlycRW8e2nEc7geY0UN+SW3Ps/vQj7FPfRQPVejqNkLB8rHMBzsHXJEQb9NwrxPtx7uUXNER/62BXZDvp0rVlU83sz7H5UsZtQRTirBXA0F9xikrfetDOmZla9EjTFzA9QdPIT5s5kXX1Rmre+TYu3QzC2G5R2+veBNTqAnLXTuKgGo9ADHN1D7o3F6RxdVvnY27CbD0eR1d4VtP7PT4ekVfa5e/a2UGvGrCf+YHO7VoCz5YKgirfFbXlqknyk8zRuTjNbNgs+mu8ckv7BtI9+E/Vri9aZbgDORQimdtV/saENM47uI+CLfAwOImAmhsdAJ1XOonuBX9/fGu0vkBOwQ9PYPhH5OkOs4Nkh3r0ME3l4gtZsYM29rWFbc80rOUBghx5xTREBLCdVcC6mKi0ondR+1pYnh138FQSU4j1FW9X/wH81Ajz/kLFbIi02BCKbayqZCE6sLt90PAqatEa+s+MtXH3Zji3lVy1oElgPQ47MpUPYT/zwVI7H/DBMg4F4Lyi6kdjVjHjCMtLWbIn0Fcbf6/sRh4jrt1K4/5ioM7iZiGS3s5fut9Y702bBbsn5HZobniD7OJcRygQwI3/uJazhb29w0/bvSvOst9jGq5n9ceiI1HNHiD/7OENwvvw1+wP2/eGupZQS74+yBK5Ugt7JezYapLn0jnfQmWV8oDzpib/iBOVgd7fMfi9Fa/uMx5eRNpley7JsnckWSIhPXzzd7DsBjfO/P4x4zxJvo+STpy/XdU5Yqmg7Mump3Umb/i3qQk6rM+JTVbn6W19n6WMt8QoZte4nb6paQXFitp+bqmITE6pDIjMTugBYmIK8BzxOsxkg/qF37acXsY+0QW27+8JIM4j7uq3dYzaOhWJGU8iKx2icS5rftJeExjKnMzXSEo9ZJRamy/kJlIfmw4ynvKo9+Tt/KAPkh5NOg89AWY/iO1np174e28LA+OFNxiH1YROfIXSH2NAMEHoSKEpP3iHqBjp8rxUm4yOgr9mp3fnOG1eRQhTedjdQ0oQ7yrQXomhazFlm8IzNMvKUQEWfPyDk+8aAVavGYog7kgcN0OnR9y5v0O/DPViPi7i37uVS1NTlDDlNcVSl6eXpK/pP6T0KQRWrO410AvFglmOfzWEoMkrBRZ+ejW84yynK/kdZh8WrtZS0M7Fjd0gfTdcPm9yVAF7G3SHo/oxMYOHZkI8tw==')" class="inpage-head" >Tweak Windows Performance</a></div>
+													
+														<div class="inpage">Free Scan, fix registry errors &amp; improve performance - 5 Star Rated!														<br />
+														<a href="#" onmouseover="changeStatus('Tweak Windows Performance');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yLJmsGcjoH6x88DGUzOe5qM6E5KrtjNgvi8v51/6/eUblYGpTPpqndVeZV8Ssd4BjXQb82WYWa4VSXZJ8N6/asdEDJnvlt3arEjNDUD4z767EAfi3sSw8pYTXGoD2Pcj3cQanvSL3Ki/g94Jig0dB+5f+Qy+jmF+zzybGRhlycRW8e2nEc7geY0UN+SW3Ps/vQj7FPfRQPVejqNkLB8rHMBzsHXJEQb9NwrxPtx7uUXNER/62BXZDvp0rVlU83sz7H5UsZtQRTirBXA0F9xikrfetDOmZla9EjTFzA9QdPIT5s5kXX1Rmre+TYu3QzC2G5R2+veBNTqAnLXTuKgGo9ADHN1D7o3F6RxdVvnY27CbD0eR1d4VtP7PT4ekVfa5e/a2UGvGrCf+YHO7VoCz5YKgirfFbXlqknyk8zRuTjNbNgs+mu8ckv7BtI9+E/Vri9aZbgDORQimdtV/saENM47uI+CLfAwOImAmhsdAJ1XOonuBX9/fGu0vkBOwQ9PYPhH5OkOs4Nkh3r0ME3l4gtZsYM29rWFbc80rOUBghx5xTREBLCdVcC6mKi0ondR+1pYnh138FQSU4j1FW9X/wH81Ajz/kLFbIi02BCKbayqZCE6sLt90PAqatEa+s+MtXH3Zji3lVy1oElgPQ47MpUPYT/zwVI7H/DBMg4F4Lyi6kdjVjHjCMtLWbIn0Fcbf6/sRh4jrt1K4/5ioM7iZiGS3s5fut9Y702bBbsn5HZobniD7OJcRygQwI3/uJazhb29w0/bvSvOst9jGq5n9ceiI1HNHiD/7OENwvvw1+wP2/eGupZQS74+yBK5Ugt7JezYapLn0jnfQmWV8oDzpib/iBOVgd7fMfi9Fa/uMx5eRNpley7JsnckWSIhPXzzd7DsBjfO/P4x4zxJvo+STpy/XdU5Yqmg7Mump3Umb/i3qQk6rM+JTVbn6W19n6WMt8QoZte4nb6paQXFitp+bqmITE6pDIjMTugBYmIK8BzxOsxkg/qF37acXsY+0QW27+8JIM4j7uq3dYzaOhWJGU8iKx2icS5rftJeExjKnMzXSEo9ZJRamy/kJlIfmw4ynvKo9+Tt/KAPkh5NOg89AWY/iO1np174e28LA+OFNxiH1YROfIXSH2NAMEHoSKEpP3iHqBjp8rxUm4yOgr9mp3fnOG1eRQhTedjdQ0oQ7yrQXomhazFlm8IzNMvKUQEWfPyDk+8aAVavGYog7kgcN0OnR9y5v0O/DPViPi7i37uVS1NTlDDlNcVSl6eXpK/pP6T0KQRWrO410AvFglmOfzWEoMkrBRZ+ejW84yynK/kdZh8WrtZS0M7Fjd0gfTdcPm9yVAF7G3SHo/oxMYOHZkI8tw==')" >www.pctools.com</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div> <a href="#" onmouseover="changeStatus('Download Free Software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yPJmsGcjoH6u3qFmgVFswglpn36/TIIgrWA+Z4W6bc79nqTZ88ao6BdjtSSlH1NjldAoDAmogfsZ863taaWvT79wNnEBV9MmKFRXGWQ90Ms0LMHbD7dIVt5a/1g0DByrUQDKo/kT4UC0fQeDuCLg/xheaw+Pn5q6HCqVIWxtovEHawkR6IWDfPH7Ul5gSeQkqMcLNqEXMoIpzY2f+UFQs1IC3+DzyT4rK2BJFJMPPnklcQUpugbv2kIsyJovtkvK/OYsfLnl/RGE/BUD9lPXHyvqoPC7XGdSo178Y2+V1IfECnczon4DQQMaJDaRqBJc040lo0U7eVXAM5+WTTu5LOkZB0zIIT/x6R8taE6TnpCNYxdISxTznLgRag/ojA96PW8s6H0IBT+qkaOUFor8NekvfUhLCEFSab3cdDmP7IJdJhPqQpx73iXh5ffIKRQhgpGhCAnBWpp882Z9ayTslBNzJVzdUkHlsqBqawbBcdB5cWOGIYHbOFxZBykOttEagxIRyz0RaW2mzZ+uq/2/ov9xeTwtXGtt62Q0ZWdr4zCiajNGP1fgzQB5K1hPQOJ/siHTCg+iXtRju6U6xsxJ/MeKL5L57owhuEIU3/w0OiHkCgbavIJO+1sfFbLIUT1jwMdX4YCvahkDTyoSmAqOOQE3xZ2W+N+iNbixl5de2tmh2mqJrMGL4iHxN/4V76ccsrrjmMdw8aGN/GfGB/S7eBHXQM1fSrGXX4rfigkVwPsTgW7ee0pbTGJgbTZWxZIsrVrbLcHDvKekEdOmo5BddUmOyV8PUMRrTQV/sloHaUseUjvrEMsOwlNuIa9CUpvXtLV5IpvpllzS7J6ihDhfIpPxxS1CpNSYObWgFTP0T86PtbDPPCcdHGEfX9E2+IgVHPnrfdniTawmGDZAYZRF3afqvwlyhn9TWub3TJ4jtgeK/EosYsb2uKAi5wx4OBlmISE17Gan4PnHJ3abwrED9ACh1siiLDRb6NuyEUkVZydzZ5JIP3SvUCuA6J1JSgEt9JViN/EK+GHv2qCrcFaGr6Q6TTiyDdyORGZsk8ChGGgfnyOtePMk7HLyxgiDSLruRVmHC4ZVoXd7r/8UkBEfO3iusr4dmQ3bBnSCP9Pykz5A7G7ubK12nH0aAdQCDZAPsKVUGELL1LHVvm8sovVRllkn0MMvpQ0W0LUfxrNoUqSO+2vHmhlu3gs30E3qMWk6gvf8tKEGOH4rZjTbstfztc31vl57vyf+0q8QLVWA0/dMzq+DkFfIsSndz+5xOpIzPrhgh1v5pyvHdALcdSg2HVru1cJOnnIO6vnODR7jSt1TFaSVzTlxL8KJwB4SSgqs7Ete70v725qIUQJQHkKrAYGDpwpMdEcFf8TNwa1sEMOQnrrwAbaXcNhv144Wm0gdJlPmOX/Mqrcqn98GIQ5knAQGZ5gYz0A7wC0mW/6o6tW0rsLgPUfs/HmbTb1yCAB1woBdDJC30ESEVd94MRZNFhAHdnE4PTUYm+dqgBhakZUmD5nAHeSVOUVXkaEMTRIlK280TCD99xSAIBjr6A=')" class="inpage-head" >Download Free Software</a></div>
+													
+														<div class="inpage">Latest programs on all platforms Compare programs side by side!														<br />
+														<a href="#" onmouseover="changeStatus('Download Free Software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yPJmsGcjoH6u3qFmgVFswglpn36/TIIgrWA+Z4W6bc79nqTZ88ao6BdjtSSlH1NjldAoDAmogfsZ863taaWvT79wNnEBV9MmKFRXGWQ90Ms0LMHbD7dIVt5a/1g0DByrUQDKo/kT4UC0fQeDuCLg/xheaw+Pn5q6HCqVIWxtovEHawkR6IWDfPH7Ul5gSeQkqMcLNqEXMoIpzY2f+UFQs1IC3+DzyT4rK2BJFJMPPnklcQUpugbv2kIsyJovtkvK/OYsfLnl/RGE/BUD9lPXHyvqoPC7XGdSo178Y2+V1IfECnczon4DQQMaJDaRqBJc040lo0U7eVXAM5+WTTu5LOkZB0zIIT/x6R8taE6TnpCNYxdISxTznLgRag/ojA96PW8s6H0IBT+qkaOUFor8NekvfUhLCEFSab3cdDmP7IJdJhPqQpx73iXh5ffIKRQhgpGhCAnBWpp882Z9ayTslBNzJVzdUkHlsqBqawbBcdB5cWOGIYHbOFxZBykOttEagxIRyz0RaW2mzZ+uq/2/ov9xeTwtXGtt62Q0ZWdr4zCiajNGP1fgzQB5K1hPQOJ/siHTCg+iXtRju6U6xsxJ/MeKL5L57owhuEIU3/w0OiHkCgbavIJO+1sfFbLIUT1jwMdX4YCvahkDTyoSmAqOOQE3xZ2W+N+iNbixl5de2tmh2mqJrMGL4iHxN/4V76ccsrrjmMdw8aGN/GfGB/S7eBHXQM1fSrGXX4rfigkVwPsTgW7ee0pbTGJgbTZWxZIsrVrbLcHDvKekEdOmo5BddUmOyV8PUMRrTQV/sloHaUseUjvrEMsOwlNuIa9CUpvXtLV5IpvpllzS7J6ihDhfIpPxxS1CpNSYObWgFTP0T86PtbDPPCcdHGEfX9E2+IgVHPnrfdniTawmGDZAYZRF3afqvwlyhn9TWub3TJ4jtgeK/EosYsb2uKAi5wx4OBlmISE17Gan4PnHJ3abwrED9ACh1siiLDRb6NuyEUkVZydzZ5JIP3SvUCuA6J1JSgEt9JViN/EK+GHv2qCrcFaGr6Q6TTiyDdyORGZsk8ChGGgfnyOtePMk7HLyxgiDSLruRVmHC4ZVoXd7r/8UkBEfO3iusr4dmQ3bBnSCP9Pykz5A7G7ubK12nH0aAdQCDZAPsKVUGELL1LHVvm8sovVRllkn0MMvpQ0W0LUfxrNoUqSO+2vHmhlu3gs30E3qMWk6gvf8tKEGOH4rZjTbstfztc31vl57vyf+0q8QLVWA0/dMzq+DkFfIsSndz+5xOpIzPrhgh1v5pyvHdALcdSg2HVru1cJOnnIO6vnODR7jSt1TFaSVzTlxL8KJwB4SSgqs7Ete70v725qIUQJQHkKrAYGDpwpMdEcFf8TNwa1sEMOQnrrwAbaXcNhv144Wm0gdJlPmOX/Mqrcqn98GIQ5knAQGZ5gYz0A7wC0mW/6o6tW0rsLgPUfs/HmbTb1yCAB1woBdDJC30ESEVd94MRZNFhAHdnE4PTUYm+dqgBhakZUmD5nAHeSVOUVXkaEMTRIlK280TCD99xSAIBjr6A=')" >www.softonic.com</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Free XXX Videos - Adult');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yTJmsGcjoH6pWPbkzZgbuOWckMunlvVd9c49XUc3H3EYAcboYJqVfbrl/+1ks2nxv58Mud/QjopCzrCl8luyIXNF+fh++x5n2cggR7Ln9L1GGytHwET8YftftSXHss33+xkVAA35yAqiVc2U8NykkCItibHwy7cySViWe04U9pe1zIzwkddMYdDJvz3IHaCsiNqA7X/PfS9Rbhc7Rsi1qSRYkBK+aYLortmIwefYmvgKtHR95XaBd7fAyXFITXxb0BoJMkdfGb1D2HY9J5fQBkl+yT8p7Y0spaOsdAECRPyd9wrVwr21SanRwSXMD9k/te1ZTDzN3WGyKONu1g9i4R0xnGitW84nWmD+Ua4dCO23BRwIe5BbrB304F55gcGxdA05KDDGYCufBhftbDM44mQuraHcRLl7q0+/jkQgjU81egftTh7JyF27HxFjQChBdooJelseYqB5wbeM9MNVaBKhWiGSKYA2mFS/G+/yJGa4f2tkXJVLfReABWzyCTlGFRWOzyiPdYLFTqIZ8qpGeiJFfzWVvhojuIyYvuWY1AzMuE3Sk4H5NqK86R8CF68CORMRyRqKqUQbz1vCA90DoGlTp2tzOm1qGY8s6CIlWHyg5oTF0ZwjF6taalp0+RXdX16JCZ2HqkwjkoboHUoQiu/yY7ER4rPtjZITJQ6NyVKCUXStqdLqABCXy0rh/FwnQ0Ltq2figJGcZuWHe31UJhApr0gvyC4aU1df+DOvxJfze2BKpE3RpRijgg71DSluQnHE/GJFpSmtkboidlh9xs92voe9cg2BFh8ARY0hQGF84VM5TVDbkomfVOpxOZ+Ef9HvH7Bw2E0AJu7Q4IKApqhYcoO6HOBIAY0wfQDGHg+nyJEBsCs8Odw4xcTwttVV0aVLcyduNur8ryVULKkpS+U8UcJtviq5lhkOYCChkTnEG6EgoQIaVNJGjRP7XOBRmef9W1UJUhzE7hP6+BM9o06BNue0Ic2SaC3apww1h4teJw4Px6xcRFPxFzSQtCmOuasxgbUjxxQBqOV1q0tW2KHvCnh92WOEaTMsMaHsGyV+cvGO/dJvlsvPTWnFFx5ECyI5tvMM+2rshxcpPmnR6LIG2eiu/DfupvjR2VdIEUq1RQ2zgJK5ZnifvpqtbLT9omCsBghvrgoZxykxv6hrUv5FelktHUb2BTrSeWS6cux3wmzqYMxzVeZMr+5pP31HCLhXAJYmg8K6W53FZ0QFxDz/85+v1EX1k+iI5zx40SXlGgpjOiACBdBkM7cyLILBXiarSnVdCxQaVTTKzHhIw7g4so6MktWdbMdKEgi8z+0BQo016ZWsANanOuq9WaAajtirP3AHSjvv+gcoEnohuXYjzYWsxBiJz3zDTlzal6gKtiI2WNkuoCfkw==')" class="inpage-head" >Free XXX Videos - Adult</a></div>
+													
+														<div class="inpage">Free XXX Pictures and videos No Credit Card Needed!														<br />
+														<a href="#" onmouseover="changeStatus('Free XXX Videos - Adult');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yTJmsGcjoH6pWPbkzZgbuOWckMunlvVd9c49XUc3H3EYAcboYJqVfbrl/+1ks2nxv58Mud/QjopCzrCl8luyIXNF+fh++x5n2cggR7Ln9L1GGytHwET8YftftSXHss33+xkVAA35yAqiVc2U8NykkCItibHwy7cySViWe04U9pe1zIzwkddMYdDJvz3IHaCsiNqA7X/PfS9Rbhc7Rsi1qSRYkBK+aYLortmIwefYmvgKtHR95XaBd7fAyXFITXxb0BoJMkdfGb1D2HY9J5fQBkl+yT8p7Y0spaOsdAECRPyd9wrVwr21SanRwSXMD9k/te1ZTDzN3WGyKONu1g9i4R0xnGitW84nWmD+Ua4dCO23BRwIe5BbrB304F55gcGxdA05KDDGYCufBhftbDM44mQuraHcRLl7q0+/jkQgjU81egftTh7JyF27HxFjQChBdooJelseYqB5wbeM9MNVaBKhWiGSKYA2mFS/G+/yJGa4f2tkXJVLfReABWzyCTlGFRWOzyiPdYLFTqIZ8qpGeiJFfzWVvhojuIyYvuWY1AzMuE3Sk4H5NqK86R8CF68CORMRyRqKqUQbz1vCA90DoGlTp2tzOm1qGY8s6CIlWHyg5oTF0ZwjF6taalp0+RXdX16JCZ2HqkwjkoboHUoQiu/yY7ER4rPtjZITJQ6NyVKCUXStqdLqABCXy0rh/FwnQ0Ltq2figJGcZuWHe31UJhApr0gvyC4aU1df+DOvxJfze2BKpE3RpRijgg71DSluQnHE/GJFpSmtkboidlh9xs92voe9cg2BFh8ARY0hQGF84VM5TVDbkomfVOpxOZ+Ef9HvH7Bw2E0AJu7Q4IKApqhYcoO6HOBIAY0wfQDGHg+nyJEBsCs8Odw4xcTwttVV0aVLcyduNur8ryVULKkpS+U8UcJtviq5lhkOYCChkTnEG6EgoQIaVNJGjRP7XOBRmef9W1UJUhzE7hP6+BM9o06BNue0Ic2SaC3apww1h4teJw4Px6xcRFPxFzSQtCmOuasxgbUjxxQBqOV1q0tW2KHvCnh92WOEaTMsMaHsGyV+cvGO/dJvlsvPTWnFFx5ECyI5tvMM+2rshxcpPmnR6LIG2eiu/DfupvjR2VdIEUq1RQ2zgJK5ZnifvpqtbLT9omCsBghvrgoZxykxv6hrUv5FelktHUb2BTrSeWS6cux3wmzqYMxzVeZMr+5pP31HCLhXAJYmg8K6W53FZ0QFxDz/85+v1EX1k+iI5zx40SXlGgpjOiACBdBkM7cyLILBXiarSnVdCxQaVTTKzHhIw7g4so6MktWdbMdKEgi8z+0BQo016ZWsANanOuq9WaAajtirP3AHSjvv+gcoEnohuXYjzYWsxBiJz3zDTlzal6gKtiI2WNkuoCfkw==')"  >AlwaysFreePorn.org/XXX</a></div>
+																				
+																					
+                                                <br>
+																									
+													<div ><a href="#" onmouseover="changeStatus('Download Free');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yXJmsGcjoH6PHm6PBFx9WgsPb1iyPo5UlEkqWG00H15f3fOAYYl7dI3gMlGz+Mn2NMnTW5DMJHIkP0/NGwnop3EDF2/IyfTxnlZEUTiHHdQhKWdCxwKmdX5AO+PvVzBgw0TNxhSlGTs3g9leHqTHGvDC7kF3UgVQrtieHekfYoM1/g7W6na1QdPUZgbuukgVPLhoW3ZL6i9vMPSsZJiOSnQweM0Ej37gy37iKInoJMtlhZFWqOGbq4RvWTIKwF+MTpJVfIvIXtu3UyuLVSBxzvpwOH2pUyHsYqUh7bgn50xl/dqMV9NzsTnqO+m3RVeNRY4jGZuHkfKHgZm0V573DIdh+g6OUH6t0wy1XrlLeWFdUZVyNXqhHRbFHOEA6QDzzLkCV9ffmsuLIqewrcXMz0DxZFN3/cd3odrvf3gE3EF1YhXLDWt7sAzpjU7dFN/CPgbNPHt2i11YJMH5Dx5YR8Ub/k7ZzZkmTd9cjfcW1TrbjBLtTDxgSdf2ntytV2A4TVoJKL0gWNWQHfKBOMASfNQjXfTlSWbi1jzHEZNstb3kJV0tvdc1tzxX7lTGIFqCByosQR1JJscoFHrKJyir+2UmftCleweD+l4nu8JNtjzfGemWpbSq7AhonOZPfJhGk24SNrGR4Yn6L1Mg7/BP1x2UZLs36qMqCzlMjT3RE699yV934bUqjCKOboNWf7lA1GeL3+6ZTCc/7Lkn2RbnUQO3u+9ZoYsXzYc3RNV7hU9MvgRCFpDhlp87iZgu0pnUdU798g/g9bw2p5ZV1rBvD7x4LAhA8Sqm301fMpXQqEX9PuC+Pyy6UQ0sTyfZ/UdGDulVn8C799bmABMhkeKMtFaBOI9/gxpODAin1MyvxwzLdOBg4hBPpKEUFNQ8yAuT6rotLo86SnH9SIJGRGTIoLXqPWNNT2k8+1E4TpQusJ36CkkfK6tqDVEw7a1bteUAIAhibNUpvjiw72Q1ShLYikHRwN1iW5e8Hu2EKzwlwTPMV3D141UbP68BiQtA4xUNxkirADZnxSI3LsDQZAg0hsVJ84GKA3BF+/oFDy2nSXzyiXxJMthQjBvW468AFYYU3r+UR8T+AgPDQ06w4eVjSCSFRDNGLFDLNNmqkIyqX4r7ez796YSTU2M94TYsc4PPwvdtAb9cKCEtcppHjSxUks0SmpULG+OHJfRLYkBif5TTeNdOkABLGcUD+iVHnY8r2lxRIWnUy3KTDL1qdnXZAuIsAr4jL9oG4r0aaf1YBpqEgvWxYdSitmEus2ZUPM2+IUPMk4P9zbDCtsyDOtrBYVy35W++U7Cw1fywmz0KWANIiZUGNck9WlP/zl8ONOIRD4UtHcLoTq68IpVY0nfjPERe0iB4ExttIE9Nto7Vy3H4WsrWkpwuQghqcBd1A==')" class="inpage-head" >Download Free</a></div>
+													
+														<div class="inpage">Get Free Music Downloads From Your Favorite Artists. No Fees.														<br />
+														<a href="#" onmouseover="changeStatus('Download Free');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yXJmsGcjoH6PHm6PBFx9WgsPb1iyPo5UlEkqWG00H15f3fOAYYl7dI3gMlGz+Mn2NMnTW5DMJHIkP0/NGwnop3EDF2/IyfTxnlZEUTiHHdQhKWdCxwKmdX5AO+PvVzBgw0TNxhSlGTs3g9leHqTHGvDC7kF3UgVQrtieHekfYoM1/g7W6na1QdPUZgbuukgVPLhoW3ZL6i9vMPSsZJiOSnQweM0Ej37gy37iKInoJMtlhZFWqOGbq4RvWTIKwF+MTpJVfIvIXtu3UyuLVSBxzvpwOH2pUyHsYqUh7bgn50xl/dqMV9NzsTnqO+m3RVeNRY4jGZuHkfKHgZm0V573DIdh+g6OUH6t0wy1XrlLeWFdUZVyNXqhHRbFHOEA6QDzzLkCV9ffmsuLIqewrcXMz0DxZFN3/cd3odrvf3gE3EF1YhXLDWt7sAzpjU7dFN/CPgbNPHt2i11YJMH5Dx5YR8Ub/k7ZzZkmTd9cjfcW1TrbjBLtTDxgSdf2ntytV2A4TVoJKL0gWNWQHfKBOMASfNQjXfTlSWbi1jzHEZNstb3kJV0tvdc1tzxX7lTGIFqCByosQR1JJscoFHrKJyir+2UmftCleweD+l4nu8JNtjzfGemWpbSq7AhonOZPfJhGk24SNrGR4Yn6L1Mg7/BP1x2UZLs36qMqCzlMjT3RE699yV934bUqjCKOboNWf7lA1GeL3+6ZTCc/7Lkn2RbnUQO3u+9ZoYsXzYc3RNV7hU9MvgRCFpDhlp87iZgu0pnUdU798g/g9bw2p5ZV1rBvD7x4LAhA8Sqm301fMpXQqEX9PuC+Pyy6UQ0sTyfZ/UdGDulVn8C799bmABMhkeKMtFaBOI9/gxpODAin1MyvxwzLdOBg4hBPpKEUFNQ8yAuT6rotLo86SnH9SIJGRGTIoLXqPWNNT2k8+1E4TpQusJ36CkkfK6tqDVEw7a1bteUAIAhibNUpvjiw72Q1ShLYikHRwN1iW5e8Hu2EKzwlwTPMV3D141UbP68BiQtA4xUNxkirADZnxSI3LsDQZAg0hsVJ84GKA3BF+/oFDy2nSXzyiXxJMthQjBvW468AFYYU3r+UR8T+AgPDQ06w4eVjSCSFRDNGLFDLNNmqkIyqX4r7ez796YSTU2M94TYsc4PPwvdtAb9cKCEtcppHjSxUks0SmpULG+OHJfRLYkBif5TTeNdOkABLGcUD+iVHnY8r2lxRIWnUy3KTDL1qdnXZAuIsAr4jL9oG4r0aaf1YBpqEgvWxYdSitmEus2ZUPM2+IUPMk4P9zbDCtsyDOtrBYVy35W++U7Cw1fywmz0KWANIiZUGNck9WlP/zl8ONOIRD4UtHcLoTq68IpVY0nfjPERe0iB4ExttIE9Nto7Vy3H4WsrWkpwuQghqcBd1A==')" >www.FreeMusicConnection.com</a></div>
+																			
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Free software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/ybJmsGcjoH6XXmSU3QS9lGauxQudnYMBRahO4YgIa8Bd1ZlAQ8iJoD8H27HpcA54jAm3e8j/Cos4cIdVy7hXPHVUF8OsAGEmnMz0oP37tIfgTtweWW7OZpOsPFryg55KvzCGgSQ3Kdhlnt8bjxPyTYbR4sfOTDS0ziZryxr6Yarc3AxwI9PsBIN2cEzLmrlNyVKoGKqYupai7wOwHCv7DQMLOtAi9E2ja4GV/HYH0wha6SiMvFlCTdGY1kMmfiVvc9G3EoAxOhq4TBJJUcFLR9CunMbn688F4cXtV/FNCYSxWwXoCy1Y9Zced1vmUR7Pvkwd0x/xsUlSMPWR5X7PHr+X2xKIH6WXmpxklrQWvVV/XgmHOaR2tkrlTlQC3rieMwI8UgQd3QCarn9cC+djs+GsU64BLtvV0bnXfub4JOEL/m00pzjbCZBUPdz9JFnFbHuA+PWSKPXyh8ZAKZGcXx1DwG/VoDn5u0qO5CV/HLhWRRdzstAQJk4PPf4q7VivcO6giyiuxAjgWnU1hJ0z69h48++9vcNRSp41kmD/wzHIneqeNkK/Tc92WHlTUXpInUgwO1xSoPxo0roOmH1yAmABJ4ysQWWfCshN01jlXFBoqCiczPbt5vG8RPKdPlfgkCqQSLynAowRD4SBD1ZYm0DGXUyS1AQ8/lN6O7o5tPPmxUV9ReAOB55OiU1gU8qaLaCIXBSLAIJsQ+W3dvBriBt1PewjU6ah7Jo8MCVkM7MvccLh/1kzfhviWWPzku7cSh1tYLfrht/s4NLoITvy6/vI/c88VArOtNNEIvaA2vTSDbTWefAqXuP0m8JEseJ8kXWk5qyYcme+jCejHHyJIfStvQL6cY97BaVnzW/wvzcYpNOp9OPMYocY6dXjS9Z5s3eBVmanR2jxrhOePpBegrvsVw1Bd6Dgk/RxwzHnM5qxbQT/Fc8nGxpayJmgKeq3eQYBACfakoX2f8nguROWWfMzU088w1zoiRQ3YeyX4OF1mHTXHstSnstJU2xaQ1ymlYpSjNMPSzHAGy5oewlRXxpv9xRX8QIVG/begNT++CHnsA6yIFhaNXXoKqwjpERZqhs/rGj2nUi4ZTzQ25h3HWEQ7ApdpYBPwVKkYrnZiBYT16HBpLCG72wAkKn2EkGP8qs4MTfVF5SV1wLXY/vae91vI0tq0W0C0IoWLUkZ6N+ISCVezIrB6A2RLA579cgxfNFm9q1ETn22CIUBDVxRHv29ivRFFSQSi8lB1hOUQiE6z0AbXq3QMTa9OENZT2ERzIJ80Qi0pOT1fMqwcFKV6nNQWXNEXyKiHtBh4+8eT4qYOcvHqIr')" class="inpage-head" >Free software</a></div>
+													
+														<div class="inpage">Find A Great Choice Of Free Software Sites Here!														<br />
+														<a href="#" onmouseover="changeStatus('Free software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/ybJmsGcjoH6XXmSU3QS9lGauxQudnYMBRahO4YgIa8Bd1ZlAQ8iJoD8H27HpcA54jAm3e8j/Cos4cIdVy7hXPHVUF8OsAGEmnMz0oP37tIfgTtweWW7OZpOsPFryg55KvzCGgSQ3Kdhlnt8bjxPyTYbR4sfOTDS0ziZryxr6Yarc3AxwI9PsBIN2cEzLmrlNyVKoGKqYupai7wOwHCv7DQMLOtAi9E2ja4GV/HYH0wha6SiMvFlCTdGY1kMmfiVvc9G3EoAxOhq4TBJJUcFLR9CunMbn688F4cXtV/FNCYSxWwXoCy1Y9Zced1vmUR7Pvkwd0x/xsUlSMPWR5X7PHr+X2xKIH6WXmpxklrQWvVV/XgmHOaR2tkrlTlQC3rieMwI8UgQd3QCarn9cC+djs+GsU64BLtvV0bnXfub4JOEL/m00pzjbCZBUPdz9JFnFbHuA+PWSKPXyh8ZAKZGcXx1DwG/VoDn5u0qO5CV/HLhWRRdzstAQJk4PPf4q7VivcO6giyiuxAjgWnU1hJ0z69h48++9vcNRSp41kmD/wzHIneqeNkK/Tc92WHlTUXpInUgwO1xSoPxo0roOmH1yAmABJ4ysQWWfCshN01jlXFBoqCiczPbt5vG8RPKdPlfgkCqQSLynAowRD4SBD1ZYm0DGXUyS1AQ8/lN6O7o5tPPmxUV9ReAOB55OiU1gU8qaLaCIXBSLAIJsQ+W3dvBriBt1PewjU6ah7Jo8MCVkM7MvccLh/1kzfhviWWPzku7cSh1tYLfrht/s4NLoITvy6/vI/c88VArOtNNEIvaA2vTSDbTWefAqXuP0m8JEseJ8kXWk5qyYcme+jCejHHyJIfStvQL6cY97BaVnzW/wvzcYpNOp9OPMYocY6dXjS9Z5s3eBVmanR2jxrhOePpBegrvsVw1Bd6Dgk/RxwzHnM5qxbQT/Fc8nGxpayJmgKeq3eQYBACfakoX2f8nguROWWfMzU088w1zoiRQ3YeyX4OF1mHTXHstSnstJU2xaQ1ymlYpSjNMPSzHAGy5oewlRXxpv9xRX8QIVG/begNT++CHnsA6yIFhaNXXoKqwjpERZqhs/rGj2nUi4ZTzQ25h3HWEQ7ApdpYBPwVKkYrnZiBYT16HBpLCG72wAkKn2EkGP8qs4MTfVF5SV1wLXY/vae91vI0tq0W0C0IoWLUkZ6N+ISCVezIrB6A2RLA579cgxfNFm9q1ETn22CIUBDVxRHv29ivRFFSQSi8lB1hOUQiE6z0AbXq3QMTa9OENZT2ERzIJ80Qi0pOT1fMqwcFKV6nNQWXNEXyKiHtBh4+8eT4qYOcvHqIr')"  >Software.EditorChoices.net</a></div>
+																			
+												                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('best free software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yfJmsGcjoH6eu5cFKXSxVHcieIW/4nkNLbwdo/d/XgVwIYOpGZ7oW812UQlNj0WsvO/EBzjZPpgkZx+9IAV5MjEPsfhe1ohKuzNLMV/u9SO+cWj4ATH5kbpQFepszLmOKY+yX+ETMFqPqAwYxv4DbVAGjasVJ8MLANl4YwwgGMmSR/Ru+eePUmyJZuKaCWkoS3NRRCmMMvnkPF/o7ssO3kuE1lOqFxaheUup9BvmDCT6jDSDMD/Z/wwsiyBNcXlKF2cZ4qilBRoEpoi/vnKo2VsWFiaIWF66nR5ZudpF/wmRak6NeYUkCbBOhFvzrjrxkLijXSayb2uddZ2kGEZsE5q6rCPUg7XsblmO7W4YwjK+hyLYyEaFAOAOQwb5XiBVtaEXOzu560PBhSvZPQYxH1B6JmeOf8iDNJTlyoAnVvnz62dexEPzuL7aRDKuYn9kgsxyxiPLE+LNjtGjW4Q0zXmGg7lMiNkynC5iX97f3jOcmaFIB29p7afwnNdCdjOx3g104TE7hozOe4wAOhyDufSTG8Uh9Gnb9EJkD9CJcJowbVwi7HHk1UQ7sgBX0SU4ZPZ2JTzZPVDPvuD6guVL7ePGoMVsqrJ6thBN96YZXv8xGNYD6KPnnk2PEMh41OvkF1u11UCncrbk5sttq857ej0ZE7Y1SKdaM6JI7+pXvRLLgD8BGJDKxC/XtLFKFZFtEK8fkNqNQGj4L0YREaHuY7aC8VO9vy2FS9H4MkNXIOJMVAvGz4bXPeCxCD7tWrhxqjR038YvYYWGwbBtArVletop2AzRIHYGojkLpbzWXSlYiumrGud/JVSAX7vF/A/WR4LTr611RpweT8FMLeZcAKBmIe7uWr25iVNCRuDnr5fSR2WSWH5u+M+6963kPZNcI0va9mg+3mcIOEiDp+n9aT4opWzsDUvaHPwdh+GVuI7JWvLBGMRnS/5KfcGFsjf6XpCbaVnmWInXRqj66qV67aZ+2R8Q8z4Ecvu2Na2vyWUoeGc0rJtb4ztCFYAGxmi/FQj/pgvOp8Bsmsa2zeFOx2Iy9IJzBTQLaSoFsY4l9/tEiYlG9rXbo2eYhiIFhpoOT7k5HlOQG0uAc108u23mKi66fMC3q6A3Y9MROATB/PLmxcRDkWRWQMS84SX5dWmAAm9t7YQZpY+/ZV8XRely8xyRXwj3B+tviRAOL4/Cy5RzEL4hGWAdS5r2Kp5khIN8XZZ04ylhWgy+QzjjUKejEKHkNv9eOj65np+WA==')" class="inpage-head" >best free software</a></div>
+													
+														<div class="inpage">get all the pc software you need free, instant download now at														<br />
+														<a href="#" onmouseover="changeStatus('best free software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yfJmsGcjoH6eu5cFKXSxVHcieIW/4nkNLbwdo/d/XgVwIYOpGZ7oW812UQlNj0WsvO/EBzjZPpgkZx+9IAV5MjEPsfhe1ohKuzNLMV/u9SO+cWj4ATH5kbpQFepszLmOKY+yX+ETMFqPqAwYxv4DbVAGjasVJ8MLANl4YwwgGMmSR/Ru+eePUmyJZuKaCWkoS3NRRCmMMvnkPF/o7ssO3kuE1lOqFxaheUup9BvmDCT6jDSDMD/Z/wwsiyBNcXlKF2cZ4qilBRoEpoi/vnKo2VsWFiaIWF66nR5ZudpF/wmRak6NeYUkCbBOhFvzrjrxkLijXSayb2uddZ2kGEZsE5q6rCPUg7XsblmO7W4YwjK+hyLYyEaFAOAOQwb5XiBVtaEXOzu560PBhSvZPQYxH1B6JmeOf8iDNJTlyoAnVvnz62dexEPzuL7aRDKuYn9kgsxyxiPLE+LNjtGjW4Q0zXmGg7lMiNkynC5iX97f3jOcmaFIB29p7afwnNdCdjOx3g104TE7hozOe4wAOhyDufSTG8Uh9Gnb9EJkD9CJcJowbVwi7HHk1UQ7sgBX0SU4ZPZ2JTzZPVDPvuD6guVL7ePGoMVsqrJ6thBN96YZXv8xGNYD6KPnnk2PEMh41OvkF1u11UCncrbk5sttq857ej0ZE7Y1SKdaM6JI7+pXvRLLgD8BGJDKxC/XtLFKFZFtEK8fkNqNQGj4L0YREaHuY7aC8VO9vy2FS9H4MkNXIOJMVAvGz4bXPeCxCD7tWrhxqjR038YvYYWGwbBtArVletop2AzRIHYGojkLpbzWXSlYiumrGud/JVSAX7vF/A/WR4LTr611RpweT8FMLeZcAKBmIe7uWr25iVNCRuDnr5fSR2WSWH5u+M+6963kPZNcI0va9mg+3mcIOEiDp+n9aT4opWzsDUvaHPwdh+GVuI7JWvLBGMRnS/5KfcGFsjf6XpCbaVnmWInXRqj66qV67aZ+2R8Q8z4Ecvu2Na2vyWUoeGc0rJtb4ztCFYAGxmi/FQj/pgvOp8Bsmsa2zeFOx2Iy9IJzBTQLaSoFsY4l9/tEiYlG9rXbo2eYhiIFhpoOT7k5HlOQG0uAc108u23mKi66fMC3q6A3Y9MROATB/PLmxcRDkWRWQMS84SX5dWmAAm9t7YQZpY+/ZV8XRely8xyRXwj3B+tviRAOL4/Cy5RzEL4hGWAdS5r2Kp5khIN8XZZ04ylhWgy+QzjjUKejEKHkNv9eOj65np+WA==')"  >www.spottedhippo.com</a></div>
+																				
+																					
+                                                <br>
+																									
+													<div><a href="#" onmouseover="changeStatus('Download Free Software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yjJmsGcjoH6T0/3X2zaWgw7bDUGxHj8LSW91crR50KzmQCXP8TQMsd+8TQKgZovpEbwP48lYFjm//yQRRBVJAnYXXZZnrwvx3GpoigbMjyUiFZOrX3YHhhp97UlkJ5BVFXEZ7IXd2xVHe6FxL8vK69qmx63BZaiXNxPA+XC79IhdxQOtVMmoN747c/PSKeqbpElDGiZLDggNBP4hPit7jTgJdvYGI3LBsUkpMz99wfshC5GqpLjqlwMSdXZm6zOADBg6BQgZVwe03nbfWEdykcQZsVjpRzyS0Y6phYCR0SxZ/y5T1TBl8q1+QixgNlZ1QiXRG7ql//qDYJDLbloJBtDcgGl/ElwADt2Q7H6fB6fYFyEd3MhyHObXuAj093LeX5fnBo9f2ZUIeIFGIxNly6eOHxrNAvpE9yKQH8a5FFOaBKdFwONjodOS1jYYOuql7LzGiNPDf96ano+SnORfeFznWQj3SImB2iTZn9ZBBRWOr/fwdqX+mbfDGd8037IGXTensj6e5PLWxEuecy9qHWoHtQHju7q8s60C1rXmDcVDDAVLitaED4FZ0VQIHsDegnY6Zj4uf+4KuBX7NZz3LpcrGxivYIIpRrRChUTafhlibFVLD7LwuoqYEAlb02zaw2vTDc0KayBZiWmzVk/aN3axtISiGmJehy1Tn1T5iZ72IzhFtSzAV4s4JepbjtpUqjxLIcFI7zJvUnJnAk2ipqmugBQ/7aDYjxdGVLrYJo/RZtehC0rfm2xV3Fn40nYUVq3/bIypnFbV+tb8FZD4NrwslVhhPQRSUFHpbWRBCFpFbNJyOWFhH6RmlVr2dmfZRQ9eOXLnN9MTYCgq6tbuZF8dKXE+7gj4hF35NZApnJU0C0U14pTvJpGYVVBTH2YEZ52Ibrly5FlpuNetRNhjiNl0UfM768b0SCVHo1Mnt5PdWvhjzRME2xR+qHIVvPDInWPD2K2/2N+n0V38/wNq6nScGNA5VnV3RdqtEdq0fxdzTm7j1i9RByP+Cbi2SpiGV4AyIS1rntLRnhimbO9MsdzSAPNC+8MQU7pqGRXrBkT91a3Z0wbcpQ7uDk6gBN/wasvpdE2Jixt5L9Y9cSIZqshshPAfYuvE03pg5EERXbyI0CfGRZwxQXDuVSt6zhSad7NlRXnogW2Sd58/CjDYOKurUDzujNfffJp0Xh9jICsBA9uWEGSHI5etemIyGNK1b/t+IBYe2vhF97ai2rAlcpaLWG/iLo+wn1QR6IxTEEMmzhdHcVK')" class="inpage-head" >Download Free Software</a></div>
+													
+														<div class="inpage">Free software applications in 100&#39;s of categories. Free downloads.														<br />
+														<a href="#" onmouseover="changeStatus('Download Free Software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/yjJmsGcjoH6T0/3X2zaWgw7bDUGxHj8LSW91crR50KzmQCXP8TQMsd+8TQKgZovpEbwP48lYFjm//yQRRBVJAnYXXZZnrwvx3GpoigbMjyUiFZOrX3YHhhp97UlkJ5BVFXEZ7IXd2xVHe6FxL8vK69qmx63BZaiXNxPA+XC79IhdxQOtVMmoN747c/PSKeqbpElDGiZLDggNBP4hPit7jTgJdvYGI3LBsUkpMz99wfshC5GqpLjqlwMSdXZm6zOADBg6BQgZVwe03nbfWEdykcQZsVjpRzyS0Y6phYCR0SxZ/y5T1TBl8q1+QixgNlZ1QiXRG7ql//qDYJDLbloJBtDcgGl/ElwADt2Q7H6fB6fYFyEd3MhyHObXuAj093LeX5fnBo9f2ZUIeIFGIxNly6eOHxrNAvpE9yKQH8a5FFOaBKdFwONjodOS1jYYOuql7LzGiNPDf96ano+SnORfeFznWQj3SImB2iTZn9ZBBRWOr/fwdqX+mbfDGd8037IGXTensj6e5PLWxEuecy9qHWoHtQHju7q8s60C1rXmDcVDDAVLitaED4FZ0VQIHsDegnY6Zj4uf+4KuBX7NZz3LpcrGxivYIIpRrRChUTafhlibFVLD7LwuoqYEAlb02zaw2vTDc0KayBZiWmzVk/aN3axtISiGmJehy1Tn1T5iZ72IzhFtSzAV4s4JepbjtpUqjxLIcFI7zJvUnJnAk2ipqmugBQ/7aDYjxdGVLrYJo/RZtehC0rfm2xV3Fn40nYUVq3/bIypnFbV+tb8FZD4NrwslVhhPQRSUFHpbWRBCFpFbNJyOWFhH6RmlVr2dmfZRQ9eOXLnN9MTYCgq6tbuZF8dKXE+7gj4hF35NZApnJU0C0U14pTvJpGYVVBTH2YEZ52Ibrly5FlpuNetRNhjiNl0UfM768b0SCVHo1Mnt5PdWvhjzRME2xR+qHIVvPDInWPD2K2/2N+n0V38/wNq6nScGNA5VnV3RdqtEdq0fxdzTm7j1i9RByP+Cbi2SpiGV4AyIS1rntLRnhimbO9MsdzSAPNC+8MQU7pqGRXrBkT91a3Z0wbcpQ7uDk6gBN/wasvpdE2Jixt5L9Y9cSIZqshshPAfYuvE03pg5EERXbyI0CfGRZwxQXDuVSt6zhSad7NlRXnogW2Sd58/CjDYOKurUDzujNfffJp0Xh9jICsBA9uWEGSHI5etemIyGNK1b/t+IBYe2vhF97ai2rAlcpaLWG/iLo+wn1QR6IxTEEMmzhdHcVK')"  >www.myzips.com/</a></div>
+																		
+																					
+                                                <br>
+																									
+													<div ><a href="#" onmouseover="changeStatus('Free Software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/ynJmsGcjoH6RUPZcORg1LARQ4zbURhx4U8cdV3xd94QxjuEeBm8VvcPbhYvsvFf4sxJXqS4pvkVDFF80rmhFbNrjjKVq6lYUuXWPofxdDKB8OHQz89O5fjt/1fbfdOU/mPQW7Za0PHHwzTN4gKwBuWbny8/cSDFGyrvof8iSHTdFGnVPkMb3Cr2TRbSBvqW0AAtLIJyipELE3UwAe/BxMDbqYQuhpvGNGqhN6jltRabobQFgJ0tqVsHmyttg7KGuk9bsTVyu07dqdj2YjYfgcpDkgnwz/JWIN1kaAkDzoC5P0XjYKoQpelqCflcH8LH89p9ahkCuSfdlpgE6B0lsElQJ9pQ2FFfNC+huuUbG4jW5iQpokYW31nIEsGro+OEGcHM1NGYHF7yfs64Q6D3Gf8Vit0dD0ShzicHko5gSNLZYBDZqoP7d2q03xHbYTWYdAoki3Gu1vgsuYixIap14hjWzGjvSRAEPn/83wSuS9XHFX/+2titqIfkr/7E6dx57sCpGoGlIqd2KABY72xVfVePw1fTPK17/9u9vfZFSyAxMa8Vnwj62IudPiauP5JDAA5cN3QbZrdxQcDPuiZTUDBPYcUHd8PZc8dK9izzceGq1/+gMNIOcA29wpgqArPfNC9DGL9WCrgNIuqMaflANBi8xQu/64dSNZGX67V/NG4zcBHVj9Fait5pRBms4Tcr8I/2IiQgitV55lOKma41ypI1HV/cxyyYpiNKNmIrKb0VLCsQxRy8cdiJ5JQN4g+09y+xLyDHrqJoCFgjerX66aBzolDdF30CboEd7cWsxgg4hYf+Jb0a2E+PSTLMnYRxdN5a8ALqZD28JueyMmvXSkhyAdCW7T67oQgzCfvA+k/g7PKIbfCOK8LTtfFareNFYasRQ7JaW1JMX6+OsVa9skQQ8zPlBLj+z0asnbGhhE6xpdNWggTbuKp6lGcO0rJ5zFfrPBUQ0OO0kPFVAeVm6aNLhEinsOU1kYrR5utDFbvlPwRTvdHbnFnW416g/LwjEMLVPezTMfnRVTAEDpPU6+uly3asyyn2HJhXSvth3WVlmbFQILFmzD4YgvT9V/TAyYyz9G+MvQokC6N74uYuVW95iwNmBxCyTGWVNVBYtVBwm6xz4laTjl0BE5i4tG+3JlyqVAOVOZd1oUfFHkmVETh5tpAxtwvK1keU+soObnVLlbWJXDuu+2O4WVeoGnbBQwwCTd5jCEU90zrfCO9sQ42UQVOYb5kUeTs64ZcC80lgg5E=')" class="inpage-head" >Free Software</a></div>
+													
+														<div class="inpage">Resources And Online Tools Find Free Software														<br />
+														<a href="#" onmouseover="changeStatus('Free Software');return true;" onmouseout="changeStatus('');return true;" onclick="return sendRequest('frmSponsAds','action####http://www.theuniquesearch.com/trf?q=Free+Software+Downloads&kt=4&kp=3@@@@data####67yTjVOTUGSKzRtb70AlKFcMwXP6DjQedueDm0CxTuRi9EXKQNhJ3w1h1REjh3cao04DJGxeX6CkXxg2XfShnobZoKhin13t0ok7ENuJduoXHFLlMHBMB7pMzU6LNytmfrOjEqghfpI82gWbJHYz0hwa/UrLGwxJg1z6NdfjWBc+92D6Ygl2/ynJmsGcjoH6RUPZcORg1LARQ4zbURhx4U8cdV3xd94QxjuEeBm8VvcPbhYvsvFf4sxJXqS4pvkVDFF80rmhFbNrjjKVq6lYUuXWPofxdDKB8OHQz89O5fjt/1fbfdOU/mPQW7Za0PHHwzTN4gKwBuWbny8/cSDFGyrvof8iSHTdFGnVPkMb3Cr2TRbSBvqW0AAtLIJyipELE3UwAe/BxMDbqYQuhpvGNGqhN6jltRabobQFgJ0tqVsHmyttg7KGuk9bsTVyu07dqdj2YjYfgcpDkgnwz/JWIN1kaAkDzoC5P0XjYKoQpelqCflcH8LH89p9ahkCuSfdlpgE6B0lsElQJ9pQ2FFfNC+huuUbG4jW5iQpokYW31nIEsGro+OEGcHM1NGYHF7yfs64Q6D3Gf8Vit0dD0ShzicHko5gSNLZYBDZqoP7d2q03xHbYTWYdAoki3Gu1vgsuYixIap14hjWzGjvSRAEPn/83wSuS9XHFX/+2titqIfkr/7E6dx57sCpGoGlIqd2KABY72xVfVePw1fTPK17/9u9vfZFSyAxMa8Vnwj62IudPiauP5JDAA5cN3QbZrdxQcDPuiZTUDBPYcUHd8PZc8dK9izzceGq1/+gMNIOcA29wpgqArPfNC9DGL9WCrgNIuqMaflANBi8xQu/64dSNZGX67V/NG4zcBHVj9Fait5pRBms4Tcr8I/2IiQgitV55lOKma41ypI1HV/cxyyYpiNKNmIrKb0VLCsQxRy8cdiJ5JQN4g+09y+xLyDHrqJoCFgjerX66aBzolDdF30CboEd7cWsxgg4hYf+Jb0a2E+PSTLMnYRxdN5a8ALqZD28JueyMmvXSkhyAdCW7T67oQgzCfvA+k/g7PKIbfCOK8LTtfFareNFYasRQ7JaW1JMX6+OsVa9skQQ8zPlBLj+z0asnbGhhE6xpdNWggTbuKp6lGcO0rJ5zFfrPBUQ0OO0kPFVAeVm6aNLhEinsOU1kYrR5utDFbvlPwRTvdHbnFnW416g/LwjEMLVPezTMfnRVTAEDpPU6+uly3asyyn2HJhXSvth3WVlmbFQILFmzD4YgvT9V/TAyYyz9G+MvQokC6N74uYuVW95iwNmBxCyTGWVNVBYtVBwm6xz4laTjl0BE5i4tG+3JlyqVAOVOZd1oUfFHkmVETh5tpAxtwvK1keU+soObnVLlbWJXDuu+2O4WVeoGnbBQwwCTd5jCEU90zrfCO9sQ42UQVOYb5kUeTs64ZcC80lgg5E=')"  >TheFree4all.com</a></div>
+																			
+												                                                <br>
+													
+                                                <br>
+													
+											</td>
+											<td width="25%" valign="top">
+												<table width="100%"  border="0" cellspacing="0" cellpadding="0" class="sidebar">
+													<tr>
+														<td>
+															<div class="top"></div>
+															<div>
+																<ul>
+																	<!-- RIGHT RELATED-2 -->	 
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Software_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=1" target="_top" onmouseover="changeStatus('Software Downloads');return true;" onmouseout="changeStatus('');return true;" title="Software Downloads" id="sk1" name="sk1" >Software Downloads</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Samsung_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=2" target="_top" onmouseover="changeStatus('Samsung Downloads');return true;" onmouseout="changeStatus('');return true;" title="Samsung Downloads" id="sk2" name="sk2" >Samsung Downloads</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Motorola_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=3" target="_top" onmouseover="changeStatus('Motorola Downloads');return true;" onmouseout="changeStatus('');return true;" title="Motorola Downloads" id="sk3" name="sk3" >Motorola Downloads</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Freeware_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=4" target="_top" onmouseover="changeStatus('Freeware Downloads');return true;" onmouseout="changeStatus('');return true;" title="Freeware Downloads" id="sk4" name="sk4" >Freeware Downloads</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Free_Software.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=5" target="_top" onmouseover="changeStatus('Free Software');return true;" onmouseout="changeStatus('');return true;" title="Free Software" id="sk5" name="sk5" >Free Software</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Free_Dvd_Software_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=6" target="_top" onmouseover="changeStatus('Free Dvd Software Downloads');return true;" onmouseout="changeStatus('');return true;" title="Free Dvd Software Downloads" id="sk6" name="sk6" >Free Dvd Software Downloads</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Free_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=7" target="_top" onmouseover="changeStatus('Free Downloads');return true;" onmouseout="changeStatus('');return true;" title="Free Downloads" id="sk7" name="sk7" >Free Downloads</a>
+																	</li>
+																	<li>
+																		<a href="http://www.redclawsoftware.com/Dvd_Shrink_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=5&kp=8" target="_top" onmouseover="changeStatus('Dvd Shrink Downloads');return true;" onmouseout="changeStatus('');return true;" title="Dvd Shrink Downloads" id="sk8" name="sk8" >Dvd Shrink Downloads</a>
+																	</li>
+																	<!-- /RIGHT RELATED-2 -->		
+																</ul>
+															</div>
+															<div class="bottom"></div>
+														</td>
+													</tr>
+												</table>									
+												<br>							
+												<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://pics.cnomy.com/287/topbg-red.gif">
+													<tr>
+														<td height="54"><h2>Top Searches:</h2></td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Arcade_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=1" target="_top" onmouseover="changeStatus('Arcade Games');return true;" onmouseout="changeStatus('');return true;" title="Arcade Games" id="dk1" name="dk1" >Arcade Games</a>
+														</td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Computer_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=2" target="_top" onmouseover="changeStatus('Computer Games');return true;" onmouseout="changeStatus('');return true;" title="Computer Games" id="dk2" name="dk2" >Computer Games</a>
+														</td>
+													</tr>
+													<tr>
+														<td class="result-text-index">
+															<a href="http://www.redclawsoftware.com/Free_Software_Downloads.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=3" target="_top" onmouseover="changeStatus('Free Software Downloads');return true;" onmouseout="changeStatus('');return true;" title="Free Software Downloads" id="dk3" name="dk3" >Free Software Downloads</a>
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="#333333">
+														<img src="http://pics.cnomy.com/287/sidebar-bottom-left.gif" align="left" hspace="0" vspace="0"><img 
+														src="http://pics.cnomy.com/287/sidebar-bottom-right.gif" align="right" hspace="0" vspace="0">
+														</td>
+													</tr>
+												</table>
+												<br>
+												<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://pics.cnomy.com/287/topbg-green.gif">
+														<tr>
+															<td height="54"><h2>Most Preferred:</h2></td>
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Fun_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=4" target="_top" onmouseover="changeStatus('Fun Games');return true;" onmouseout="changeStatus('');return true;" title="Fun Games" id="dk4" name="dk4" >Fun Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Online_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=5" target="_top" onmouseover="changeStatus('Online Games');return true;" onmouseout="changeStatus('');return true;" title="Online Games" id="dk5" name="dk5" >Online Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td class="result-text-index">
+																<a href="http://www.redclawsoftware.com/Pocketpc_Games.cfm?pt=2&vid=1184932119_1X02X1314774600&rpt=2&kt=4&kp=6" target="_top" onmouseover="changeStatus('Pocketpc Games');return true;" onmouseout="changeStatus('');return true;" title="Pocketpc Games" id="dk6" name="dk6" >Pocketpc Games</a>
+															</td>						
+														</tr>
+														<tr>
+															<td bgcolor="#333333">
+															<img src="http://pics.cnomy.com/287/sidebar-bottom-left.gif" align="left" hspace="0" vspace="0"><img 
+															src="http://pics.cnomy.com/287/sidebar-bottom-right.gif" align="right" hspace="0" vspace="0">
+															</td>
+														</tr>
+													</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							</table>
+							 <form name="searchform2"  onsubmit="return submitSearch('searchform2', 2, 'pt=2&vid=1184932119_1X02X1314774600&rpt=2')" method="post" >
+								<table  border="0" align="center" cellpadding="0" cellspacing="8">
+									<tr>
+										<td width="62%"><input name="q" type="text" onClick="clearSearchText(this)"  size="40" /></td>
+										<td width="38%"><input value="Search!" name="B1" style="width: 101px; font-family: verdana; font-size: 10px; font-weight: bold; background-color: #eee;" type="submit"></td>
+									</tr>		
+								</table>
+							 </form>
+														<!-- PAGE FOOTER -->
+							<table width="752"  border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td align="center" style="padding:10px 0px;">
+										<a href="#" onclick="return addbookmark('Redclawsoftware.com');">Bookmark this page</a> |
+										<a href="#" onclick="javascript: setAsHomePage(this, 'Redclawsoftware.com');">Make this your Homepage</a>
+									</td>
+								</tr>
+							</table>
+							<!-- /PAGE FOOTER -->
+							<div class="bottom"></div>
+						</div>
+					</div>
+					<!-- PAGE DETAILS -->
+				</div>
+			</div>
+		 	<style>	.divStyle{visibility : hidden; display:none;} </style><div class="divStyle"><a href="mailto:harsha@vassilipuskas.com">harsha@vassilipuskas.com</a></div> </body>
+</html>

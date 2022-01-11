@@ -1,0 +1,119 @@
+<html>
+<head>
+<title>Redclaw Software Online Games Store</title>
+<link rel="stylesheet" href="redclaw.css" Type="text/css">
+<SCRIPT language=javascript>
+var CD_product_id = "9800006";
+function validateForm(form) {
+	var cd_index = 0;
+	var cd_count = 0;
+	var product_count = 0;
+	for (var i = 0; i < form.PRODUCTID.length; i++) {
+		form.QUANTITY[i].value = form.CHECKER[i].checked ? "1" : "0";
+		var q = parseInt (form.QUANTITY[i].value)
+        	if (form.PRODUCTID[i].value == CD_product_id) {
+        		cd_count += q;
+        		cd_index = i;
+        	}
+        	else {
+        		product_count += q;
+        	}
+	}
+
+	if (product_count == 0) {
+		alert ("You have not selected any games yet! Tick the box for the game/games you wish to buy.")
+		return (false);
+	}
+	else {
+		form.submit ();
+	}
+}
+
+function validateSingle(form) {
+	for (var i = 0; i < form.PRODUCTID.length; i++) {
+		if (form.PRODUCTID[i].value == CD_product_id) {
+			form.QUANTITY[i].value = form.CHECKER.checked ? "1" : "0";	
+		}
+	}
+	form.submit ();
+}
+</SCRIPT>
+</head>
+<body>
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td class="top" width="750" height="70" align="left" valign="middle" background="gfx/m8.gif"><table border="0" width="100%"><tr><td width="75" align="center" valign="middle"><a href="http://www.redclawsoftware.com/?oid=1cdr1trx&afl=544676" target="_blank"><img src="gfx/crab.gif" width="59" height="55" border="0" alt="www.redclawsoftware.com"></a></td><td align="left" valign="middle"><img src="gfx/banner.gif"><br><img src="gfx/1.gif" width="2" height="4"><font class="texttop">Fun downloadable games and pc game demos</font></td></tr></table></td>
+	</tr>
+	<tr>
+		<td class="menu1" width="750" height="25" align="left" valign="middle">&nbsp;<font class="textnorm">Click <a href="javascript:window.external.AddFavorite('http://www.redclawsoftware.com/buy.php?oid=1cdr1trx&afl=544676','Redclaw Software Online Games Store')">HERE</a> to add this site to your favorites list.</font></td>
+	</tr>
+	<tr>
+		<td width="750" height="10"><img src="gfx/1.gif" width="10" height="10"></td>
+	</tr>
+	<tr>
+		<td class="top" width="750" height="25" align="left" valign="middle" background="gfx/m4.gif"><font class="texttitle">&nbsp;Thousands of people are already enjoying our games. Order now to join in the fun!</font></td>
+	</tr>
+	<tr>
+		<td class="main" width="750" align="left" valign="top" background="gfx/buyback.gif">
+
+					<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="80%" align="center" valign="top"><br>
+				<FORM name=form1 onSubmit="return validateForm (form1);" action=https://secure.bmtmicro.com/servlets/Orders.CheckOut method=post>
+				<INPUT type=hidden value=/html/secure/BMT/ECommerce-OffSite/RedClawbuy2.html name=NEXT_PAGE>
+				<INPUT NAME="REFERRAL" TYPE="hidden" value="544676_ba">			
+				<INPUT NAME="AFFILIATEID" TYPE="hidden" value="544676">
+				<table width="545" border="1" cellspacing="0" cellpadding="4" bordercolor="#000000" style="border-collapse:collapse" bgcolor="#FFFFFF">
+					<tr>
+						<td colspan="4" height="40" align="center" valign="middle" bgcolor="#96B2CC"><b>Tick the order boxes for the games you would like (prices in US Dollars)</b></td>
+					</tr>
+					<tr>
+						<td width="80" height="25" bgcolor="#96B2CC">&nbsp;</td>
+						<td width="50" align="center" valign="middle"><b>Order</b></td>
+						<td width="65" align="center" valign="middle"><b>Price</b></td>
+						<td width="350" align="left" valign="middle"><b>Game</b></td>
+					</tr>
+					<tr>
+						<td width="80" bgcolor="#96B2CC"><img src="gfx/buyimg_goobs.gif" width="80" height="64"></td>
+						<td width="50" align="center" valign="middle"><INPUT type=hidden value=9800004 name=PRODUCTID><INPUT type=hidden value=0 name=QUANTITY><INPUT type=checkbox size=2 name=CHECKER ></td>
+						<td width="65" align="center" valign="middle">$19.95</td>
+						<td width="350" align="left" valign="middle"><font class="textbig1" color="#0000FF"><b>The Goobs</b></font><br>Enjoy 50 whole new fun levels, dozens of great user made levels, the built in easy to use editor, and all the full interactive solutions.<br><b>Order now to receive 5 free bonus levels!</b></td>
+					</tr>
+					<tr>
+						<td width="80" bgcolor="#96B2CC"><img src="gfx/buyimg_blockout.gif" width="80" height="64"></td>
+						<td width="50" align="center" valign="middle"><INPUT type=hidden value=98003 name=PRODUCTID><INPUT type=hidden value=0 name=QUANTITY><INPUT type=checkbox size=2 name=CHECKER ></td>
+						<td width="65" align="center" valign="middle">$9.95</td>
+						<td width="350" align="left" valign="middle"><font class="textbig1" color="#0000FF"><b>Blockout</b></font><br>Race against the clock to build large color blocks and score points in this fun, exciting new arcade puzzler.</td>
+					</tr>
+					<tr>
+						<td width="80" bgcolor="#96B2CC"><img src="gfx/buyimg_trilix.gif" width="80" height="64"></td>
+						<td width="50" align="center" valign="middle"><INPUT type=hidden value=9800005 name=PRODUCTID><INPUT type=hidden value=0 name=QUANTITY><INPUT type=checkbox size=2 name=CHECKER CHECKED></td>
+						<td width="65" align="center" valign="middle">$9.95</td>
+						<td width="350" align="left" valign="middle"><font class="textbig1" color="#0000FF"><b>Trilix</b></font><br>Great fast paced action game. How long can <i>you</i> keep the growing pile of blocks under control?</td>
+					</tr>
+					<tr>
+						<td width="80" bgcolor="#96B2CC"><img src="gfx/buyimg_cdrom.gif" width="80" height="64"></td>
+						<td width="50" align="center" valign="middle"><INPUT type=hidden value=9800006 name=PRODUCTID><INPUT type=hidden value=0 name=QUANTITY><INPUT type=checkbox size=2 name=CHECKER CHECKED></td>
+						<td width="65" align="center" valign="middle">$10</td>
+						<td width="350" align="left" valign="middle"><font class="textbig1" color="#0000FF"><b>Games On CdRom</b></font><br>Choose this if you would also like to receive a copy of your ordered games on a CDROM, mailed to anywhere in the world.</td>
+					</tr>
+				</table>
+				<table width="545" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" valign="middle" height="40"><a href="currency.php" target="cur" onClick="open('currency.php','cur','width=400,height=200,location=0,menubar=0,scrollbars=0,status=0,resizable=0,top=32,left=64')">Click here to check the prices in your currency</a></td>
+						<td align="right" valign="middle"><input type="hidden" name="PRODUCTTABLE_ROWTEMPLATE" value="<TR><TD ALIGN=LEFT>##PRODUCTNAME##</TD><TD ALIGN=RIGHT>$##PRODUCTPRICE##</TD></TR>"><input type="submit" name="SUBMIT" value="&nbsp;&nbsp;&nbsp;Order Now&nbsp;&nbsp;&nbsp;"></td>
+					</tr>
+				</table>
+				</form>
+				Toll free phone ordering (US & Canada): 1-800-414-4268<br>Phone ordering is available Monday to Friday, 9AM to 5.30PM ESP (-5 hours GMT)<br>5019 Carolina Beach Road, Wilmington, North Carolina, 28412, USA
+			</td><td width="1%">&nbsp;</td><td width="19%" align="left" valign="top"><img src="gfx/1.gif" width="100" height="4"><br><font class="small2"><b>Worldwide Ordering:</b><br>We accept international orders from all countries. Your credit card will be charged in your country's currency.<br><br><br><b>Immediate Delivery:</b><br>After you order, you will receive an email with your new game download links in less than 10 minutes.<br><br><br><b>Guaranteed:</b><br>All orders are covered by a full no quible 30 day money back guarantee.<br><br><br><b>Secure:</b><br>All online orders are processed by BMT Micro Inc. on a completely secure server.<br><br><br><b>Safe:</b><br>We are dedicated to customer privacy, and never pass on personal information or email addresses to any other company.</td></tr></table>
+
+		</td>
+	</tr>
+	<tr>
+		<td class="menu3" width="750" height="10"><img src="gfx/1.gif" width="10" height="10"></td>
+	</tr>
+	<tr>
+		<td class="menu2" width="750" height="25" align="center" valign="middle">Copyright © 2001-2003 Redclaw Software. All Rights Reserved.&nbsp;|&nbsp;<a href="mailto:support@redclawsoftware.com">support@redclawsoftware.com</a></td>
+	</tr>
+</table>
+</body>
+</html>

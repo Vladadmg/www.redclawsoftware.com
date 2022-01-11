@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>Downloadable Games - Redclaw Software</title>
+<META name="description" CONTENT="Downloadable games from Redclaw Software. Enjoy our new downloadable puzzle games and action games for your PC.">
+<META name="keywords" CONTENT="downloadable games, free game downloads, download games, game downloads, puzzle games, download puzzle games, download game, games and puzzles, puzzle game downloads">
+<META name="robots" content="ALL, INDEX, FOLLOW">
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- download games, puzzle games, computer games -->
+<link rel="stylesheet" href="redclaw.css" Type="text/css">
+<LINK REL="SHORTCUT ICON" HREF="http://www.redclawsoftware.com/favicon.ico">
+</head>
+<body>
+<table width="740" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tr>
+		<td width="390" height="80" bgcolor="#8BAFE3" background="gfx/download_games_redclaw.gif">&nbsp;</td>
+		<td width="350" height="80" bgcolor="#8BAFE3" background="gfx/download_games_top.gif">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2" width="740" height="36" bgcolor="#F3CC1C" background="gfx/download_games_menu.gif" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" width="20%"><a class="menu" href="http://www.redclawsoftware.com/?afl=624837">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td><td align="center" width="20%"><a class="menu" href="http://www.redclawsoftware.com/buy.php?afl=624837">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online Store&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td><td align="center" width="20%"><a class="menu" href="http://www.redclawsoftware.com/support.php?afl=624837">&nbsp;&nbsp;Game Support&nbsp;&nbsp;</a></td><td align="center" width="20%"><a class="menu" href="http://www.redclawsoftware.com/contact.php?afl=624837">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td><td align="center" width="20%"><a class="menu" href="http://www.redclawsoftware.com/affiliate.php?afl=624837">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Affiliates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></table></td>
+	</tr>
+</table>
+<img src="gfx/1.gif" width="16" height="16">
+<table width="740" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td width="16" height="16"><img src="gfx/b1.gif" width="16" height="16"></td>
+		<td width="708" height="16" background="gfx/b2.gif"><img src="gfx/1.gif" width="708" height="16"></td>
+		<td width="16" height="16"><img src="gfx/b3.gif" width="16" height="16"></td>
+	</tr>
+	<tr>
+		<td width="16" background="gfx/b7.gif"><img src="gfx/1.gif" width="16" height="16"></td>
+		<td width="708" align="left" valign="top">
+			<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+				<tr>
+					<td width="50%" align="left" valign="top">General enquiries about Redclaw Software, our games, and our website:</td>
+					<td width="50%" align="left" valign="top"><a href="mailto:games@redclawsoftware.com">games@redclawsoftware.com</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><hr></td>
+				</tr>
+				<tr>
+					<td width="50%" align="left" valign="top">If you are having trouble getting a game to work correctly or have a question of a problematic nature:</td>
+					<td width="50%" align="left" valign="top"><a href="mailto:support@redclawsoftware.com">support@redclawsoftware.com</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><hr></td>
+				</tr>
+				<tr>
+					<td width="50%" align="left" valign="top">For all other enquiries & questions:</td>
+					<td width="50%" align="left" valign="top"><a href="mailto:info@redclawsoftware.com">info@redclawsoftware.com</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><hr></td>
+				</tr>
+				<tr>
+					<td colspan="2">	
+						<div align="center">Alternatively, you may use this form to contact us:</div><form method="post" action="http://www.redclawsoftware.com/cgi-bin/c.cgi"><table width="500" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td width="250"><b>Your Name:</b></td><td width="250"><input type="text" name="Name" size="53"></td></tr><tr><td colspan="2"><p>&nbsp;</p></td></tr><tr><td width="250"><b>Your Email:</b></td><td width="250"><input type="text" name="Email" size="53"></td></tr><tr><td colspan="2"><p>&nbsp;</p></td></tr><tr><td width="250"><b>Message:</b></td><td width="250"><textarea name="Message" cols="40" rows="8"></textarea></td></tr><tr><td colspan="2"><p>&nbsp;</p></td></tr><tr><td colspan="2" align="right"><input type="hidden" name="page" value="contact"><input type="hidden" name="oid" value=""><input type="hidden" name="afl" value="624837"><input type="submit" name="Submit" value="Send Message"></td></tr></table></form>					</td>
+				</tr>
+			</table>
+		</td>
+		<td width="16" background="gfx/b8.gif"><img src="gfx/1.gif" width="16" height="16"></td>
+	</tr>
+	<tr>
+		<td width="16" height="16"><img src="gfx/b11.gif" width="16" height="16"></td>
+		<td width="708" height="16" background="gfx/b12.gif"><img src="gfx/1.gif" width="708" height="16"></td>
+		<td width="16" height="16"><img src="gfx/b13.gif" width="16" height="16"></td>
+	</tr>
+</table>
+<div align="center">Copyright © 2001-2004 Redclaw Software. All Rights Reserved.<br>
+</body>
+</html>
